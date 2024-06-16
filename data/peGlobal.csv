@@ -1,4 +1,4 @@
-Industry Nsmr,Number of firms,% of Money Losing firms (Trailing),Current PE,Trailing PE,Forward PE,Aggregate Mkt Cap/ Net Income (all firms),Aggregate Mkt Cap/ Trailing Net Income (only money making firms),Expected growth - next 5 years,PEG Ratio
+Industry Name,Number of firms,% of Money Losing firms (Trailing),Current PE,Trailing PE,Forward PE,Aggregate Mkt Cap/ Net Income (all firms),Aggregate Mkt Cap/ Trailing Net Income (only money making firms),Expected growth - next 5 years,PEG Ratio
 Advertising,391,0.42710997442455245,86.72754235017013,53.67686365127595,21.64719514330448,31.943033237841806,20.265734496621576,0.3341272727272727,0.6065273969168997
 Aerospace/Defense,289,0.38754325259515576,66.37094138226077,77.14560185913516,34.067709204184425,50.18459323364099,24.849980469594122,0.24257924528301883,1.0244067022552357
 Air Transport,155,0.34838709677419355,389.2352091168647,96.63158394397243,21.326760695955084,496.21610164220306,9.55371048000671,0.30184333333333335,0.31651222422250097
