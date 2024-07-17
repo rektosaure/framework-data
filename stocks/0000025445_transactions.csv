@@ -1,4 +1,29 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+A,2024-05-23,,DINKINS MICHAEL,4,A-Award,--D,101.0,12629.0,2,1123483,Deferred Stock Units
+A,2024-05-23,,DINKINS MICHAEL,4,A-Award,--D,2377.0,12528.0,1,1123483,Deferred Stock Units
+A,2024-05-23,,Grogan William K,4,A-Award,--D,29.0,5249.0,2,1694002,Deferred Stock Units
+A,2024-05-23,,Grogan William K,4,A-Award,--D,2377.0,5220.0,1,1694002,Deferred Stock Units
+A,2024-05-23,,Joyce Sandra,4,A-Award,--D,2698.0,2698.0,1,2018871,Deferred Stock Units
+A,2024-05-23,,Kogl Cristen L,4,A-Award,--D,29.0,6725.0,2,1751076,Deferred Stock Units
+A,2024-05-23,,Kogl Cristen L,4,A-Award,--D,3853.0,6696.0,1,1751076,Deferred Stock Units
+A,2024-05-23,,HAIME ELLEN MCCLAIN,4,A-Award,--D,214.0,25248.0,2,1208823,Deferred Stock Units
+A,2024-05-23,,HAIME ELLEN MCCLAIN,4,A-Award,--D,2673.0,25034.0,1,1208823,Deferred Stock Units
+A,2024-05-23,,PETRATIS DAVID D,4,A-Award,--D,14.0,5660.0,2,1299140,Deferred Stock Units
+A,2024-05-23,,PETRATIS DAVID D,4,A-Award,--D,3853.0,5646.0,1,1299140,Deferred Stock Units
+A,2024-05-23,,Stroup John S,4,A-Award,--D,68.0,11218.0,2,1340794,Deferred Stock Units
+A,2024-05-23,,Stroup John S,4,A-Award,--D,4509.0,11150.0,1,1340794,Deferred Stock Units
+A,2024-05-23,,TULLIS JAMES L L,4,A-Award,--D,301.0,33490.0,2,1230641,Deferred Stock Units
+A,2024-05-23,,TULLIS JAMES L L,4,A-Award,--D,2377.0,33189.0,1,1230641,Deferred Stock Units
+A,2024-05-03,,Keayes Samuel,4,A-Award,--D,3251.0,11350.0,1,2021297,Restricted Share Unit
+D,2024-04-20,,Cristiano Christina,4,M-Exempt,--D,3300.0,14816.0,3,1781353,Restricted Share Unit
+D,2024-04-20,,Cristiano Christina,4,F-InKind,--D,1685.0,4538.0,2,1781353,COMMON STOCK
+A,2024-04-20,,Cristiano Christina,4,M-Exempt,--D,3300.0,6223.0,1,1781353,COMMON STOCK
+D,2024-04-20,,Kartono Jennifer,4,M-Exempt,--D,2792.0,10749.0,3,1974421,Restricted Share Unit
+D,2024-04-20,,Kartono Jennifer,4,F-InKind,--D,1239.0,1553.0,2,1974421,COMMON STOCK
+A,2024-04-20,,Kartono Jennifer,4,M-Exempt,--D,2792.0,2792.0,1,1974421,COMMON STOCK
+D,2024-04-20,,Shardelow Bianca B.,4,M-Exempt,--D,355.0,4993.0,3,1971174,Restricted Share Unit
+D,2024-04-20,,Shardelow Bianca B.,4,F-InKind,--D,128.0,2090.0,2,1971174,COMMON STOCK
+A,2024-04-20,,Shardelow Bianca B.,4,M-Exempt,--D,355.0,2218.0,1,1971174,COMMON STOCK
 D,2024-03-20,,Igoe Paul Gerard,4,M-Exempt,--D,4739.0,17671.0,3,1461136,Restricted Share Unit
 D,2024-03-20,,Igoe Paul Gerard,4,F-InKind,--D,1438.0,3301.0,2,1461136,COMMON STOCK
 A,2024-03-20,,Igoe Paul Gerard,4,M-Exempt,--D,4739.0,4739.0,1,1461136,COMMON STOCK
@@ -6027,6 +6052,17 @@ A,2003-07-28,,DICKOFF GIL,4,M-Exempt,--D,16264.0,0.0,1,1230648,"CRANE CO. COMMON
 -,-,,NOONAN THOMAS MICHAEL,4,-,--I,,2664.0,5,1234628,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,DICKOFF G A,4,-,--I,,5558.0,2,1230648,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,ATKINSON JOAN,4,-,--I,,1159.0,3,1230646,"CRANE CO. COMMON, PAR VALUE $1.00"
+-,-,,Keayes Samuel,3,-,--D,,,11,2021297,Restricted Share Unit
+-,-,,Keayes Samuel,3,-,--D,,,10,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,9,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,8,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,7,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,6,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,5,2021297,Employee Stock Option (Right to Buy)
+-,-,,Keayes Samuel,3,-,--D,,,4,2021297,2024 Performance-Based Restricted Share Unit
+-,-,,Keayes Samuel,3,-,--D,,,3,2021297,2023 Performance-Based Restricted Share Unit
+-,-,,Keayes Samuel,3,-,--D,,,2,2021297,2022 Performance-Based Restricted Share Unit
+-,-,,Keayes Samuel,3,-,--D,,9565.0,1,2021297,COMMON STOCK
 -,-,,MITCHELL MAX H,4,-,--I,,2922.0,3,1283695,COMMON STOCK
 -,-,,Gallo Kurt F.,4,-,--I,,1450.0,4,1772908,COMMON STOCK
 -,-,,Gallo Kurt F.,4,-,--I,,29498.0,3,1772908,COMMON STOCK
