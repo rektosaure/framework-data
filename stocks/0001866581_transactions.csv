@@ -1,0 +1,674 @@
+Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-05-29,,"DM Individual Aggregator, LLC",4,S-Sale,--D,16452.0,634543.0,1,1883096,Class A Common Stock
+D,2024-05-29,,"DM Trust Aggregator, LLC",4,S-Sale,--D,248346.0,1008992.0,1,1883105,Class A Common Stock
+D,2024-05-29,,Boersma Travis,4,S-Sale,--I,16452.0,634543.0,2,1883154,Class A Common Stock
+D,2024-05-29,,Boersma Travis,4,S-Sale,--I,248346.0,1008992.0,1,1883154,Class A Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,175.0,519035.0,20,1882776,Class D Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,205789.0,519210.0,19,1882776,Class D Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,8153.0,1694966.0,18,1882776,Class D Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,692107.0,1703119.0,17,1882776,Class D Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,57246.0,509036.0,16,1882776,Class A Common LLC Units
+D,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,115181.0,566282.0,15,1882776,Class A Common LLC Units
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,287773.0,6745426.0,14,1882776,Class A Common LLC Units
+D,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,2390847.0,7033199.0,13,1882776,Class A Common LLC Units
+D,2024-05-29,,TSG7 A Management LLC,4,S-Sale,--I,205789.0,0.0,12,1882776,Class A Common Stock
+A,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,205789.0,205789.0,11,1882776,Class A Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,S-Sale,--I,692107.0,0.0,10,1882776,Class A Common Stock
+A,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,692107.0,692107.0,9,1882776,Class A Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,57246.0,509036.0,8,1882776,Class C Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,S-Sale,--I,115181.0,0.0,7,1882776,Class A Common Stock
+A,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,115181.0,115181.0,6,1882776,Class A Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,115181.0,566282.0,5,1882776,Class C Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,287773.0,6748426.0,4,1882776,Class C Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,S-Sale,--I,2390847.0,18050.0,3,1882776,Class A Common Stock
+A,2024-05-29,,TSG7 A Management LLC,4,C-Conversion,--I,2390847.0,2408897.0,2,1882776,Class A Common Stock
+D,2024-05-29,,TSG7 A Management LLC,4,J-Other,--I,2390847.0,7033199.0,1,1882776,Class C Common Stock
+D,2024-05-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,49738.0,1257338.0,4,1883105,Class A Common Stock
+D,2024-05-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,42903.0,1307076.0,3,1883105,Class A Common Stock
+D,2024-05-23,,Boersma Travis,4,S-Sale,--I,49738.0,1257338.0,4,1883154,Class A Common Stock
+D,2024-05-23,,Boersma Travis,4,S-Sale,--I,42903.0,1307076.0,3,1883154,Class A Common Stock
+D,2024-05-22,,"DM Individual Aggregator, LLC",4,S-Sale,--D,107307.0,650995.0,1,1883096,Class A Common Stock
+D,2024-05-22,,"DM Trust Aggregator, LLC",4,S-Sale,--D,3340.0,1349979.0,2,1883105,Class A Common Stock
+D,2024-05-22,,"DM Trust Aggregator, LLC",4,S-Sale,--D,146707.0,1353319.0,1,1883105,Class A Common Stock
+D,2024-05-22,,Boersma Travis,4,S-Sale,--I,107307.0,650995.0,5,1883154,Class A Common Stock
+D,2024-05-22,,Boersma Travis,4,S-Sale,--I,3340.0,1349979.0,2,1883154,Class A Common Stock
+D,2024-05-22,,Boersma Travis,4,S-Sale,--I,146707.0,1353319.0,1,1883154,Class A Common Stock
+D,2024-05-21,,"DM Trust Aggregator, LLC",4,S-Sale,--D,116282.0,1500026.0,3,1883105,Class A Common Stock
+D,2024-05-21,,"DM Individual Aggregator, LLC",4,S-Sale,--D,113462.0,758302.0,2,1883096,Class A Common Stock
+D,2024-05-21,,Boersma Travis,4,S-Sale,--I,113462.0,758302.0,5,1883154,Class A Common Stock
+D,2024-05-21,,Boersma Travis,4,S-Sale,--I,116282.0,1500026.0,3,1883154,Class A Common Stock
+D,2024-05-20,,"DM Trust Aggregator, LLC",4,S-Sale,--D,5856.0,1616308.0,2,1883105,Class A Common Stock
+D,2024-05-20,,"DM Trust Aggregator, LLC",4,S-Sale,--D,160738.0,1622164.0,1,1883105,Class A Common Stock
+D,2024-05-20,,"DM Individual Aggregator, LLC",4,S-Sale,--D,167475.0,871764.0,1,1883096,Class A Common Stock
+D,2024-05-20,,Boersma Travis,4,S-Sale,--I,167475.0,871764.0,4,1883154,Class A Common Stock
+D,2024-05-20,,Boersma Travis,4,S-Sale,--I,5856.0,1616308.0,2,1883154,Class A Common Stock
+D,2024-05-20,,Boersma Travis,4,S-Sale,--I,160738.0,1622164.0,1,1883154,Class A Common Stock
+D,2024-05-17,,"DM Trust Aggregator, LLC",4,S-Sale,--D,54058.0,1782902.0,2,1883105,Class A Common Stock
+D,2024-05-17,,"DM Trust Aggregator, LLC",4,S-Sale,--D,165416.0,1836960.0,1,1883105,Class A Common Stock
+D,2024-05-17,,"DM Individual Aggregator, LLC",4,S-Sale,--D,54031.0,1039239.0,2,1883096,Class A Common Stock
+D,2024-05-17,,"DM Individual Aggregator, LLC",4,S-Sale,--D,166005.0,1093270.0,1,1883096,Class A Common Stock
+D,2024-05-17,,Boersma Travis,4,S-Sale,--I,54031.0,1039239.0,4,1883154,Class A Common Stock
+D,2024-05-17,,Boersma Travis,4,S-Sale,--I,166005.0,1093270.0,3,1883154,Class A Common Stock
+D,2024-05-17,,Boersma Travis,4,S-Sale,--I,54058.0,1782902.0,2,1883154,Class A Common Stock
+D,2024-05-17,,Boersma Travis,4,S-Sale,--I,165416.0,1836960.0,1,1883154,Class A Common Stock
+D,2024-05-16,,"DM Trust Aggregator, LLC",4,J-Other,--D,14700075.0,20607740.0,3,1883105,Class B Common Stock
+D,2024-05-16,,"DM Individual Aggregator, LLC",4,J-Other,--D,8041325.0,14163460.0,3,1883096,Class B Common Stock
+D,2024-05-16,,Boersma Travis,4,J-Other,--I,258600.0,455480.0,7,1883154,Class B Common Stock
+D,2024-05-16,,Boersma Travis,4,J-Other,--I,8041325.0,14163460.0,6,1883154,Class B Common Stock
+D,2024-05-16,,Boersma Travis,4,J-Other,--I,14700075.0,20607740.0,5,1883154,Class B Common Stock
+A,2024-05-14,,Davis Thomas James,4,A-Award,--D,3049.0,3049.0,3,1884188,Restricted Stock Units
+D,2024-05-14,,Davis Thomas James,4,M-Exempt,--D,938.0,0.0,2,1884188,Restricted Stock Units
+A,2024-05-14,,Davis Thomas James,4,M-Exempt,--D,938.0,9293.0,1,1884188,Class A Common Stock
+A,2024-05-14,,George Kathryn,4,A-Award,--D,3049.0,3049.0,3,1883130,Restricted Stock Units
+D,2024-05-14,,George Kathryn,4,M-Exempt,--D,938.0,0.0,2,1883130,Restricted Stock Units
+A,2024-05-14,,George Kathryn,4,M-Exempt,--D,938.0,9293.0,1,1883130,Class A Common Stock
+A,2024-05-14,,Gillett Stephen,4,A-Award,--D,3049.0,3049.0,3,1492029,Restricted Stock Units
+D,2024-05-14,,Gillett Stephen,4,M-Exempt,--D,938.0,0.0,2,1492029,Restricted Stock Units
+A,2024-05-14,,Gillett Stephen,4,M-Exempt,--D,938.0,13679.0,1,1492029,Class A Common Stock
+A,2024-05-14,,Miller Ann M,4,A-Award,--D,3049.0,3049.0,3,1911661,Restricted Stock Units
+D,2024-05-14,,Miller Ann M,4,M-Exempt,--D,938.0,0.0,2,1911661,Restricted Stock Units
+A,2024-05-14,,Miller Ann M,4,M-Exempt,--D,938.0,6496.0,1,1911661,Class A Common Stock
+D,2024-05-14,,Cone C. David,4,M-Exempt,--D,1612.0,0.0,4,1570143,Restricted Stock Units
+A,2024-05-14,,Cone C. David,4,A-Award,--D,1612.0,1612.0,3,1570143,Restricted Stock Units
+A,2024-05-14,,Cone C. David,4,A-Award,--D,3049.0,3049.0,2,1570143,Restricted Stock Units
+A,2024-05-14,,Cone C. David,4,M-Exempt,--D,1612.0,1612.0,1,1570143,Class A Common Stock
+D,2024-05-14,,Sullivan Sean B.A.,4,M-Exempt,--D,1612.0,0.0,4,1850132,Restricted Stock Units
+A,2024-05-14,,Sullivan Sean B.A.,4,A-Award,--D,1612.0,1612.0,3,1850132,Restricted Stock Units
+A,2024-05-14,,Sullivan Sean B.A.,4,A-Award,--D,3049.0,3049.0,2,1850132,Restricted Stock Units
+A,2024-05-14,,Sullivan Sean B.A.,4,M-Exempt,--D,1612.0,1612.0,1,1850132,Class A Common Stock
+D,2024-05-14,,"DM Trust Aggregator, LLC",4,S-Sale,--D,114407.0,2002376.0,1,1883105,Class A Common Stock
+D,2024-05-14,,"DM Individual Aggregator, LLC",4,S-Sale,--D,22468.0,1259275.0,1,1883096,Class A Common Stock
+D,2024-05-14,,Boersma Travis,4,S-Sale,--I,22468.0,1259275.0,2,1883154,Class A Common Stock
+D,2024-05-14,,Boersma Travis,4,S-Sale,--I,114407.0,2002376.0,1,1883154,Class A Common Stock
+D,2024-05-13,,"DM Individual Aggregator, LLC",4,S-Sale,--D,27224.0,1281743.0,1,1883096,Class A Common Stock
+D,2024-05-13,,"DM Trust Aggregator, LLC",4,S-Sale,--D,27135.0,2116783.0,1,1883105,Class A Common Stock
+D,2024-05-13,,Boersma Travis,4,S-Sale,--I,27224.0,1281743.0,2,1883154,Class A Common Stock
+D,2024-05-13,,Boersma Travis,4,S-Sale,--I,27135.0,2116783.0,1,1883154,Class A Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,676.0,724999.0,20,1882776,Class D Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,793331.0,725675.0,19,1882776,Class D Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,21714.0,2395226.0,18,1882776,Class D Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,2672601.0,2416940.0,17,1882776,Class D Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,212524.0,681463.0,16,1882776,Class A Common LLC Units
+D,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,460102.0,893987.0,15,1882776,Class A Common LLC Units
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,1083440.0,9424046.0,14,1882776,Class A Common LLC Units
+D,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,9240193.0,10507486.0,13,1882776,Class A Common LLC Units
+D,2024-05-13,,TSG7 A Management LLC,4,S-Sale,--I,793331.0,0.0,12,1882776,Class A Common Stock
+A,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,793331.0,793331.0,11,1882776,Class A Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,S-Sale,--I,2672601.0,0.0,10,1882776,Class A Common Stock
+A,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,2672601.0,2672601.0,9,1882776,Class A Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,212524.0,681463.0,8,1882776,Class C Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,S-Sale,--I,460102.0,0.0,7,1882776,Class A Common Stock
+A,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,460102.0,460102.0,6,1882776,Class A Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,460102.0,893987.0,5,1882776,Class C Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,1083440.0,9424046.0,4,1882776,Class C Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,S-Sale,--I,9240193.0,18050.0,3,1882776,Class A Common Stock
+A,2024-05-13,,TSG7 A Management LLC,4,C-Conversion,--I,9240193.0,9258243.0,2,1882776,Class A Common Stock
+D,2024-05-13,,TSG7 A Management LLC,4,J-Other,--I,9240193.0,10507486.0,1,1882776,Class C Common Stock
+D,2024-05-10,,"DM Individual Aggregator, LLC",4,S-Sale,--D,57692.0,1308967.0,1,1883096,Class A Common Stock
+D,2024-05-10,,"DM Trust Aggregator, LLC",4,S-Sale,--D,57586.0,2143918.0,1,1883105,Class A Common Stock
+D,2024-05-10,,Boersma Travis,4,S-Sale,--I,57692.0,1308967.0,2,1883154,Class A Common Stock
+D,2024-05-10,,Boersma Travis,4,S-Sale,--I,57586.0,2143918.0,1,1883154,Class A Common Stock
+D,2024-04-19,,Boersma Travis,4,C-Conversion,--I,694220.0,22204785.0,7,1883154,Class A Common Units
+D,2024-04-19,,Boersma Travis,4,C-Conversion,--I,1150326.0,35307815.0,6,1883154,Class A Common Units
+D,2024-04-19,,Boersma Travis,4,C-Conversion,--I,694220.0,22204785.0,4,1883154,Class B Common Stock
+D,2024-04-19,,Boersma Travis,4,C-Conversion,--I,1150326.0,35307815.0,3,1883154,Class B Common Stock
+A,2024-04-19,,Boersma Travis,4,C-Conversion,--I,694220.0,1366659.0,2,1883154,Class A Common Stock
+A,2024-04-19,,Boersma Travis,4,C-Conversion,--I,1150326.0,2201504.0,1,1883154,Class A Common Stock
+D,2024-04-19,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,694220.0,22204785.0,3,1883096,Class A Common Units
+D,2024-04-19,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,694220.0,22204785.0,2,1883096,Class B Common Stock
+A,2024-04-19,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,694220.0,1366659.0,1,1883096,Class A Common Stock
+D,2024-04-19,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,1150326.0,35307815.0,3,1883105,Class A Common Units
+D,2024-04-19,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,1150326.0,35307815.0,2,1883105,Class B Common Stock
+A,2024-04-19,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,1150326.0,2201504.0,1,1883105,Class A Common Stock
+D,2024-03-31,,Davis Thomas James,4,M-Exempt,--D,938.0,938.0,2,1884188,Restricted Stock Units
+A,2024-03-31,,Davis Thomas James,4,M-Exempt,--D,938.0,8355.0,1,1884188,Class A Common Stock
+D,2024-03-31,,George Kathryn,4,M-Exempt,--D,938.0,938.0,2,1883130,Restricted Stock Units
+A,2024-03-31,,George Kathryn,4,M-Exempt,--D,938.0,8355.0,1,1883130,Class A Common Stock
+D,2024-03-31,,Gillett Stephen,4,M-Exempt,--D,938.0,938.0,2,1492029,Restricted Stock Units
+A,2024-03-31,,Gillett Stephen,4,M-Exempt,--D,938.0,12741.0,1,1492029,Class A Common Stock
+D,2024-03-31,,Miller Ann M,4,M-Exempt,--D,938.0,938.0,2,1911661,Restricted Stock Units
+A,2024-03-31,,Miller Ann M,4,M-Exempt,--D,938.0,5558.0,1,1911661,Class A Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,174.0,1519006.0,20,1882776,Class D Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,459735.0,1519180.0,19,1882776,Class D Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,6367.0,5089541.0,18,1882776,Class D Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,1551187.0,5095908.0,17,1882776,Class D Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,68117.0,1354088.0,16,1882776,Class A Common LLC Units
+D,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,324735.0,1422205.0,15,1882776,Class A Common LLC Units
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,315165.0,19747675.0,14,1882776,Class A Common LLC Units
+D,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,5664343.0,20062840.0,13,1882776,Class A Common LLC Units
+D,2024-03-26,,TSG7 A Management LLC,4,S-Sale,--I,459735.0,0.0,12,1882776,Class A Common Stock
+A,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,459735.0,459735.0,11,1882776,Class A Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,S-Sale,--I,1551187.0,0.0,10,1882776,Class A Common Stock
+A,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,1551187.0,1551187.0,9,1882776,Class A Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,68117.0,1354088.0,8,1882776,Class C Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,S-Sale,--I,324735.0,0.0,7,1882776,Class A Common Stock
+A,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,324735.0,324735.0,6,1882776,Class A Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,324735.0,1422205.0,5,1882776,Class C Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,315165.0,19747675.0,4,1882776,Class C Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,S-Sale,--I,5664343.0,18050.0,3,1882776,Class A Common Stock
+A,2024-03-26,,TSG7 A Management LLC,4,C-Conversion,--I,5664343.0,5682393.0,2,1882776,Class A Common Stock
+D,2024-03-26,,TSG7 A Management LLC,4,J-Other,--I,5664343.0,20062840.0,1,1882776,Class C Common Stock
+D,2024-03-21,,Maxwell Brian,4,S-Sale,--D,36026.0,1003620.0,1,1883061,Class A Common Stock
+D,2024-03-21,,Boersma Travis,4,S-Sale,--I,48799.0,672439.0,2,1883154,Class A Common Stock
+D,2024-03-21,,Boersma Travis,4,S-Sale,--I,49218.0,1051178.0,1,1883154,Class A Common Stock
+D,2024-03-21,,"DM Trust Aggregator, LLC",4,S-Sale,--D,49218.0,1051178.0,1,1883105,Class A Common Stock
+D,2024-03-21,,"DM Individual Aggregator, LLC",4,S-Sale,--D,48799.0,672439.0,1,1883096,Class A Common Stock
+D,2024-03-14,,Maxwell Brian,4,S-Sale,--D,1474.0,1039646.0,1,1883061,Class A Common Stock
+D,2024-03-13,,Boersma Travis,4,S-Sale,--I,102292.0,721238.0,2,1883154,Class A Common Stock
+D,2024-03-13,,Boersma Travis,4,S-Sale,--I,194311.0,1100396.0,1,1883154,Class A Common Stock
+D,2024-03-13,,"DM Individual Aggregator, LLC",4,S-Sale,--D,102292.0,721238.0,1,1883096,Class A Common Stock
+D,2024-03-13,,"DM Trust Aggregator, LLC",4,S-Sale,--D,194311.0,1100396.0,1,1883105,Class A Common Stock
+D,2024-03-12,,"DM Trust Aggregator, LLC",4,S-Sale,--D,54035.0,1294707.0,4,1883105,Class A Common Stock
+D,2024-03-12,,"DM Trust Aggregator, LLC",4,S-Sale,--D,59506.0,1348742.0,3,1883105,Class A Common Stock
+D,2024-03-12,,"DM Trust Aggregator, LLC",4,S-Sale,--D,102631.0,1408248.0,2,1883105,Class A Common Stock
+D,2024-03-12,,"DM Individual Aggregator, LLC",4,S-Sale,--D,53891.0,823530.0,3,1883096,Class A Common Stock
+D,2024-03-12,,"DM Individual Aggregator, LLC",4,S-Sale,--D,68327.0,877421.0,2,1883096,Class A Common Stock
+D,2024-03-12,,Boersma Travis,4,S-Sale,--I,53891.0,823530.0,7,1883154,Class A Common Stock
+D,2024-03-12,,Boersma Travis,4,S-Sale,--I,54035.0,1294707.0,6,1883154,Class A Common Stock
+D,2024-03-12,,Boersma Travis,4,S-Sale,--I,68327.0,877421.0,5,1883154,Class A Common Stock
+D,2024-03-12,,Boersma Travis,4,S-Sale,--I,59506.0,1348742.0,4,1883154,Class A Common Stock
+D,2024-03-12,,Boersma Travis,4,S-Sale,--I,102631.0,1408248.0,3,1883154,Class A Common Stock
+D,2024-03-12,,Maxwell Brian,4,S-Sale,--D,37500.0,1041120.0,1,1883061,Class A Common Stock
+D,2024-03-11,,"DM Trust Aggregator, LLC",4,S-Sale,--D,86209.0,1510879.0,1,1883105,Class A Common Stock
+D,2024-03-11,,"DM Individual Aggregator, LLC",4,S-Sale,--D,87856.0,945748.0,1,1883096,Class A Common Stock
+D,2024-03-11,,Boersma Travis,4,S-Sale,--I,87856.0,945748.0,2,1883154,Class A Common Stock
+D,2024-03-11,,Boersma Travis,4,S-Sale,--I,86209.0,1510879.0,1,1883154,Class A Common Stock
+A,2024-03-08,,Jemley Charles,4,G-Gift,--I,169603.0,1070032.0,2,1716761,Class A Common Stock
+D,2024-03-08,,Jemley Charles,4,G-Gift,--D,169603.0,0.0,1,1716761,Class A Common Stock
+D,2024-03-04,,Boersma Travis,4,S-Sale,--I,148916.0,1033604.0,2,1883154,Class A Common Stock
+D,2024-03-04,,Boersma Travis,4,S-Sale,--I,240490.0,1597088.0,1,1883154,Class A Common Stock
+D,2024-03-04,,"DM Trust Aggregator, LLC",4,S-Sale,--D,240490.0,1597088.0,1,1883105,Class A Common Stock
+D,2024-03-04,,"DM Individual Aggregator, LLC",4,S-Sale,--D,148916.0,1033604.0,1,1883096,Class A Common Stock
+A,2024-03-01,,Barone Christine,4,A-Award,--D,60667.0,60667.0,1,1804370,Restricted Stock Units
+A,2024-03-01,,DAVILA TANA,4,A-Award,--D,16852.0,16852.0,1,1981137,Restricted Stock Units
+A,2024-03-01,,Jemley Charles,4,A-Award,--D,21907.0,21907.0,1,1716761,Restricted Stock Units
+A,2024-03-01,,Maxwell Brian,4,A-Award,--D,16852.0,16852.0,1,1883061,Restricted Stock Units
+A,2024-03-01,,Tullett Victoria J,4,A-Award,--D,26963.0,26963.0,1,1606719,Restricted Stock Units
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,174.0,1978915.0,20,1882776,Class D Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,459380.0,1979089.0,19,1882776,Class D Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,2634.0,6647095.0,18,1882776,Class D Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,1545236.0,6649729.0,17,1882776,Class D Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,69586.0,1746940.0,16,1882776,Class A Common LLC Units
+D,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,331737.0,1816526.0,15,1882776,Class A Common LLC Units
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,310969.0,25727183.0,14,1882776,Class A Common LLC Units
+D,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,5663647.0,26038152.0,13,1882776,Class A Common LLC Units
+D,2024-03-01,,TSG7 A Management LLC,4,S-Sale,--I,459380.0,0.0,12,1882776,Class A Common Stock
+A,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,459380.0,459380.0,11,1882776,Class A Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,S-Sale,--I,1545236.0,0.0,10,1882776,Class A Common Stock
+A,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,1545236.0,1545236.0,9,1882776,Class A Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,69586.0,1746940.0,8,1882776,Class C Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,S-Sale,--I,331737.0,0.0,7,1882776,Class A Common Stock
+A,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,331737.0,331737.0,6,1882776,Class A Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,331737.0,1816526.0,5,1882776,Class C Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,310969.0,25727183.0,4,1882776,Class C Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,S-Sale,--I,5663647.0,18050.0,3,1882776,Class A Common Stock
+A,2024-03-01,,TSG7 A Management LLC,4,C-Conversion,--I,5663647.0,5681697.0,2,1882776,Class A Common Stock
+D,2024-03-01,,TSG7 A Management LLC,4,J-Other,--I,5663647.0,26038152.0,1,1882776,Class C Common Stock
+D,2024-02-26,,"DM Trust Aggregator, LLC",4,S-Sale,--D,7856.0,1837578.0,3,1883105,Class A Common Stock
+D,2024-02-26,,"DM Trust Aggregator, LLC",4,S-Sale,--D,59362.0,1845434.0,2,1883105,Class A Common Stock
+D,2024-02-26,,"DM Trust Aggregator, LLC",4,S-Sale,--D,59668.0,1904796.0,1,1883105,Class A Common Stock
+D,2024-02-26,,"DM Individual Aggregator, LLC",4,S-Sale,--D,7267.0,1182520.0,1,1883096,Class A Common Stock
+D,2024-02-26,,Boersma Travis,4,S-Sale,--I,7267.0,1182520.0,4,1883154,Class A Common Stock
+D,2024-02-26,,Boersma Travis,4,S-Sale,--I,7856.0,1837578.0,3,1883154,Class A Common Stock
+D,2024-02-26,,Boersma Travis,4,S-Sale,--I,59362.0,1845434.0,2,1883154,Class A Common Stock
+D,2024-02-26,,Boersma Travis,4,S-Sale,--I,59668.0,1904796.0,1,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,88755.0,1189787.0,12,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,88622.0,1278542.0,11,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,11519.0,1367164.0,10,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,121292.0,1964464.0,6,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,121414.0,2085756.0,5,1883154,Class A Common Stock
+D,2024-02-23,,Boersma Travis,4,S-Sale,--I,104624.0,2207170.0,4,1883154,Class A Common Stock
+D,2024-02-23,,"DM Individual Aggregator, LLC",4,S-Sale,--D,88755.0,1189787.0,6,1883096,Class A Common Stock
+D,2024-02-23,,"DM Individual Aggregator, LLC",4,S-Sale,--D,88622.0,1278542.0,5,1883096,Class A Common Stock
+D,2024-02-23,,"DM Individual Aggregator, LLC",4,S-Sale,--D,11519.0,1367164.0,4,1883096,Class A Common Stock
+D,2024-02-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,121292.0,1964464.0,6,1883105,Class A Common Stock
+D,2024-02-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,121414.0,2085756.0,5,1883105,Class A Common Stock
+D,2024-02-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,104624.0,2207170.0,4,1883105,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67514.0,1378683.0,9,1883154,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67428.0,1446197.0,8,1883154,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67561.0,1513625.0,7,1883154,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67491.0,2311794.0,3,1883154,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67386.0,2379285.0,2,1883154,Class A Common Stock
+D,2024-02-22,,Boersma Travis,4,S-Sale,--I,67570.0,2446671.0,1,1883154,Class A Common Stock
+D,2024-02-22,,"DM Individual Aggregator, LLC",4,S-Sale,--D,67514.0,1378683.0,3,1883096,Class A Common Stock
+D,2024-02-22,,"DM Individual Aggregator, LLC",4,S-Sale,--D,67428.0,1446197.0,2,1883096,Class A Common Stock
+D,2024-02-22,,"DM Individual Aggregator, LLC",4,S-Sale,--D,67561.0,1513625.0,1,1883096,Class A Common Stock
+D,2024-02-22,,"DM Trust Aggregator, LLC",4,S-Sale,--D,67491.0,2311794.0,3,1883105,Class A Common Stock
+D,2024-02-22,,"DM Trust Aggregator, LLC",4,S-Sale,--D,67386.0,2379285.0,2,1883105,Class A Common Stock
+D,2024-02-22,,"DM Trust Aggregator, LLC",4,S-Sale,--D,67570.0,2446671.0,1,1883105,Class A Common Stock
+D,2024-01-24,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,233333.0,22899005.0,3,1883096,Class A Common Units
+D,2024-01-24,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,233333.0,22899005.0,2,1883096,Class B Common Stock
+A,2024-01-24,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,233333.0,1581186.0,1,1883096,Class A Common Stock
+D,2024-01-24,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,324577.0,36458141.0,3,1883105,Class A Common Units
+D,2024-01-24,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,324577.0,36458141.0,2,1883105,Class B Common Stock
+A,2024-01-24,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,324577.0,2514241.0,1,1883105,Class A Common Stock
+D,2024-01-24,,Boersma Travis,4,C-Conversion,--I,233333.0,22899005.0,7,1883154,Class A Common Units
+D,2024-01-24,,Boersma Travis,4,C-Conversion,--I,324577.0,36458141.0,6,1883154,Class A Common Units
+D,2024-01-24,,Boersma Travis,4,C-Conversion,--I,233333.0,22899005.0,4,1883154,Class B Common Stock
+D,2024-01-24,,Boersma Travis,4,C-Conversion,--I,324577.0,36458141.0,3,1883154,Class B Common Stock
+A,2024-01-24,,Boersma Travis,4,C-Conversion,--I,233333.0,1581186.0,2,1883154,Class A Common Stock
+A,2024-01-24,,Boersma Travis,4,C-Conversion,--I,324577.0,2514241.0,1,1883154,Class A Common Stock
+D,2023-12-31,,Miller Ann M,4,M-Exempt,--D,938.0,1876.0,2,1911661,Restricted Stock Units
+A,2023-12-31,,Miller Ann M,4,M-Exempt,--D,938.0,4620.0,1,1911661,Class A Common Stock
+D,2023-12-31,,Jack Blythe,4,M-Exempt,--D,938.0,1876.0,2,1883048,Restricted Stock Units
+A,2023-12-31,,Jack Blythe,4,M-Exempt,--D,938.0,3263.0,1,1883048,Class A Common Stock
+D,2023-12-31,,Gillett Stephen,4,M-Exempt,--D,938.0,1876.0,2,1492029,Restricted Stock Units
+A,2023-12-31,,Gillett Stephen,4,M-Exempt,--D,938.0,11803.0,1,1492029,Class A Common Stock
+D,2023-12-31,,George Kathryn,4,M-Exempt,--D,938.0,1876.0,2,1883130,Restricted Stock Units
+A,2023-12-31,,George Kathryn,4,M-Exempt,--D,938.0,7417.0,1,1883130,Class A Common Stock
+D,2023-12-31,,Davis Thomas James,4,M-Exempt,--D,938.0,1876.0,2,1884188,Restricted Stock Units
+A,2023-12-31,,Davis Thomas James,4,M-Exempt,--D,938.0,7417.0,1,1884188,Class A Common Stock
+D,2023-12-29,,"DM Trust Aggregator, LLC",4,S-Sale,--D,20424.0,2189664.0,1,1883105,Class A Common Stock
+D,2023-12-29,,Boersma Travis,4,S-Sale,--I,20552.0,1347853.0,2,1883154,Class A Common Stock
+D,2023-12-29,,Boersma Travis,4,S-Sale,--I,20424.0,2189664.0,1,1883154,Class A Common Stock
+D,2023-12-29,,"DM Individual Aggregator, LLC",4,S-Sale,--D,20552.0,1347853.0,1,1883096,Class A Common Stock
+D,2023-12-28,,Maxwell Brian,4,S-Sale,--D,33900.0,1078620.0,1,1883061,Class A Common Stock
+D,2023-12-28,,Boersma Travis,4,S-Sale,--I,54098.0,1368405.0,2,1883154,Class A Common Stock
+D,2023-12-28,,Boersma Travis,4,S-Sale,--I,54064.0,2210088.0,1,1883154,Class A Common Stock
+D,2023-12-28,,"DM Individual Aggregator, LLC",4,S-Sale,--D,54098.0,1368405.0,1,1883096,Class A Common Stock
+D,2023-12-28,,"DM Trust Aggregator, LLC",4,S-Sale,--D,54064.0,2210088.0,1,1883105,Class A Common Stock
+D,2023-12-27,,Maxwell Brian,4,S-Sale,--D,3600.0,1112520.0,1,1883061,Class A Common Stock
+D,2023-12-27,,Boersma Travis,4,S-Sale,--I,2500.0,1422503.0,2,1883154,Class A Common Stock
+D,2023-12-27,,Boersma Travis,4,S-Sale,--I,1743.0,2264152.0,1,1883154,Class A Common Stock
+D,2023-12-27,,"DM Trust Aggregator, LLC",4,S-Sale,--D,1743.0,2264152.0,1,1883105,Class A Common Stock
+D,2023-12-27,,"DM Individual Aggregator, LLC",4,S-Sale,--D,2500.0,1422503.0,1,1883096,Class A Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,28.0,2438469.0,20,1882776,Class D Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,74307.0,2438497.0,19,1882776,Class D Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,415.0,8194965.0,18,1882776,Class D Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,250721.0,8195380.0,17,1882776,Class D Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,11125.0,2148263.0,16,1882776,Class A Common LLC Units
+D,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,53035.0,2159388.0,15,1882776,Class A Common LLC Units
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,50547.0,31701799.0,14,1882776,Class A Common LLC Units
+D,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,915863.0,31752346.0,13,1882776,Class A Common LLC Units
+D,2023-12-18,,TSG7 A Management LLC,4,S-Sale,--I,74307.0,0.0,12,1882776,Class A Common Stock
+A,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,74307.0,74307.0,11,1882776,Class A Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,S-Sale,--I,250721.0,0.0,10,1882776,Class A Common Stock
+A,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,250721.0,250721.0,9,1882776,Class A Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,11125.0,2148263.0,8,1882776,Class C Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,S-Sale,--I,53035.0,0.0,7,1882776,Class A Common Stock
+A,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,53035.0,53035.0,6,1882776,Class A Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,53035.0,2159388.0,5,1882776,Class C Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,50547.0,31701799.0,4,1882776,Class C Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,S-Sale,--I,915863.0,18050.0,3,1882776,Class A Common Stock
+A,2023-12-18,,TSG7 A Management LLC,4,C-Conversion,--I,915863.0,933913.0,2,1882776,Class A Common Stock
+D,2023-12-18,,TSG7 A Management LLC,4,J-Other,--I,915863.0,31752346.0,1,1882776,Class C Common Stock
+D,2023-12-14,,Maxwell Brian,4,S-Sale,--D,25000.0,1116120.0,2,1883061,Class A Common Stock
+D,2023-12-14,,Maxwell Brian,4,S-Sale,--D,12500.0,1141120.0,1,1883061,Class A Common Stock
+D,2023-12-14,,"DM Individual Aggregator, LLC",4,S-Sale,--D,156183.0,1425003.0,1,1883096,Class A Common Stock
+D,2023-12-14,,Boersma Travis,4,S-Sale,--I,156183.0,1425003.0,2,1883154,Class A Common Stock
+D,2023-12-14,,Boersma Travis,4,S-Sale,--I,248346.0,2265895.0,1,1883154,Class A Common Stock
+D,2023-12-14,,"DM Trust Aggregator, LLC",4,S-Sale,--D,248346.0,2265895.0,1,1883105,Class A Common Stock
+D,2023-11-22,,Jemley Charles,4,S-Sale,--I,97000.0,900429.0,1,1716761,Class A Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,123.0,2512804.0,20,1882776,Class D Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,323884.0,2512927.0,19,1882776,Class D Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,1453.0,8446101.0,18,1882776,Class D Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,1093666.0,8447554.0,17,1882776,Class D Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,48408.0,2212423.0,16,1882776,Class A Common LLC Units
+D,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,230778.0,2260831.0,15,1882776,Class A Common LLC Units
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,219510.0,32668209.0,14,1882776,Class A Common LLC Units
+D,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,3992824.0,32887719.0,13,1882776,Class A Common LLC Units
+D,2023-11-15,,TSG7 A Management LLC,4,S-Sale,--I,323884.0,0.0,12,1882776,Class A Common Stock
+A,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,323884.0,323884.0,11,1882776,Class A Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,S-Sale,--I,1093666.0,0.0,10,1882776,Class A Common Stock
+A,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,1093666.0,1093666.0,9,1882776,Class A Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,48408.0,2212423.0,8,1882776,Class C Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,S-Sale,--I,230778.0,0.0,7,1882776,Class A Common Stock
+A,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,230778.0,230778.0,6,1882776,Class A Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,230778.0,2260831.0,5,1882776,Class C Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,219510.0,32668209.0,4,1882776,Class C Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,S-Sale,--I,3992824.0,18050.0,3,1882776,Class A Common Stock
+A,2023-11-15,,TSG7 A Management LLC,4,C-Conversion,--I,3992824.0,4010874.0,2,1882776,Class A Common Stock
+D,2023-11-15,,TSG7 A Management LLC,4,J-Other,--I,3992824.0,32887719.0,1,1882776,Class C Common Stock
+D,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,1571369.0,23132338.0,7,1883154,Class A Common Units
+D,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,2498631.0,36782718.0,6,1883154,Class A Common Units
+D,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,1571369.0,23132338.0,4,1883154,Class B Common Stock
+D,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,2498631.0,36782718.0,3,1883154,Class B Common Stock
+A,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,1571369.0,1581186.0,2,1883154,Class A Common Stock
+A,2023-10-23,,Boersma Travis,4/A,C-Conversion,--I,2498631.0,2514241.0,1,1883154,Class A Common Stock
+D,2023-10-23,,"DM Trust Aggregator, LLC",4/A,C-Conversion,--D,2498631.0,36782718.0,3,1883105,Class A Common Units
+D,2023-10-23,,"DM Trust Aggregator, LLC",4/A,C-Conversion,--D,2498631.0,36782718.0,2,1883105,Class B Common Stock
+A,2023-10-23,,"DM Trust Aggregator, LLC",4/A,C-Conversion,--D,2498631.0,2514241.0,1,1883105,Class A Common Stock
+D,2023-10-23,,"DM Individual Aggregator, LLC",4/A,C-Conversion,--D,1571369.0,23132338.0,3,1883096,Class A Common Units
+D,2023-10-23,,"DM Individual Aggregator, LLC",4/A,C-Conversion,--D,1571369.0,23132338.0,2,1883096,Class B Common Stock
+A,2023-10-23,,"DM Individual Aggregator, LLC",4/A,C-Conversion,--D,1571369.0,1581186.0,1,1883096,Class A Common Stock
+D,2023-10-23,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,1571369.0,25712736.0,3,1883096,Class A Common Units
+D,2023-10-23,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,1571369.0,25712736.0,2,1883096,Class B Common Stock
+A,2023-10-23,,"DM Individual Aggregator, LLC",4,C-Conversion,--D,1571369.0,1581186.0,1,1883096,Class A Common Stock
+D,2023-10-23,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,2498631.0,40885802.0,3,1883105,Class A Common Units
+D,2023-10-23,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,2498631.0,40885802.0,2,1883105,Class B Common Stock
+A,2023-10-23,,"DM Trust Aggregator, LLC",4,C-Conversion,--D,2498631.0,2514241.0,1,1883105,Class A Common Stock
+D,2023-10-23,,Boersma Travis,4,C-Conversion,--I,1571369.0,25712736.0,6,1883154,Class A Common Units
+D,2023-10-23,,Boersma Travis,4,C-Conversion,--I,2498631.0,40885802.0,5,1883154,Class A Common Units
+D,2023-10-23,,Boersma Travis,4,C-Conversion,--I,1571369.0,25712736.0,4,1883154,Class B Common Stock
+D,2023-10-23,,Boersma Travis,4,C-Conversion,--I,2498631.0,40885802.0,3,1883154,Class B Common Stock
+A,2023-10-23,,Boersma Travis,4,C-Conversion,--I,1571369.0,1581186.0,2,1883154,Class A Common Stock
+A,2023-10-23,,Boersma Travis,4,C-Conversion,--I,2498631.0,2514241.0,1,1883154,Class A Common Stock
+D,2023-09-30,,George Kathryn,4,M-Exempt,--D,938.0,2814.0,2,1883130,Restricted Stock Units
+A,2023-09-30,,George Kathryn,4,M-Exempt,--D,938.0,6479.0,1,1883130,Class A Common Stock
+D,2023-09-30,,Miller Ann M,4,M-Exempt,--D,938.0,2814.0,2,1911661,Restricted Stock Units
+A,2023-09-30,,Miller Ann M,4,M-Exempt,--D,938.0,3682.0,1,1911661,Class A Common Stock
+D,2023-09-30,,Davis Thomas James,4,M-Exempt,--D,938.0,2814.0,2,1884188,Restricted Stock Units
+A,2023-09-30,,Davis Thomas James,4,M-Exempt,--D,938.0,6479.0,1,1884188,Class A Common Stock
+D,2023-09-30,,Jack Blythe,4,M-Exempt,--D,938.0,2814.0,2,1883048,Restricted Stock Units
+A,2023-09-30,,Jack Blythe,4,M-Exempt,--D,938.0,2325.0,1,1883048,Class A Common Stock
+D,2023-09-30,,Gillett Stephen,4,M-Exempt,--D,938.0,2814.0,2,1492029,Restricted Stock Units
+A,2023-09-30,,Gillett Stephen,4,M-Exempt,--D,938.0,10865.0,1,1492029,Class A Common Stock
+D,2023-09-30,,Broader Shelley G.,4,M-Exempt,--D,938.0,2814.0,2,1426843,Restricted Stock Units
+A,2023-09-30,,Broader Shelley G.,4,M-Exempt,--D,938.0,10826.0,1,1426843,Class A Common Stock
+A,2023-08-11,,Tullett Victoria J,4,P-Purchase,--D,739.0,739.0,1,1606719,Class A Common Stock
+D,2023-08-09,,Boersma Travis,4,S-Sale,--I,2.0,0.0,41,1883154,Call Option (Right to Buy)
+D,2023-08-09,,Boersma Travis,4,S-Sale,--I,109.1482,0.0,20,1883154,Class A Common Stock
+D,2023-08-08,,Boersma Travis,4,S-Sale,--I,1.0,2.0,40,1883154,Call Option (Right to Buy)
+A,2023-08-08,,Boersma Travis,4,P-Purchase,--I,3.0,3.0,39,1883154,Call Option (Right to Buy)
+A,2023-08-08,,Boersma Travis,4,P-Purchase,--I,10.8456,109.1482,19,1883154,Class A Common Stock
+A,2023-08-08,,Boersma Travis,4,P-Purchase,--I,2.4696,98.3025,18,1883154,Class A Common Stock
+D,2023-08-08,,Boersma Travis,4,S-Sale,--I,27.3423,95.8329,17,1883154,Class A Common Stock
+D,2023-08-03,,Boersma Travis,4,S-Sale,--I,136.1934,123.1752,16,1883154,Class A Common Stock
+D,2023-08-01,,Ricci Joth,4,S-Sale,--D,462.0,1976335.0,2,1883088,Class A Common Stock
+D,2023-08-01,,Ricci Joth,4,S-Sale,--D,79538.0,1976797.0,1,1883088,Class A Common Stock
+A,2023-07-01,,DAVILA TANA,4,A-Award,--D,17574.0,17574.0,2,1981137,Restricted Stock Units
+A,2023-07-01,,DAVILA TANA,4,A-Award,--D,11310.0,11310.0,1,1981137,Restricted Stock Units
+A,2023-05-16,,George Kathryn,4,A-Award,--D,3752.0,3752.0,6,1883130,Restricted Stock Units
+D,2023-05-16,,George Kathryn,4,M-Exempt,--D,3032.0,0.0,5,1883130,Restricted Stock Units
+A,2023-05-16,,George Kathryn,4,A-Award,--D,3032.0,3032.0,4,1883130,Restricted Stock Units
+D,2023-05-16,,George Kathryn,4,M-Exempt,--D,628.0,0.0,3,1883130,Restricted Stock Units
+A,2023-05-16,,George Kathryn,4,M-Exempt,--D,3032.0,5541.0,2,1883130,Class A Common Stock
+A,2023-05-16,,George Kathryn,4,M-Exempt,--D,628.0,2509.0,1,1883130,Class A Common Stock
+A,2023-05-16,,Davis Thomas James,4,A-Award,--D,3752.0,3752.0,6,1884188,Restricted Stock Units
+D,2023-05-16,,Davis Thomas James,4,M-Exempt,--D,3032.0,0.0,5,1884188,Restricted Stock Units
+A,2023-05-16,,Davis Thomas James,4,A-Award,--D,3032.0,3032.0,4,1884188,Restricted Stock Units
+D,2023-05-16,,Davis Thomas James,4,M-Exempt,--D,628.0,0.0,3,1884188,Restricted Stock Units
+A,2023-05-16,,Davis Thomas James,4,M-Exempt,--D,3032.0,5541.0,2,1884188,Class A Common Stock
+A,2023-05-16,,Davis Thomas James,4,M-Exempt,--D,628.0,2509.0,1,1884188,Class A Common Stock
+A,2023-05-16,,Gillett Stephen,4,A-Award,--D,3752.0,3752.0,6,1492029,Restricted Stock Units
+D,2023-05-16,,Gillett Stephen,4,M-Exempt,--D,1768.0,0.0,5,1492029,Restricted Stock Units
+A,2023-05-16,,Gillett Stephen,4,A-Award,--D,1768.0,1768.0,4,1492029,Restricted Stock Units
+D,2023-05-16,,Gillett Stephen,4,M-Exempt,--D,628.0,0.0,3,1492029,Restricted Stock Units
+A,2023-05-16,,Gillett Stephen,4,M-Exempt,--D,1768.0,9927.0,2,1492029,Class A Common Stock
+A,2023-05-16,,Gillett Stephen,4,M-Exempt,--D,628.0,8159.0,1,1492029,Class A Common Stock
+A,2023-05-16,,Broader Shelley G.,4,A-Award,--D,3752.0,3752.0,6,1426843,Restricted Stock Units
+D,2023-05-16,,Broader Shelley G.,4,M-Exempt,--D,3032.0,0.0,5,1426843,Restricted Stock Units
+A,2023-05-16,,Broader Shelley G.,4,A-Award,--D,3032.0,3032.0,4,1426843,Restricted Stock Units
+D,2023-05-16,,Broader Shelley G.,4,M-Exempt,--D,628.0,0.0,3,1426843,Restricted Stock Units
+A,2023-05-16,,Broader Shelley G.,4,M-Exempt,--D,3032.0,9888.0,2,1426843,Class A Common Stock
+A,2023-05-16,,Broader Shelley G.,4,M-Exempt,--D,628.0,6856.0,1,1426843,Class A Common Stock
+A,2023-05-16,,Miller Ann M,4,A-Award,--D,3752.0,3752.0,4,1911661,Restricted Stock Units
+D,2023-05-16,,Miller Ann M,4,M-Exempt,--D,2744.0,0.0,3,1911661,Restricted Stock Units
+A,2023-05-16,,Miller Ann M,4,A-Award,--D,2744.0,2744.0,2,1911661,Restricted Stock Units
+A,2023-05-16,,Miller Ann M,4,M-Exempt,--D,2744.0,2744.0,1,1911661,Class A Common Stock
+A,2023-05-16,,Jack Blythe,4,A-Award,--D,3752.0,3752.0,4,1883048,Restricted Stock Units
+D,2023-05-16,,Jack Blythe,4,M-Exempt,--D,1387.0,0.0,3,1883048,Restricted Stock Units
+A,2023-05-16,,Jack Blythe,4,A-Award,--D,1387.0,1387.0,2,1883048,Restricted Stock Units
+A,2023-05-16,,Jack Blythe,4,M-Exempt,--D,1387.0,1387.0,1,1883048,Class A Common Stock
+A,2023-05-12,,Jemley Charles,4,G-Gift,--I,997429.0,997429.0,2,1716761,Class A Common Stock
+D,2023-05-12,,Jemley Charles,4,G-Gift,--D,997429.0,169603.0,1,1716761,Class A Common Stock
+D,2023-05-10,,Boersma Travis,4,S-Sale,--I,1.0,0.0,38,1883154,Put Option (Right to Sell)
+A,2023-05-10,,Boersma Travis,4,P-Purchase,--I,130.3816,259.3686,15,1883154,Class A Common Stock
+A,2023-05-09,,Boersma Travis,4,P-Purchase,--I,1.0,1.0,37,1883154,Put Option (Right to Sell)
+D,2023-05-09,,Boersma Travis,4,S-Sale,--I,5.0,0.0,36,1883154,Put Option (Right to Sell)
+A,2023-05-09,,Boersma Travis,4,P-Purchase,--I,5.0,5.0,35,1883154,Put Option (Right to Sell)
+D,2023-04-14,,Boersma Travis,4,S-Sale,--I,128.972,128.987,14,1883154,Class A Common Stock
+D,2023-03-31,,Broader Shelley G.,4,M-Exempt,--D,627.0,628.0,2,1426843,Restricted Stock Units
+A,2023-03-31,,Broader Shelley G.,4,M-Exempt,--D,627.0,6228.0,1,1426843,Class A Common Stock
+D,2023-03-31,,Davis Thomas James,4,M-Exempt,--D,627.0,628.0,2,1884188,Restricted Stock Units
+A,2023-03-31,,Davis Thomas James,4,M-Exempt,--D,627.0,1881.0,1,1884188,Class A Common Stock
+D,2023-03-31,,George Kathryn,4,M-Exempt,--D,627.0,628.0,2,1883130,Restricted Stock Units
+A,2023-03-31,,George Kathryn,4,M-Exempt,--D,627.0,1881.0,1,1883130,Class A Common Stock
+D,2023-03-31,,Gillett Stephen,4,M-Exempt,--D,627.0,628.0,2,1492029,Restricted Stock Units
+A,2023-03-31,,Gillett Stephen,4,M-Exempt,--D,627.0,7531.0,1,1492029,Class A Common Stock
+A,2023-03-27,,Boersma Travis,4,P-Purchase,--I,25.4331,257.959,13,1883154,Class A Common Stock
+D,2023-03-27,,Boersma Travis,4,S-Sale,--I,25.4496,232.5259,12,1883154,Class A Common Stock
+A,2023-03-07,,Boersma Travis,4,P-Purchase,--I,1.9831,257.9755,11,1883154,Class A Common Stock
+A,2023-03-01,,Tullett Victoria J,4,A-Award,--D,14066.0,14066.0,1,1606719,Restricted Stock Units
+A,2023-03-01,,Maxwell Brian,4,A-Award,--D,14066.0,14066.0,1,1883061,Restricted Stock Units
+A,2023-03-01,,Jemley Charles,4,A-Award,--D,18755.0,18755.0,1,1716761,Restricted Stock Units
+A,2023-03-01,,Barone Christine,4,A-Award,--D,58612.0,58612.0,2,1804370,Restricted Stock Units
+A,2023-03-01,,Barone Christine,4,A-Award,--D,39074.0,39074.0,1,1804370,Restricted Stock Units
+A,2023-03-01,,Ricci Joth,4,A-Award,--D,39074.0,39074.0,1,1883088,Restricted Stock Units
+D,2023-03-01,,Boersma Travis,4,S-Sale,--I,1.0,0.0,34,1883154,Put Option (Right to Sell)
+A,2023-03-01,,Boersma Travis,4,P-Purchase,--I,255.0,255.9924,10,1883154,Class A Common Stock
+D,2023-02-24,,Boersma Travis,4,S-Sale,--I,2.0,0.0,33,1883154,Put Option (Right to Sell)
+D,2023-02-24,,Boersma Travis,4,S-Sale,--I,4.0,2.0,32,1883154,Put Option (Right to Sell)
+A,2023-02-21,,Boersma Travis,4,P-Purchase,--I,1.0,1.0,31,1883154,Put Option (Right to Sell)
+A,2023-02-21,,Boersma Travis,4,P-Purchase,--I,4.0,6.0,30,1883154,Put Option (Right to Sell)
+A,2023-02-21,,Boersma Travis,4,P-Purchase,--I,2.0,2.0,29,1883154,Put Option (Right to Sell)
+D,2023-02-01,,Ricci Joth,4,S-Sale,--D,56366.0,2056335.0,3,1883088,Class A Common Stock
+D,2023-02-01,,Ricci Joth,4,S-Sale,--D,35817.0,2112701.0,2,1883088,Class A Common Stock
+D,2023-02-01,,Ricci Joth,4,S-Sale,--D,67817.0,2148518.0,1,1883088,Class A Common Stock
+D,2023-01-09,,Boersma Travis,4,S-Sale,--I,78.0,0.9924,9,1883154,Class A Common Stock
+D,2023-01-06,,Boersma Travis,4,S-Sale,--I,100.0,78.9924,8,1883154,Class A Common Stock
+D,2023-01-03,,Graham John Patrick,4,M-Exempt,--D,145645.0,145699.0,4,1582248,Restricted Stock Units
+D,2023-01-03,,Graham John Patrick,4,F-InKind,--D,51999.0,256978.0,2,1582248,Class A Common Stock
+A,2023-01-03,,Graham John Patrick,4,M-Exempt,--D,145645.0,308977.0,1,1582248,Class A Common Stock
+D,2022-12-31,,Broader Shelley G.,4,M-Exempt,--D,627.0,1255.0,2,1426843,Restricted Stock Units
+A,2022-12-31,,Broader Shelley G.,4,M-Exempt,--D,627.0,5601.0,1,1426843,Class A Common Stock
+D,2022-12-31,,George Kathryn,4,M-Exempt,--D,627.0,1255.0,2,1883130,Restricted Stock Units
+A,2022-12-31,,George Kathryn,4,M-Exempt,--D,627.0,1254.0,1,1883130,Class A Common Stock
+D,2022-12-31,,Gillett Stephen,4,M-Exempt,--D,627.0,1255.0,2,1492029,Restricted Stock Units
+A,2022-12-31,,Gillett Stephen,4,M-Exempt,--D,627.0,6904.0,1,1492029,Class A Common Stock
+D,2022-12-31,,Davis Thomas James,4,M-Exempt,--D,627.0,1255.0,2,1884188,Restricted Stock Units
+A,2022-12-31,,Davis Thomas James,4,M-Exempt,--D,627.0,1254.0,1,1884188,Class A Common Stock
+D,2022-12-14,,Graham John Patrick,4,S-Sale,--D,8000.0,163332.0,1,1582248,Class A Common Stock
+A,2022-11-01,,Tullett Victoria J,4,A-Award,--D,4364.0,4364.0,1,1606719,Restricted Stock Units
+D,2022-09-30,,Gillett Stephen,4,M-Exempt,--D,627.0,1882.0,2,1492029,Restricted Stock Units
+A,2022-09-30,,Gillett Stephen,4,M-Exempt,--D,627.0,6277.0,1,1492029,Class A Common Stock
+D,2022-09-30,,Broader Shelley G.,4,M-Exempt,--D,627.0,1882.0,2,1426843,Restricted Stock Units
+A,2022-09-30,,Broader Shelley G.,4,M-Exempt,--D,627.0,4974.0,1,1426843,Class A Common Stock
+D,2022-09-30,,Davis Thomas James,4,M-Exempt,--D,627.0,1882.0,2,1884188,Restricted Stock Units
+A,2022-09-30,,Davis Thomas James,4,M-Exempt,--D,627.0,627.0,1,1884188,Class A Common Stock
+D,2022-09-30,,George Kathryn,4,M-Exempt,--D,627.0,1882.0,2,1883130,Restricted Stock Units
+A,2022-09-30,,George Kathryn,4,M-Exempt,--D,627.0,627.0,1,1883130,Class A Common Stock
+D,2022-09-17,,Broader Shelley G.,4,M-Exempt,--D,1086.0,0.0,2,1426843,Restricted Stock Units
+A,2022-09-17,,Broader Shelley G.,4,M-Exempt,--D,1086.0,4347.0,1,1426843,Class A Common Stock
+A,2022-09-13,,Boersma Travis,4,P-Purchase,--I,41.9693,178.9924,7,1883154,Class A Common Stock
+A,2022-09-01,,Boersma Travis,4,P-Purchase,--I,29.0477,137.0231,6,1883154,Class A Common Stock
+D,2022-08-30,,Maxwell Brian,4,S-Sale,--D,6000.0,1153620.0,1,1883061,Class A Common Stock
+D,2022-08-16,,Maxwell Brian,4,S-Sale,--D,3486.0,1159620.0,3,1883061,Class A Common Stock
+D,2022-08-16,,Maxwell Brian,4,S-Sale,--D,6709.0,1163106.0,2,1883061,Class A Common Stock
+D,2022-08-16,,Maxwell Brian,4,S-Sale,--D,1805.0,1169815.0,1,1883061,Class A Common Stock
+D,2022-08-15,,Ricci Joth,4,S-Sale,--D,975.0,2453865.0,3,1883088,Class A Common Stock
+D,2022-08-15,,Ricci Joth,4,S-Sale,--D,42939.0,2454840.0,2,1883088,Class A Common Stock
+D,2022-08-15,,Ricci Joth,4,S-Sale,--D,27211.0,2497779.0,1,1883088,Class A Common Stock
+D,2022-08-15,,Jemley Charles,4,S-Sale,--D,1700.0,1167032.0,3,1716761,Class A Common Stock
+D,2022-08-15,,Jemley Charles,4,S-Sale,--D,47995.0,1168732.0,2,1716761,Class A Common Stock
+D,2022-08-15,,Jemley Charles,4,S-Sale,--D,35305.0,1216727.0,1,1716761,Class A Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,458.0,2836811.0,20,1882776,Class D Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,378268.0,2837269.0,19,1882776,Class D Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,16715.0,9541220.0,18,1882776,Class D Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,1272130.0,9557935.0,17,1882776,Class D Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,137368.0,2491609.0,16,1882776,Class A Common LLC Units
+D,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,180056.0,2628977.0,15,1882776,Class A Common LLC Units
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,774312.0,36880543.0,14,1882776,Class A Common LLC Units
+D,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,4149151.0,37654855.0,13,1882776,Class A Common LLC Units
+D,2022-08-15,,TSG7 A Management LLC,4,S-Sale,--I,378268.0,0.0,12,1882776,Class A Common Stock
+A,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,378268.0,378268.0,11,1882776,Class A Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,S-Sale,--I,1272130.0,0.0,10,1882776,Class A Common Stock
+A,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,1272130.0,1272130.0,9,1882776,Class A Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,137368.0,2491609.0,8,1882776,Class C Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,S-Sale,--I,180056.0,0.0,7,1882776,Class A Common Stock
+A,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,180056.0,180056.0,6,1882776,Class A Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,180056.0,2628977.0,5,1882776,Class C Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,774312.0,36880543.0,4,1882776,Class C Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,S-Sale,--I,4149151.0,18050.0,3,1882776,Class A Common Stock
+A,2022-08-15,,TSG7 A Management LLC,4,C-Conversion,--I,4149151.0,4167201.0,2,1882776,Class A Common Stock
+D,2022-08-15,,TSG7 A Management LLC,4,J-Other,--I,4149151.0,37654855.0,1,1882776,Class C Common Stock
+D,2022-08-03,,Maxwell Brian,4,S-Sale,--D,12000.0,1171620.0,4,1883061,Class A Common Stock
+D,2022-08-03,,Maxwell Brian,4,S-Sale,--D,12000.0,1183620.0,3,1883061,Class A Common Stock
+D,2022-08-03,,Maxwell Brian,4,S-Sale,--D,12000.0,1195620.0,2,1883061,Class A Common Stock
+D,2022-08-03,,Maxwell Brian,4,S-Sale,--D,12000.0,1207620.0,1,1883061,Class A Common Stock
+D,2022-06-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,1086.0,2,1426843,Restricted Stock Units
+A,2022-06-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,3261.0,1,1426843,Class A Common Stock
+D,2022-06-07,,Maxwell Brian,4,S-Sale,--D,1733.0,1219620.0,3,1883061,Class A Common Stock
+D,2022-06-07,,Maxwell Brian,4,S-Sale,--D,2402.0,1221353.0,2,1883061,Class A Common Stock
+D,2022-06-07,,Maxwell Brian,4,S-Sale,--D,7865.0,1223755.0,1,1883061,Class A Common Stock
+D,2022-06-02,,Maxwell Brian,4,S-Sale,--D,12000.0,1231620.0,1,1883061,Class A Common Stock
+A,2022-06-01,,Davis Thomas James,4/A,A-Award,--D,2509.0,2509.0,1,1884188,Restricted Stock Units
+A,2022-06-01,,George Kathryn,4/A,A-Award,--D,2509.0,2509.0,1,1883130,Restricted Stock Units
+A,2022-06-01,,Gillett Stephen,4/A,A-Award,--D,2509.0,2509.0,1,1492029,Restricted Stock Units
+A,2022-06-01,,Broader Shelley G.,4/A,A-Award,--D,2509.0,2509.0,1,1426843,Restricted Stock Units
+A,2022-06-01,,Davis Thomas James,4,A-Award,--D,2508.0,2508.0,1,1884188,Restricted Stock Units
+A,2022-06-01,,Gillett Stephen,4,A-Award,--D,2508.0,2508.0,1,1492029,Restricted Stock Units
+A,2022-06-01,,Broader Shelley G.,4,A-Award,--D,2508.0,2508.0,1,1426843,Restricted Stock Units
+A,2022-06-01,,George Kathryn,4,A-Award,--D,2508.0,2508.0,1,1883130,Restricted Stock Units
+A,2022-05-27,,Boersma Travis,4,P-Purchase,--I,1.4781,107.9754,5,1883154,Class A Common Stock
+D,2022-05-27,,Boersma Travis,4,S-Sale,--I,1.4508,106.4972,4,1883154,Class A Common Stock
+A,2022-05-18,,Boersma Travis,4,P-Purchase,--I,107.9481,107.9481,3,1883154,Class A Common Stock
+A,2022-05-17,,Gillett Stephen,4,P-Purchase,--D,925.0,5650.0,3,1492029,Class A Common Stock
+A,2022-05-16,,Gillett Stephen,4,P-Purchase,--D,1175.0,4725.0,2,1492029,Class A Common Stock
+A,2022-05-16,,Gillett Stephen,4,P-Purchase,--D,3550.0,3550.0,1,1492029,Class A Common Stock
+D,2022-05-10,,Maxwell Brian,4,S-Sale,--D,1000.0,1243620.0,3,1883061,Class A Common Stock
+D,2022-05-10,,Maxwell Brian,4,S-Sale,--D,2093.0,1244620.0,2,1883061,Class A Common Stock
+D,2022-05-10,,Maxwell Brian,4,S-Sale,--D,8907.0,1246713.0,1,1883061,Class A Common Stock
+D,2022-05-09,,Ricci Joth,4,S-Sale,--D,1200.0,2524990.0,4,1883088,Class A Common Stock
+D,2022-05-09,,Ricci Joth,4,S-Sale,--D,22859.0,2526190.0,3,1883088,Class A Common Stock
+D,2022-05-09,,Ricci Joth,4,S-Sale,--D,8534.0,2549049.0,2,1883088,Class A Common Stock
+D,2022-05-09,,Ricci Joth,4,S-Sale,--D,38532.0,2557583.0,1,1883088,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,606.0,1255620.0,6,1883061,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,1000.0,1256226.0,5,1883061,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,1561.0,1257226.0,4,1883061,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,2380.0,1258787.0,3,1883061,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,2755.0,1261167.0,2,1883061,Class A Common Stock
+D,2022-04-26,,Maxwell Brian,4,S-Sale,--D,3698.0,1263922.0,1,1883061,Class A Common Stock
+D,2022-04-12,,Maxwell Brian,4,S-Sale,--D,200.0,1267620.0,4,1883061,Class A Common Stock
+D,2022-04-12,,Maxwell Brian,4,S-Sale,--D,4100.0,1267820.0,3,1883061,Class A Common Stock
+D,2022-04-12,,Maxwell Brian,4,S-Sale,--D,3500.0,1271920.0,2,1883061,Class A Common Stock
+D,2022-04-12,,Maxwell Brian,4,S-Sale,--D,4200.0,1275420.0,1,1883061,Class A Common Stock
+D,2022-04-05,,Jemley Charles,4,S-Sale,--D,100.0,1252032.0,5,1716761,Class A Common Stock
+D,2022-04-05,,Jemley Charles,4,S-Sale,--D,400.0,1252132.0,4,1716761,Class A Common Stock
+D,2022-04-05,,Jemley Charles,4,S-Sale,--D,310.0,1252532.0,3,1716761,Class A Common Stock
+D,2022-04-05,,Jemley Charles,4,S-Sale,--D,1400.0,1252842.0,2,1716761,Class A Common Stock
+D,2022-04-05,,Jemley Charles,4,S-Sale,--D,2790.0,1254242.0,1,1716761,Class A Common Stock
+D,2022-03-30,,Maxwell Brian,4,S-Sale,--D,30000.0,1279620.0,9,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,900.0,1309620.0,8,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,1579.0,1310520.0,7,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,1917.0,1312099.0,6,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,1300.0,1314016.0,5,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,700.0,1315316.0,4,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,2500.0,1316016.0,3,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,2200.0,1318516.0,2,1883061,Class A Common Stock
+D,2022-03-29,,Maxwell Brian,4,S-Sale,--D,904.0,1320716.0,1,1883061,Class A Common Stock
+D,2022-03-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,2173.0,2,1426843,Restricted Stock Units
+A,2022-03-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,2174.0,1,1426843,Class A Common
+D,2022-03-15,,Jemley Charles,4,S-Sale,--D,5126.0,1257032.0,3,1716761,Class A Common Stock
+D,2022-03-15,,Jemley Charles,4,S-Sale,--D,8274.0,1262158.0,2,1716761,Class A Common Stock
+D,2022-03-15,,Jemley Charles,4,S-Sale,--D,1600.0,1270432.0,1,1716761,Class A Common Stock
+D,2022-03-15,,Maxwell Brian,4,S-Sale,--D,3836.0,1321620.0,3,1883061,Class A Common Stock
+D,2022-03-15,,Maxwell Brian,4,S-Sale,--D,6679.0,1325456.0,2,1883061,Class A Common Stock
+D,2022-03-15,,Maxwell Brian,4,S-Sale,--D,1485.0,1332135.0,1,1883061,Class A Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,384.0,3215537.0,20,1882776,Class D Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,316965.0,3215921.0,19,1882776,Class D Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,15831.0,10830065.0,18,1882776,Class D Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,1062461.0,10845896.0,17,1882776,Class D Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,116539.0,2809033.0,16,1882776,Class A Common LLC Units
+D,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,151123.0,2925572.0,15,1882776,Class A Common LLC Units
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,656058.0,41804006.0,14,1882776,Class A Common LLC Units
+D,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,3469451.0,42460064.0,13,1882776,Class A Common LLC Units
+D,2022-03-10,,TSG7 A Management LLC,4,S-Sale,--I,316965.0,0.0,12,1882776,Class A Common Stock
+A,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,316965.0,316965.0,11,1882776,Class A Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,S-Sale,--I,1062461.0,0.0,10,1882776,Class A Common Stock
+A,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,1062461.0,1062461.0,9,1882776,Class A Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,116539.0,2809033.0,8,1882776,Class C Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,S-Sale,--I,151123.0,0.0,7,1882776,Class A Common Stock
+A,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,151123.0,151123.0,6,1882776,Class A Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,151123.0,2925572.0,5,1882776,Class C Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,656058.0,41804006.0,4,1882776,Class C Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,S-Sale,--I,3469451.0,18050.0,3,1882776,Class A Common Stock
+A,2022-03-10,,TSG7 A Management LLC,4,C-Conversion,--I,3469451.0,3487501.0,2,1882776,Class A Common Stock
+D,2022-03-10,,TSG7 A Management LLC,4,J-Other,--I,3469451.0,42460064.0,1,1882776,Class C Common Stock
+D,2022-03-07,,Ricci Joth,4/A,S-Sale,--D,500.0,2596115.0,4,1883088,Class A Common Stock
+D,2022-03-07,,Ricci Joth,4/A,S-Sale,--D,10312.0,2596615.0,3,1883088,Class A Common Stock
+D,2022-03-07,,Ricci Joth,4/A,S-Sale,--D,22395.0,2606927.0,2,1883088,Class A Common Stock
+D,2022-03-07,,Ricci Joth,4/A,S-Sale,--D,37918.0,2629322.0,1,1883088,Class A Common Stock
+D,2022-03-07,,Ricci Joth,4,S-Sale,--D,62235.0,2596115.0,2,1883088,Class A Common Stock
+D,2022-03-07,,Ricci Joth,4,S-Sale,--D,8890.0,2658350.0,1,1883088,Class A Common Stock
+D,2022-01-03,,Graham John Patrick,4,M-Exempt,--D,145584.0,291344.0,4,1582248,Restricted Stock Units
+D,2022-01-03,,Graham John Patrick,4,F-InKind,--D,57278.0,171332.0,2,1582248,Class A Common Stock
+A,2022-01-03,,Graham John Patrick,4,M-Exempt,--D,145584.0,228610.0,1,1582248,Class A Common Stock
+D,2021-12-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,3260.0,2,1426843,Restricted Stock Units
+A,2021-12-17,,Broader Shelley G.,4,M-Exempt,--D,1087.0,1087.0,1,1426843,Class A Common
+D,2021-11-15,,Boersma Travis,4,S-Sale,--I,19.3603,0.0,2,1883154,Class A Common Stock
+A,2021-11-15,,Boersma Travis,4,P-Purchase,--I,19.3603,19.3603,1,1883154,Class A Common Stock
+A,2021-11-10,,Graham John Patrick,4,G-Gift,--I,172000.0,172000.0,2,1582248,Class A Common Stock
+D,2021-11-10,,Graham John Patrick,4,G-Gift,--D,172000.0,83026.0,1,1582248,Class A Common Stock
+D,2021-10-21,,Boersma Travis,4,S-Sale,--I,1.0,0.0,28,1883154,Put Option (Right to Sell)
+A,2021-10-19,,Boersma Travis,4,P-Purchase,--I,1.0,1.0,27,1883154,Put Option (Right to Sell)
+D,2021-10-07,,Boersma Travis,4,S-Sale,--I,1.0,0.0,26,1883154,Call Option (Right to Buy)
+A,2021-10-05,,Boersma Travis,4,P-Purchase,--I,1.0,1.0,25,1883154,Call Option (Right to Buy)
+D,2021-09-30,,TSG7 A Management LLC,4,J-Other,--I,317824.0,3076695.0,4,1882776,Class A Common LLC Units
+D,2021-09-30,,TSG7 A Management LLC,4,J-Other,--I,4744562.0,45929515.0,3,1882776,Class A Common LLC Units
+D,2021-09-30,,TSG7 A Management LLC,4,J-Other,--I,317824.0,3076695.0,2,1882776,Class C Common Stock
+D,2021-09-30,,TSG7 A Management LLC,4,J-Other,--I,4744562.0,45929515.0,1,1882776,Class C Common Stock
+D,2021-09-22,,Boersma Travis,4,S-Sale,--I,1.0,0.0,24,1883154,Call Option (Right to Buy)
+A,2021-09-22,,Boersma Travis,4,P-Purchase,--I,1.0,1.0,23,1883154,Call Option (Right to Buy)
+D,2021-09-21,,Boersma Travis,4,D-Return,--I,2580398.0,24703707.0,5,1883154,Class A Common Units
+D,2021-09-21,,Boersma Travis,4,D-Return,--I,4103084.0,39281349.0,4,1883154,Class A Common Units
+D,2021-09-21,,Boersma Travis,4,D-Return,--I,2580398.0,24703707.0,2,1883154,Class B Common Stock
+D,2021-09-21,,Boersma Travis,4,D-Return,--I,4103084.0,39281349.0,1,1883154,Class B Common Stock
+D,2021-09-21,,TSG7 A Management LLC,4,J-Other,--I,364951.0,3532886.0,2,1882776,Class D Common Stock
+D,2021-09-21,,TSG7 A Management LLC,4,J-Other,--I,1230143.0,11908357.0,1,1882776,Class D Common Stock
+A,2021-09-17,,Ricci Joth,4/A,A-Award,--D,2667240.0,2667240.0,1,1883088,Class A Common Stock
+A,2021-09-17,,Maxwell Brian,4/A,A-Award,--D,1333620.0,1333620.0,1,1883061,Class A Common Stock
+A,2021-09-17,,Jemley Charles,4/A,A-Award,--D,1272032.0,1272032.0,1,1716761,Class A Common Stock
+D,2021-09-17,,Graham John Patrick,4/A,M-Exempt,--D,436929.0,436928.0,4,1582248,Restricted Stock Units
+A,2021-09-17,,Graham John Patrick,4/A,A-Award,--D,873857.0,873857.0,3,1582248,Restricted Stock Units
+D,2021-09-17,,Graham John Patrick,4/A,F-InKind,--D,181903.0,255026.0,2,1582248,Class A Common Stock
+A,2021-09-17,,Graham John Patrick,4/A,M-Exempt,--D,436929.0,436929.0,1,1582248,Class A Common Stock
+A,2021-09-17,,Ricci Joth,4,A-Award,--D,800169.0,800169.0,2,1883088,Restricted Stock Award
+A,2021-09-17,,Ricci Joth,4,A-Award,--D,18677071.0,1867071.0,1,1883088,Class A Common Stock
+A,2021-09-17,,Broader Shelley G.,4,A-Award,--D,4347.0,4347.0,1,1426843,Restricted Stock Units
+D,2021-09-17,,Graham John Patrick,4,M-Exempt,--D,436928.0,436929.0,4,1582248,Restricted Stock Units
+A,2021-09-17,,Graham John Patrick,4,A-Award,--D,873857.0,873857.0,3,1582248,Restricted Stock Units
+D,2021-09-17,,Graham John Patrick,4,F-InKind,--D,200987.0,235941.0,2,1582248,Class A Common Stock
+A,2021-09-17,,Graham John Patrick,4,M-Exempt,--D,436928.0,436928.0,1,1582248,Class A Common Stock
+A,2021-09-17,,Jemley Charles,4,A-Award,--D,508807.0,508807.0,2,1716761,Restricted Stock Award
+A,2021-09-17,,Jemley Charles,4,A-Award,--D,763225.0,763225.0,1,1716761,Class A Common Stock
+A,2021-09-17,,Maxwell Brian,4,A-Award,--D,800169.0,800169.0,2,1883061,Restricted Stock Award
+A,2021-09-17,,Maxwell Brian,4,A-Award,--D,533451.0,533451.0,1,1883061,Class A Common Stock
+-,-,,Guenser Joshua J,3,-,--D,,,2,1910116,Restricted Stock Units
+-,-,,Guenser Joshua J,3,-,--D,,,1,1910116,Restricted Stock Units
+-,-,,Boersma Travis,4,-,--I,,714080.0,8,1883154,Class A Common Units
+-,-,,Boersma Travis,4,-,--I,,714080.0,5,1883154,Class B Common Stock
+-,-,,Ghosh Sumitro,3,-,--D,,,2,2018086,Restricted Stock Units
+-,-,,Ghosh Sumitro,3,-,--D,,,1,2018086,Restricted Stock Units
+-,-,,Boersma Travis,4,-,--I,,714080.0,8,1883154,Class A Common Units
+-,-,,Boersma Travis,4,-,--I,,714080.0,5,1883154,Class B Common Stock
+-,-,,Jemley Charles,4,-,--D,,169603.0,2,1716761,Class A Common Stock
+-,-,,Ricci Joth,4,-,--I,,237530.0,3,1883088,Class A Common Stock
+-,-,,Ricci Joth,4,-,--I,,237530.0,4,1883088,Class A Common Stock
+-,-,,Graham John Patrick,4,-,--I,,172000.0,3,1582248,Class A Common Stock
+-,-,,Graham John Patrick,4,-,--I,,172000.0,2,1582248,Class A Common Stock
+-,-,,Graham John Patrick,4,-,--I,,172000.0,3,1582248,Class A Common Stock
+-,-,,Boersma Travis,4,-,--I,,9817.0,22,1883154,Class A Common Stock
+-,-,,Boersma Travis,4,-,--I,,15610.0,21,1883154,Class A Common Stock
+-,-,,Boersma Travis,3,-,--I,,,8,1883154,Class A Common Units
+-,-,,Boersma Travis,3,-,--I,,,7,1883154,Class A Common Units
+-,-,,Boersma Travis,3,-,--I,,,6,1883154,Class A Common Units
+-,-,,Boersma Travis,3,-,--I,,714080.0,5,1883154,Class B Common Stock
+-,-,,Boersma Travis,3,-,--I,,27284105.0,4,1883154,Class B Common Stock
+-,-,,Boersma Travis,3,-,--I,,43384433.0,3,1883154,Class B Common Stock
+-,-,,Boersma Travis,3,-,--I,,9817.0,2,1883154,Class A Common Stock
+-,-,,Boersma Travis,3,-,--I,,15610.0,1,1883154,Class A Common Stock
+-,-,,"DM Trust Aggregator, LLC",3,-,--D,,,3,1883105,Class A Common Units
+-,-,,"DM Trust Aggregator, LLC",3,-,--D,,43384433.0,2,1883105,Class B Common Stock
+-,-,,"DM Trust Aggregator, LLC",3,-,--D,,15610.0,1,1883105,Class A Common Stock
+-,-,,"DM Individual Aggregator, LLC",3,-,--D,,,3,1883096,Class A Common Units
+-,-,,"DM Individual Aggregator, LLC",3,-,--D,,27284105.0,2,1883096,Class B Common Stock
+-,-,,"DM Individual Aggregator, LLC",3,-,--D,,9817.0,1,1883096,Class A Common Stock
+-,-,,Boersma Travis,4/A,-,--I,,714080.0,8,1883154,Class A Common Units
+-,-,,Boersma Travis,4/A,-,--I,,714080.0,5,1883154,Class B Common Stock
+-,-,,Boersma Travis,4,-,--I,,714080.0,6,1883154,Class A Common Units
+-,-,,Boersma Travis,4,-,--I,,714080.0,3,1883154,Class B Common Stock
+-,-,,TSG7 A Management LLC,3/A,-,--I,,,7,1882776,Class D Common Stock
+-,-,,TSG7 A Management LLC,3/A,-,--I,,,6,1882776,Class D Common Stock
+-,-,,TSG7 A Management LLC,3/A,-,--I,,,5,1882776,Class A Common LLC Units
+-,-,,TSG7 A Management LLC,3/A,-,--I,,,4,1882776,Class A Common LLC Units
+-,-,,TSG7 A Management LLC,3/A,-,--I,,3394519.0,3,1882776,Class C Common Stock
+-,-,,TSG7 A Management LLC,3/A,-,--I,,50674077.0,2,1882776,Class C Common Stock
+-,-,,TSG7 A Management LLC,3/A,-,--I,,18050.0,1,1882776,Class A Common Stock
+-,-,,TSG7 A Management LLC,3,-,--I,,,7,1882776,Class D Common Stock
+-,-,,TSG7 A Management LLC,3,-,--I,,,6,1882776,Class D Common Stock
+-,-,,TSG7 A Management LLC,3,-,--I,,,5,1882776,Class A Common LLC Units
+-,-,,TSG7 A Management LLC,3,-,--I,,,4,1882776,Class A Common LLC Units
+-,-,,TSG7 A Management LLC,3,-,--I,,3394519.0,3,1882776,Class C Common Stock
+-,-,,TSG7 A Management LLC,3,-,--I,,50674077.0,2,1882776,Class C Common Stock
+-,-,,TSG7 A Management LLC,3,-,--I,,18050.0,1,1882776,Class A Common Stock
