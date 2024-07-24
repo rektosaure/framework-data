@@ -2,7 +2,7 @@
     {
         "url": "https://dashboard.aiera.com/p/evtmin/3798b171a38b1f1373a58ea3e4cee8ac",
         "sentiment": {
-            "label_distribution": {
+            "distribution": {
                 "neutral": 34,
                 "positive": 35,
                 "negative": 2
