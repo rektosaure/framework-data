@@ -1,8 +1,8 @@
 Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 0.01005,,,,,,,
-0.95798,,,,,,,
-0.96769994,,,,,,,
-877.0,,,,,,,
+0.95878,,,,,,,
+0.96851,,,,,,,
+881.0,,,,,,,
 1271365990.0,2023-06-30,Blackrock Inc.,0.1381,13482142.0,Institutional,,
 902518707.0,2023-06-30,Vanguard Group Inc,0.098000005,9570718.0,Institutional,,
 373097855.0,2023-06-30,State Street Corporation,0.0405,3956499.0,Institutional,,
@@ -23,10 +23,10 @@ Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 89021386.0,2023-08-31,SPDR S&P Mid Cap 400 ETF Trust,0.0084,817535.0,MutualFund,,
 81726736.0,2023-08-31,SPDR (R) Ser Tr-SPDR (R) S&P (R) Biotech ETF,0.0077,750544.0,MutualFund,,
 70310824.0,2023-07-31,Hartford Mid Cap Fund,0.0070999996,690066.0,MutualFund,,
-,,,,416003.0,,Purchases,34
-,,,,443976.0,,Sales,57
-,,,,-27973.0,,Net Shares Purchased (Sold),91
+,,,,406003.0,,Purchases,33
+,,,,433976.0,,Sales,56
+,,,,-27973.0,,Net Shares Purchased (Sold),89
 ,,,,1011404.0,,Total Insider Shares Held,
 ,,,,-0.027,,% Net Shares Purchased (Sold),
-,,,,0.4,,% Buy Shares,
-,,,,0.42700002,,% Sell Shares,
+,,,,0.39099997,,% Buy Shares,
+,,,,0.41799998,,% Sell Shares,
