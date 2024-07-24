@@ -7,7 +7,7 @@
                 "positive": 35,
                 "negative": 2
             },
-            "average_scores": {
+            "scores": {
                 "neutral": 0.971177900538725,
                 "positive": 0.9777478984424046,
                 "negative": 0.6974314004182816
