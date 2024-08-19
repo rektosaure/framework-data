@@ -2,6 +2,8 @@
     {
         "date": "2025 Q1",
         "url": "https://dashboard.aiera.com/p/evtmin/e8bbf6836e96cd55f25356b4bc18cfc4",
+        "textblob_polarity": 0.09982641213311326,
+        "textblob_subjectivity": 0.44336740006843056,
         "sentiment": {
             "distribution": {
                 "positive": 12,
@@ -19,6 +21,8 @@
     {
         "date": "2024 Q2",
         "url": "https://dashboard.aiera.com/p/evtmin/0a63a4e16913cd5b3a50c558992c7dcb",
+        "textblob_polarity": 0.07194830074140418,
+        "textblob_subjectivity": 0.42859431755983496,
         "sentiment": {
             "distribution": {
                 "positive": 9,
@@ -34,6 +38,8 @@
     {
         "date": "2024 Q1",
         "url": "https://dashboard.aiera.com/p/evtmin/4445733f7d66207adcb8bb6b07da2116",
+        "textblob_polarity": 0.07603936561880488,
+        "textblob_subjectivity": 0.4058638622540493,
         "sentiment": {
             "distribution": {
                 "positive": 14,
@@ -49,6 +55,8 @@
     {
         "date": "2023 Q4",
         "url": "https://dashboard.aiera.com/p/evtmin/d9691effa65d176a67e8a4777a8f3565",
+        "textblob_polarity": 0.10339994392127105,
+        "textblob_subjectivity": 0.44550652086197073,
         "sentiment": {
             "distribution": {
                 "positive": 12,
@@ -64,6 +72,8 @@
     {
         "date": "2023 Q3",
         "url": "https://dashboard.aiera.com/p/evtmin/300ed4868784984944a86b986a700101",
+        "textblob_polarity": 0.08750363613458861,
+        "textblob_subjectivity": 0.42847688907212694,
         "sentiment": {
             "distribution": {
                 "positive": 11,
@@ -81,6 +91,8 @@
     {
         "date": "2023 Q2",
         "url": "https://dashboard.aiera.com/p/evtmin/4b2eeb4656258899687bbb1cb8840045",
+        "textblob_polarity": 0.09652939166097073,
+        "textblob_subjectivity": 0.41502539492671064,
         "sentiment": {
             "distribution": {
                 "neutral": 5,
@@ -98,6 +110,8 @@
     {
         "date": "2023 Q1",
         "url": "https://dashboard.aiera.com/p/evtmin/a07184d805fc9380c3f17ac27dc4e245",
+        "textblob_polarity": 0.10554025559767198,
+        "textblob_subjectivity": 0.4296973735992871,
         "sentiment": {
             "distribution": {
                 "positive": 14,
@@ -113,6 +127,8 @@
     {
         "date": "2022 Q4",
         "url": "https://dashboard.aiera.com/p/evtmin/e88a86cef2f8ca839e4d23424bdf3ca2",
+        "textblob_polarity": 0.11401092249406865,
+        "textblob_subjectivity": 0.3977298668871698,
         "sentiment": {
             "distribution": {
                 "neutral": 9,
