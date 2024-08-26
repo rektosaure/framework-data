@@ -1,5 +1,81 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
 D,2024-12-03,,KONG DAVID,4,M-Exempt,--D,50000.0,163995.0,4,1509171,Options
+D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,18333.0,104323.0,12,1373816,Restricted Stock Units
+D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,10050.0,122656.0,11,1373816,Restricted Stock Units
+D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,22375.0,132706.0,10,1373816,Restricted Stock Units
+D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,89498.0,170953.0,9,1373816,Performance Based Restricted Stock Units
+D,2024-07-31,,OBARA PAT,4,F-InKind,--D,9809.0,853217.0,8,1373816,Common Stock
+A,2024-07-31,,OBARA PAT,4,M-Exempt,--D,18333.0,863026.0,7,1373816,Common Stock
+D,2024-07-31,,OBARA PAT,4,F-InKind,--D,5377.0,844693.0,6,1373816,Common Stock
+A,2024-07-31,,OBARA PAT,4,M-Exempt,--D,10050.0,850070.0,5,1373816,Common Stock
+D,2024-07-31,,OBARA PAT,4,F-InKind,--D,11971.0,840020.0,4,1373816,Common Stock
+A,2024-07-31,,OBARA PAT,4,M-Exempt,--D,22375.0,851991.0,3,1373816,Common Stock
+D,2024-07-31,,OBARA PAT,4,F-InKind,--D,47882.0,829616.0,2,1373816,Common Stock
+A,2024-07-31,,OBARA PAT,4,M-Exempt,--D,89498.0,877498.0,1,1373816,Common Stock
+D,2024-07-31,,Canty Trecia M,4,M-Exempt,--D,5128.0,10257.0,2,1654375,Restricted Stock Units
+A,2024-07-31,,Canty Trecia M,4,M-Exempt,--D,5128.0,5128.0,1,1654375,Common Stock
+D,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,22564.0,118729.0,12,1619749,Restricted Stock Units
+D,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,13191.0,141293.0,11,1619749,Restricted Stock Units
+D,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,22375.0,154484.0,10,1619749,Restricted Stock Unit
+D,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,89498.0,198889.0,9,1619749,Performance Based Restricted Stock Units
+D,2024-07-31,,MELBYE SCOTT,4,F-InKind,--D,9669.0,978531.0,8,1619749,Common Stock
+A,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,22564.0,988200.0,7,1619749,Common Stock
+D,2024-07-31,,MELBYE SCOTT,4,F-InKind,--D,5653.0,965636.0,6,1619749,Common Stock
+A,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,13191.0,971289.0,5,1619749,Common Stock
+D,2024-07-31,,MELBYE SCOTT,4,F-InKind,--D,9798.0,958098.0,4,1619749,Common Stock
+A,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,22375.0,967896.0,3,1619749,Common Stock
+D,2024-07-31,,MELBYE SCOTT,4,F-InKind,--D,38350.0,945521.0,2,1619749,Common Stock
+A,2024-07-31,,MELBYE SCOTT,4,M-Exempt,--D,89498.0,983871.0,1,1619749,Common Stock
+D,2024-07-31,,DELLA VOLPE VINCENT,4,M-Exempt,--D,5128.0,24044.0,4,1407958,Restricted Stock Units
+D,2024-07-31,,DELLA VOLPE VINCENT,4,M-Exempt,--D,3769.0,29172.0,3,1407958,Restricted Stock Units
+A,2024-07-31,,DELLA VOLPE VINCENT,4,M-Exempt,--D,5128.0,194992.0,2,1407958,Common Stock
+A,2024-07-31,,DELLA VOLPE VINCENT,4,M-Exempt,--D,3769.0,189864.0,1,1407958,Common Stock
+D,2024-07-31,,Ballesta Moya Gloria L,4,M-Exempt,--D,5128.0,24464.0,4,1746922,Restricted Stock Units
+D,2024-07-31,,Ballesta Moya Gloria L,4,M-Exempt,--D,4187.0,29592.0,3,1746922,Restricted Stock Units
+A,2024-07-31,,Ballesta Moya Gloria L,4,M-Exempt,--D,5128.0,90232.0,2,1746922,Common Stock
+A,2024-07-31,,Ballesta Moya Gloria L,4,M-Exempt,--D,4187.0,85104.0,1,1746922,Common Stock
+D,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,12820.0,58855.0,6,1326633,Restricted Stock Units
+D,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,8165.0,71675.0,5,1326633,Restricted Stock Units
+D,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,12636.0,79840.0,4,1326633,Restricted Stock Units
+A,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,12820.0,676524.0,3,1326633,Common Stock
+A,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,8165.0,663704.0,2,1326633,Common Stock
+A,2024-07-31,,Abraham Spencer,4,M-Exempt,--D,12636.0,655539.0,1,1326633,Common Stock
+D,2024-07-31,,KONG DAVID,4,M-Exempt,--D,5128.0,24882.0,6,1509171,Restricted Stock Units
+D,2024-07-31,,KONG DAVID,4,M-Exempt,--D,4606.0,30010.0,5,1509171,Restricted Stock Units
+D,2024-07-31,,KONG DAVID,4,F-InKind,--D,2564.0,158952.0,4,1509171,Common Stock
+A,2024-07-31,,KONG DAVID,4,M-Exempt,--D,5128.0,161516.0,3,1509171,Common Stock
+D,2024-07-31,,KONG DAVID,4,F-InKind,--D,2303.0,156388.0,2,1509171,Common Stock
+A,2024-07-31,,KONG DAVID,4,M-Exempt,--D,4606.0,158691.0,1,1509171,Common Stock
+D,2024-07-31,,Adnani Amir,4,M-Exempt,--I,132564.0,265128.0,14,1346101,Restricted Stock Units
+D,2024-07-31,,Adnani Amir,4,M-Exempt,--D,48040.0,444762.0,13,1346101,Restricted Stock Units
+D,2024-07-31,,Adnani Amir,4,M-Exempt,--D,78489.0,492802.0,12,1346101,Restricted Stock Units
+D,2024-07-31,,Adnani Amir,4,M-Exempt,--D,313954.0,703832.0,10,1346101,Performance Based Restricted Stock Units
+D,2024-07-31,,Adnani Amir,4,F-InKind,--D,70922.0,4182326.0,8,1346101,Common Stock
+A,2024-07-31,,Adnani Amir,4,M-Exempt,--D,132564.0,4253248.0,7,1346101,Common Stock
+D,2024-07-31,,Adnani Amir,4,F-InKind,--D,25702.0,4120684.0,6,1346101,Common Stock
+A,2024-07-31,,Adnani Amir,4,M-Exempt,--D,48040.0,4146386.0,5,1346101,Common Stock
+D,2024-07-31,,Adnani Amir,4,F-InKind,--D,41992.0,4098346.0,4,1346101,Common Stock
+A,2024-07-31,,Adnani Amir,4,M-Exempt,--D,78489.0,4140338.0,3,1346101,Common Stock
+D,2024-07-31,,Adnani Amir,4,F-InKind,--D,167966.0,4061849.0,2,1346101,Common Stock
+A,2024-07-31,,Adnani Amir,4,M-Exempt,--D,313954.0,4229815.0,1,1346101,Common Stock
+A,2024-07-26,,DELLA VOLPE VINCENT,4,A-Award,--D,10018.0,32941.0,2,1407958,Restricted Stock Units
+A,2024-07-26,,DELLA VOLPE VINCENT,4,A-Award,--D,15095.0,226049.0,1,1407958,Options
+A,2024-07-26,,KONG DAVID,4,A-Award,--D,10018.0,34616.0,2,1509171,Restricted Stock Units
+A,2024-07-26,,KONG DAVID,4,A-Award,--D,15095.0,179090.0,1,1509171,Options
+A,2024-07-26,,Ballesta Moya Gloria L,4,A-Award,--D,10018.0,33779.0,2,1746922,Restricted Stock Units
+A,2024-07-26,,Ballesta Moya Gloria L,4,A-Award,--D,15095.0,233049.0,1,1746922,Options
+A,2024-07-26,,BERG BRENT,4,A-Award,--D,16394.0,16394.0,2,1950619,Performance Based Restricted Stock Units
+A,2024-07-26,,BERG BRENT,4,A-Award,--D,12022.0,12022.0,1,1950619,Restricted Stock Units
+A,2024-07-26,,OBARA PAT,4,A-Award,--D,78552.0,260451.0,2,1373816,Performance Based Restricted Stock Units
+A,2024-07-26,,OBARA PAT,4,A-Award,--D,57605.0,155081.0,1,1373816,Restricted Stock Units
+A,2024-07-26,,Adnani Amir,4,A-Award,--D,540984.0,1017786.0,2,1346101,Performance Based Restricted Stock Units
+A,2024-07-26,,Adnani Amir,4,A-Award,--D,396721.0,571291.0,1,1346101,Restricted Stock Units
+A,2024-07-26,,Abraham Spencer,4,A-Award,--D,25046.0,92476.0,2,1326633,Restricted Stock Units
+A,2024-07-26,,Abraham Spencer,4,A-Award,--D,37738.0,165705.0,1,1326633,Options
+A,2024-07-26,,Canty Trecia M,4,A-Award,--D,10018.0,25403.0,2,1654375,Restricted Stock Units
+A,2024-07-26,,Canty Trecia M,4,A-Award,--D,15095.0,138314.0,1,1654375,Options
+A,2024-07-26,,MELBYE SCOTT,4,A-Award,--D,82378.0,288387.0,2,1619749,Performance Based Restricted Stock Units
+A,2024-07-26,,MELBYE SCOTT,4,A-Award,--D,60410.0,176859.0,1,1619749,Restricted Stock Units
 D,2024-05-21,,Adnani Amir,4,M-Exempt,--D,850000.0,114915.0,12,1346101,Performance Stock Options
 D,2024-05-21,,Adnani Amir,4,M-Exempt,--D,150000.0,0.0,11,1346101,Options
 D,2024-05-21,,Adnani Amir,4,M-Exempt,--D,550000.0,150000.0,10,1346101,Options
@@ -1150,6 +1226,12 @@ A,2005-12-05,2005-12-05,Adnani Amir,5,A-Award,--D,635334.0,635334.0,1,1346101,Co
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,3,1746922,Options
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,2,1746922,Options
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,1,1746922,Options
+-,-,,Canty Trecia M,4,-,--D,,15095.0,6,1654375,Options
+-,-,,Canty Trecia M,4,-,--D,,23219.0,5,1654375,Options
+-,-,,Canty Trecia M,4,-,--D,,100000.0,4,1654375,Options
+-,-,,Canty Trecia M,4,-,--D,,10018.0,3,1654375,Restricted Stock Units
+-,-,,Adnani Amir,4,-,--I,,421795.0,11,1346101,Performance Based Restricted Stock Units
+-,-,,Adnani Amir,4,-,--I,,980341.0,9,1346101,Common Stock
 -,-,,BERG BRENT,3,-,--D,,,2,1950619,Options
 -,-,,BERG BRENT,3,-,--D,,3045.0,1,1950619,Common Stock
 -,-,,Canty Trecia M,3,-,--D,,,1,1654375,Options
