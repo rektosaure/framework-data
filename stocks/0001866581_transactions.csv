@@ -1,4 +1,12 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-08-19,,"DM Individual Aggregator, LLC",4,S-Sale,--D,11132.0,467228.0,2,1883096,Class A Common Stock
+D,2024-08-19,,"DM Individual Aggregator, LLC",4,S-Sale,--D,156183.0,478360.0,1,1883096,Class A Common Stock
+D,2024-08-19,,"DM Trust Aggregator, LLC",4,S-Sale,--D,11230.0,749416.0,2,1883105,Class A Common Stock
+D,2024-08-19,,"DM Trust Aggregator, LLC",4,S-Sale,--D,248346.0,760646.0,1,1883105,Class A Common Stock
+D,2024-08-19,,Boersma Travis,4,S-Sale,--I,11132.0,467228.0,4,1883154,Class A Common Stock
+D,2024-08-19,,Boersma Travis,4,S-Sale,--I,156183.0,478360.0,3,1883154,Class A Common Stock
+D,2024-08-19,,Boersma Travis,4,S-Sale,--I,11230.0,749416.0,2,1883154,Class A Common Stock
+D,2024-08-19,,Boersma Travis,4,S-Sale,--I,248346.0,760646.0,1,1883154,Class A Common Stock
 D,2024-05-29,,"DM Individual Aggregator, LLC",4,S-Sale,--D,16452.0,634543.0,1,1883096,Class A Common Stock
 D,2024-05-29,,"DM Trust Aggregator, LLC",4,S-Sale,--D,248346.0,1008992.0,1,1883105,Class A Common Stock
 D,2024-05-29,,Boersma Travis,4,S-Sale,--I,16452.0,634543.0,2,1883154,Class A Common Stock

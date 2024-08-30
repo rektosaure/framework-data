@@ -1,4 +1,10 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-08-15,,Pitre Kathleen,4,M-Exempt,--D,600.0,9779.0,4,2009449,Common Stock
+D,2024-08-15,,Pitre Kathleen,4,F-InKind,--D,172.0,39407.9849,2,2009449,Common Stock
+A,2024-08-15,,Pitre Kathleen,4,M-Exempt,--D,600.0,39579.9849,1,2009449,Common Stock
+D,2024-07-15,,Fisher Daniel William,4,M-Exempt,--I,400.0,3864.0,6,1693093,Restricted Stock Units
+D,2024-07-15,,Fisher Daniel William,4,F-InKind,--I,115.0,11100.1655,2,1693093,Common Stock
+A,2024-07-15,,Fisher Daniel William,4,M-Exempt,--I,400.0,11215.1655,1,1693093,Common Stock
 D,2024-06-15,,Sapp Betty J.,4,M-Exempt,--D,858.0,2004.0,2,1780655,Restricted Stock Units
 A,2024-06-15,,Sapp Betty J.,4,M-Exempt,--D,858.0,5714.9158,1,1780655,Deferred Compensation Company Stock Plan
 D,2024-06-15,,Fisher Daniel William,4,M-Exempt,--D,2100.0,11900.0,6,1693093,Restricted Stock Units
@@ -9708,6 +9714,10 @@ D,2003-05-15,,HAYES JOHN A,4,G-Gift,--D,2000.0,60874.0,1,1205943,Common Stock
 -,-,,SOHN HAROLD L,4,-,--I,,831.0,2,1205947,Common Stock
 -,-,,HOOVER R DAVID,4,-,--I,,2836.0,2,1186033,Common Stock
 -,-,,HOOVER R DAVID,4,-,--D,,511120.0,1,1186033,Common Stock
+-,-,,Pitre Kathleen,4,-,--I,,3224.6749,3,2009449,Common Stock
+-,-,,Fisher Daniel William,4,-,--I,,1127.8078,5,1693093,Common Stock
+-,-,,Fisher Daniel William,4,-,--I,,1939.9338,4,1693093,Common Stock
+-,-,,Fisher Daniel William,4,-,--D,,113046.735,3,1693093,Common Stock
 -,-,,Fisher Daniel William,4,-,--I,,1124.7219,5,1693093,Common Stock
 -,-,,Fisher Daniel William,4,-,--I,,1934.6175,4,1693093,Common Stock
 -,-,,Fisher Daniel William,4,-,--I,,10801.7062,3,1693093,Common Stock
@@ -10069,13 +10079,3 @@ D,2003-05-15,,HAYES JOHN A,4,G-Gift,--D,2000.0,60874.0,1,1205943,Common Stock
 -,-,,BAKER CHARLES E,4,-,--I,,240.0,3,1286361,Common Stock
 -,-,,WESTERLUND DAVID A,4,-,--I,,25078.0,4,1205948,Common Stock
 -,-,,WESTERLUND DAVID A,4,-,--I,,2312.0,3,1205948,Common Stock
--,-,,WESTERLUND DAVID A,4,-,--I,,25078.0,4,1205948,Common Stock
--,-,,WESTERLUND DAVID A,4,-,--I,,2312.0,3,1205948,Common Stock
--,-,,Pauley Lisa Ann,4,-,--I,,318.0,3,1397952,Common Stock
--,-,,BAKER CHARLES E,4,-,--I,,320.0,5,1286361,Common Stock
--,-,,BAKER CHARLES E,4,-,--I,,200.0,4,1286361,Common Stock
--,-,,BAKER CHARLES E,4,-,--I,,240.0,3,1286361,Common Stock
--,-,,DEAN HOWARD M,4,-,--I,,1000.0,3,1037490,Common Stock
--,-,,BAKER CHARLES E,4,-,--I,,320.0,4,1286361,Common Stock
--,-,,BAKER CHARLES E,4,-,--I,,200.0,3,1286361,Common Stock
--,-,,BAKER CHARLES E,4,-,--D,,37934.0,2,1286361,Common Stock
