@@ -2,7 +2,7 @@
 
 do_start() {
   echo -e "\nDocker > Starting ITPM utility ..."
-  systemctl is-active --quiet docker || systemctl --user start docker
+  #systemctl is-active --quiet docker || systemctl --user start docker
   docker compose -f docker-compose.yaml up -d
   echo "http://localhost:1337/swagger"
 }
@@ -10,12 +10,12 @@ do_start() {
 do_stop() {
   echo -e "\nDocker > Stopping ITPM utility ..."
   docker compose -f docker-compose.yaml down
-  systemctl --user stop docker
+  #systemctl --user stop docker
 }
 
 do_update() {
   echo -e "\nDocker > Starting ITPM utility ..."
-  systemctl is-active --quiet docker || systemctl --user start docker
+  #systemctl is-active --quiet docker || systemctl --user start docker
   docker compose -f docker-compose.yaml pull
 }
 
