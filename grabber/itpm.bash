@@ -14,7 +14,7 @@ do_stop() {
 }
 
 do_update() {
-  echo -e "\nDocker > Starting ITPM utility ..."
+  echo -e "\nDocker > Updating ITPM utility ..."
   #systemctl is-active --quiet docker || systemctl --user start docker
   docker compose -f docker-compose.yaml pull
 }
