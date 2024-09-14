@@ -1,4 +1,28 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+A,2024-09-06,,AMIN TARANG,4,G-Gift,--I,5427.0,478254.0,15,1513988,"Common Stock, $0.01 par value"
+D,2024-09-06,,AMIN TARANG,4,G-Gift,--D,5427.0,100589.0,14,1513988,"Common Stock, $0.01 par value"
+A,2024-09-06,,AMIN TARANG,4,G-Gift,--I,10890.0,472827.0,13,1513988,"Common Stock, $0.01 par value"
+D,2024-09-06,,AMIN TARANG,4,G-Gift,--I,10890.0,0.0,12,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--D,1128.0,106016.0,11,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--D,8173.0,107144.0,10,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--D,7387.0,115317.0,9,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,336.0,211087.0,8,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,1485.0,211423.0,7,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,1599.0,212908.0,6,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,210.0,211087.0,5,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,1710.0,211297.0,4,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,S-Sale,--I,1500.0,213007.0,3,1513988,"Common Stock, $0.01 par value"
+A,2024-09-05,,AMIN TARANG,4,G-Gift,--I,31937.0,461937.0,2,1513988,"Common Stock, $0.01 par value"
+D,2024-09-05,,AMIN TARANG,4,G-Gift,--D,31937.0,122704.0,1,1513988,"Common Stock, $0.01 par value"
+D,2024-09-03,,Hartnett Jennifer Catherine,4,S-Sale,--D,1801.0,53195.0,1,1927843,Common Stock
+A,2024-08-22,,PRITCHARD BETH M,4,A-Award,--D,821.0,1990.0,1,1228598,"Common Stock, $0.01 par value"
+A,2024-08-22,,Watson Maureen C.,4,A-Award,--D,1103.0,2673.0,1,1683795,"Common Stock, $0.01 par value"
+A,2024-08-22,,Tait Gayle,4,A-Award,--D,1114.0,4134.0,1,1950707,"Common Stock, $0.01 par value"
+A,2024-08-22,,Daniele Tiffany F.,4,A-Award,--D,821.0,5634.0,1,1847339,Common Stock
+A,2024-08-22,,Levitan Lauren Cooks,4,A-Award,--D,821.0,17497.0,1,1683786,"Common Stock, $0.01 par value"
+A,2024-08-22,,Keith Lori,4,A-Award,--D,1147.0,21018.0,1,1816526,"Common Stock, $0.01 par value"
+A,2024-08-22,,Mitchell Kenneth Jr,4,A-Award,--D,1144.0,16171.0,1,1831961,"Common Stock, $0.01 par value"
+A,2024-08-22,,Ferreras Maria,4,A-Award,--D,821.0,821.0,1,2034602,"Common Stock, $0.01 par value"
 D,2024-08-05,,AMIN TARANG,4,S-Sale,--I,548.0,214507.0,1,1513988,"Common Stock, $0.01 par value"
 D,2024-08-05,,AMIN TARANG,4,S-Sale,--I,214.0,215055.0,30,1513988,"Common Stock, $0.01 par value"
 D,2024-08-05,,AMIN TARANG,4,S-Sale,--I,798.0,215269.0,29,1513988,"Common Stock, $0.01 par value"
@@ -1409,6 +1433,7 @@ A,2016-09-21,,Daley Erin C.,4,A-Award,--D,77826.0,77826.0,1,1683790,Stock Option
 A,2016-09-21,,Baruch Richard F Jr,4,A-Award,--D,77826.0,77826.0,1,1553469,Stock Option (Right to Buy) (Common Stock)
 A,2016-09-21,,Bailey John P.,4,A-Award,--D,194563.0,194563.0,1,1684319,Stock Option (Right to Buy) (Common Stock)
 A,2016-09-21,,AMIN TARANG,4,A-Award,--D,428037.0,428037.0,1,1513988,Stock Option (Right to Buy) (Common Stock)
+-,-,,PRITCHARD BETH M,4,-,--I,,18291.0,2,1228598,"Common Stock, $0.01 par value"
 -,-,,AMIN TARANG,4,-,--I,,430000.0,2,1513988,"Common Stock, $0.01 par value"
 -,-,,AMIN TARANG,4,-,--I,,430000.0,16,1513988,"Common Stock, $0.01 par value"
 -,-,,Milsten Scott,4,-,--I,,22761.0,5,1448992,"Common Stock, $0.01 par value"
