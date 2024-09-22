@@ -22,6 +22,29 @@ advertising-and-marketing-1,Cash Flow ($/share),,2665.50,1.54
 advertising-and-marketing-1,Price to Book,,3.45,1.62
 advertising-and-marketing-1,Price To Sales,,2.99,0.40
 advertising-and-marketing-1,Dividend Yield,,1.57%,0.00%
+aerospace-defense-2,1 Month,0.1,2.0,
+aerospace-defense-2,3 Months,4.95,4.57,
+aerospace-defense-2,YTD,-2.49,20.65,
+aerospace-defense-2,1 Year,5.12,31.09,
+aerospace-defense-2,3 Years,-19.47,35.57,
+aerospace-defense-2,5 Years,-46.22,100.76,
+aerospace-defense-2,PE (F1),,19.95,21.14
+aerospace-defense-2,PEG (Ratio),,2.33,2.04
+aerospace-defense-2,Proj EPS Growth,,6.90%,11.91%
+aerospace-defense-2,Hist EPS Growth,,10.06%,5.09%
+aerospace-defense-2,Net Margin,,12.11%,-2.86%
+aerospace-defense-2,Hist Sales Growth,,8.46%,4.40%
+aerospace-defense-2,Hist Dividend Growth,,3.45%,0.00%
+aerospace-defense-2,Beta,,1.04,0.73
+aerospace-defense-2,ROE,,16.46,-2.16
+aerospace-defense-2,ROA,,6.75,-6.34
+aerospace-defense-2,ROI,,10.96,-15.11
+aerospace-defense-2,Debt-to-Equity,,0.60,0.35
+aerospace-defense-2,Current Ratio,,1.18,1.24
+aerospace-defense-2,Cash Flow ($/share),,2665.50,2.12
+aerospace-defense-2,Price to Book,,3.45,2.40
+aerospace-defense-2,Price To Sales,,2.99,1.88
+aerospace-defense-2,Dividend Yield,,1.57%,0.00%
 aerospace-defense-equipment-3,1 Month,6.91,2.0,
 aerospace-defense-equipment-3,3 Months,11.44,4.57,
 aerospace-defense-equipment-3,YTD,27.79,20.65,
@@ -91,6 +114,29 @@ agriculture-products-275,Cash Flow ($/share),,2665.50,243.37
 agriculture-products-275,Price to Book,,3.45,0.92
 agriculture-products-275,Price To Sales,,2.99,0.58
 agriculture-products-275,Dividend Yield,,1.57%,0.00%
+alternative-energy-other-273,1 Month,15.08,2.0,
+alternative-energy-other-273,3 Months,4.46,4.57,
+alternative-energy-other-273,YTD,41.78,20.65,
+alternative-energy-other-273,1 Year,32.64,31.09,
+alternative-energy-other-273,3 Years,31.23,35.57,
+alternative-energy-other-273,5 Years,11.51,100.76,
+alternative-energy-other-273,PE (F1),,19.95,18.32
+alternative-energy-other-273,PEG (Ratio),,2.33,2.34
+alternative-energy-other-273,Proj EPS Growth,,6.90%,3.09%
+alternative-energy-other-273,Hist EPS Growth,,10.06%,6.84%
+alternative-energy-other-273,Net Margin,,12.11%,3.59%
+alternative-energy-other-273,Hist Sales Growth,,8.46%,16.65%
+alternative-energy-other-273,Hist Dividend Growth,,3.45%,0.00%
+alternative-energy-other-273,Beta,,1.04,0.97
+alternative-energy-other-273,ROE,,16.46,0.20
+alternative-energy-other-273,ROA,,6.75,0.32
+alternative-energy-other-273,ROI,,10.96,0.44
+alternative-energy-other-273,Debt-to-Equity,,0.60,0.13
+alternative-energy-other-273,Current Ratio,,1.18,1.46
+alternative-energy-other-273,Cash Flow ($/share),,2665.50,11.87
+alternative-energy-other-273,Price to Book,,3.45,1.28
+alternative-energy-other-273,Price To Sales,,2.99,2.19
+alternative-energy-other-273,Dividend Yield,,1.57%,0.00%
 auction-and-valuation-services-280,1 Month,-0.93,2.0,
 auction-and-valuation-services-280,3 Months,-5.27,4.57,
 auction-and-valuation-services-280,YTD,4.32,20.65,
@@ -281,6 +327,23 @@ automotive-retail-and-wholesale-parts-9,YTD,10.18,20.65,
 automotive-retail-and-wholesale-parts-9,1 Year,5.98,31.09,
 automotive-retail-and-wholesale-parts-9,3 Years,-27.81,35.57,
 automotive-retail-and-wholesale-parts-9,5 Years,-1.62,100.76,
+automotive-retail-and-wholesale-parts-9,PE (F1),,19.95,22.22
+automotive-retail-and-wholesale-parts-9,PEG (Ratio),,2.33,1.49
+automotive-retail-and-wholesale-parts-9,Proj EPS Growth,,6.90%,7.42%
+automotive-retail-and-wholesale-parts-9,Hist EPS Growth,,10.06%,15.55%
+automotive-retail-and-wholesale-parts-9,Net Margin,,12.11%,5.31%
+automotive-retail-and-wholesale-parts-9,Hist Sales Growth,,8.46%,10.81%
+automotive-retail-and-wholesale-parts-9,Hist Dividend Growth,,3.45%,0.00%
+automotive-retail-and-wholesale-parts-9,Beta,,1.04,0.90
+automotive-retail-and-wholesale-parts-9,ROE,,16.46,3.35
+automotive-retail-and-wholesale-parts-9,ROA,,6.75,5.70
+automotive-retail-and-wholesale-parts-9,ROI,,10.96,14.24
+automotive-retail-and-wholesale-parts-9,Debt-to-Equity,,0.60,0.44
+automotive-retail-and-wholesale-parts-9,Current Ratio,,1.18,1.08
+automotive-retail-and-wholesale-parts-9,Cash Flow ($/share),,2665.50,1203.34
+automotive-retail-and-wholesale-parts-9,Price to Book,,3.45,3.06
+automotive-retail-and-wholesale-parts-9,Price To Sales,,2.99,1.85
+automotive-retail-and-wholesale-parts-9,Dividend Yield,,1.57%,0.00%
 banks-foreign-12,1 Month,3.96,2.0,
 banks-foreign-12,3 Months,-4.95,4.57,
 banks-foreign-12,YTD,15.4,20.65,
@@ -304,6 +367,29 @@ banks-foreign-12,Cash Flow ($/share),,2665.50,5076.74
 banks-foreign-12,Price to Book,,3.45,0.89
 banks-foreign-12,Price To Sales,,2.99,1.21
 banks-foreign-12,Dividend Yield,,1.57%,3.74%
+banks-major-regional-204,1 Month,1.74,2.0,
+banks-major-regional-204,3 Months,6.19,4.57,
+banks-major-regional-204,YTD,20.56,20.65,
+banks-major-regional-204,1 Year,41.74,31.09,
+banks-major-regional-204,3 Years,14.75,35.57,
+banks-major-regional-204,5 Years,33.48,100.76,
+banks-major-regional-204,PE (F1),,19.95,12.62
+banks-major-regional-204,PEG (Ratio),,2.33,1.54
+banks-major-regional-204,Proj EPS Growth,,6.90%,-1.13%
+banks-major-regional-204,Hist EPS Growth,,10.06%,6.44%
+banks-major-regional-204,Net Margin,,12.11%,12.15%
+banks-major-regional-204,Hist Sales Growth,,8.46%,11.50%
+banks-major-regional-204,Hist Dividend Growth,,3.45%,5.66%
+banks-major-regional-204,Beta,,1.04,1.16
+banks-major-regional-204,ROE,,16.46,11.78
+banks-major-regional-204,ROA,,6.75,0.97
+banks-major-regional-204,ROI,,10.96,5.96
+banks-major-regional-204,Debt-to-Equity,,0.60,1.09
+banks-major-regional-204,Current Ratio,,1.18,0.85
+banks-major-regional-204,Cash Flow ($/share),,2665.50,5961.00
+banks-major-regional-204,Price to Book,,3.45,1.31
+banks-major-regional-204,Price To Sales,,2.99,1.58
+banks-major-regional-204,Dividend Yield,,1.57%,3.24%
 banks-midwest-13,1 Month,5.2,2.0,
 banks-midwest-13,3 Months,19.76,4.57,
 banks-midwest-13,YTD,14.38,20.65,
@@ -511,6 +597,29 @@ broadcast-radio-and-television-32,Cash Flow ($/share),,2665.50,32.73
 broadcast-radio-and-television-32,Price to Book,,3.45,0.42
 broadcast-radio-and-television-32,Price To Sales,,2.99,0.26
 broadcast-radio-and-television-32,Dividend Yield,,1.57%,0.00%
+building-products-air-conditioner-and-heating-22,1 Month,8.24,2.0,
+building-products-air-conditioner-and-heating-22,3 Months,11.38,4.57,
+building-products-air-conditioner-and-heating-22,YTD,32.84,20.65,
+building-products-air-conditioner-and-heating-22,1 Year,60.55,31.09,
+building-products-air-conditioner-and-heating-22,3 Years,105.96,35.57,
+building-products-air-conditioner-and-heating-22,5 Years,111.21,100.76,
+building-products-air-conditioner-and-heating-22,PE (F1),,19.95,35.40
+building-products-air-conditioner-and-heating-22,PEG (Ratio),,2.33,1.61
+building-products-air-conditioner-and-heating-22,Proj EPS Growth,,6.90%,13.16%
+building-products-air-conditioner-and-heating-22,Hist EPS Growth,,10.06%,23.38%
+building-products-air-conditioner-and-heating-22,Net Margin,,12.11%,7.02%
+building-products-air-conditioner-and-heating-22,Hist Sales Growth,,8.46%,12.39%
+building-products-air-conditioner-and-heating-22,Hist Dividend Growth,,3.45%,0.00%
+building-products-air-conditioner-and-heating-22,Beta,,1.04,0.97
+building-products-air-conditioner-and-heating-22,ROE,,16.46,18.55
+building-products-air-conditioner-and-heating-22,ROA,,6.75,12.64
+building-products-air-conditioner-and-heating-22,ROI,,10.96,18.26
+building-products-air-conditioner-and-heating-22,Debt-to-Equity,,0.60,0.05
+building-products-air-conditioner-and-heating-22,Current Ratio,,1.18,2.99
+building-products-air-conditioner-and-heating-22,Cash Flow ($/share),,2665.50,320.11
+building-products-air-conditioner-and-heating-22,Price to Book,,3.45,7.92
+building-products-air-conditioner-and-heating-22,Price To Sales,,2.99,3.52
+building-products-air-conditioner-and-heating-22,Dividend Yield,,1.57%,0.31%
 building-products-concrete-and-aggregates-27,1 Month,3.5,2.0,
 building-products-concrete-and-aggregates-27,3 Months,1.14,4.57,
 building-products-concrete-and-aggregates-27,YTD,9.13,20.65,
@@ -603,6 +712,29 @@ building-products-lighting-24,Cash Flow ($/share),,2665.50,-2.81
 building-products-lighting-24,Price to Book,,3.45,1.70
 building-products-lighting-24,Price To Sales,,2.99,1.06
 building-products-lighting-24,Dividend Yield,,1.57%,0.00%
+building-products-maintenance-service-29,1 Month,1.52,2.0,
+building-products-maintenance-service-29,3 Months,2.65,4.57,
+building-products-maintenance-service-29,YTD,16.37,20.65,
+building-products-maintenance-service-29,1 Year,31.53,31.09,
+building-products-maintenance-service-29,3 Years,35.51,35.57,
+building-products-maintenance-service-29,5 Years,101.51,100.76,
+building-products-maintenance-service-29,PE (F1),,19.95,32.93
+building-products-maintenance-service-29,PEG (Ratio),,2.33,3.34
+building-products-maintenance-service-29,Proj EPS Growth,,6.90%,11.11%
+building-products-maintenance-service-29,Hist EPS Growth,,10.06%,16.36%
+building-products-maintenance-service-29,Net Margin,,12.11%,3.49%
+building-products-maintenance-service-29,Hist Sales Growth,,8.46%,2.69%
+building-products-maintenance-service-29,Hist Dividend Growth,,3.45%,1.14%
+building-products-maintenance-service-29,Beta,,1.04,1.05
+building-products-maintenance-service-29,ROE,,16.46,17.00
+building-products-maintenance-service-29,ROA,,6.75,6.77
+building-products-maintenance-service-29,ROI,,10.96,12.90
+building-products-maintenance-service-29,Debt-to-Equity,,0.60,0.56
+building-products-maintenance-service-29,Current Ratio,,1.18,1.51
+building-products-maintenance-service-29,Cash Flow ($/share),,2665.50,190.84
+building-products-maintenance-service-29,Price to Book,,3.45,4.72
+building-products-maintenance-service-29,Price To Sales,,2.99,1.08
+building-products-maintenance-service-29,Dividend Yield,,1.57%,0.60%
 building-products-miscellaneous-21,1 Month,8.69,2.0,
 building-products-miscellaneous-21,3 Months,13.92,4.57,
 building-products-miscellaneous-21,YTD,21.48,20.65,
