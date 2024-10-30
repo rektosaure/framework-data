@@ -1,5 +1,14 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
 D,2024-12-03,,KONG DAVID,4,M-Exempt,--D,50000.0,163995.0,4,1509171,Options
+A,2024-09-06,,MELBYE SCOTT,4,P-Purchase,--D,4500.0,988031.0,2,1619749,Common Stock
+A,2024-09-06,,MELBYE SCOTT,4,P-Purchase,--D,5000.0,983531.0,1,1619749,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,15000.0,4242326.0,7,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,2000.0,4227326.0,6,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,15000.0,4225326.0,5,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,5000.0,4210326.0,4,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,10000.0,4205326.0,3,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,3000.0,4195326.0,2,1346101,Common Stock
+A,2024-09-06,,Adnani Amir,4,P-Purchase,--D,10000.0,4192326.0,1,1346101,Common Stock
 D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,18333.0,104323.0,12,1373816,Restricted Stock Units
 D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,10050.0,122656.0,11,1373816,Restricted Stock Units
 D,2024-07-31,,OBARA PAT,4,M-Exempt,--D,22375.0,132706.0,10,1373816,Restricted Stock Units
@@ -1226,6 +1235,13 @@ A,2005-12-05,2005-12-05,Adnani Amir,5,A-Award,--D,635334.0,635334.0,1,1346101,Co
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,3,1746922,Options
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,2,1746922,Options
 -,-,,Ballesta Moya Gloria L,3,-,--D,,,1,1746922,Options
+-,-,,Man Josephine,3,-,--D,,,7,2040485,Restricted Stock Units
+-,-,,Man Josephine,3,-,--D,,,6,2040485,Options
+-,-,,Man Josephine,3,-,--D,,,5,2040485,Options
+-,-,,Man Josephine,3,-,--D,,,4,2040485,Options
+-,-,,Man Josephine,3,-,--D,,,3,2040485,Options
+-,-,,Man Josephine,3,-,--D,,,2,2040485,Options
+-,-,,Man Josephine,3,-,--D,,38827.0,1,2040485,Common Stock
 -,-,,Canty Trecia M,4,-,--D,,15095.0,6,1654375,Options
 -,-,,Canty Trecia M,4,-,--D,,23219.0,5,1654375,Options
 -,-,,Canty Trecia M,4,-,--D,,100000.0,4,1654375,Options
