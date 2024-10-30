@@ -1,12 +1,32 @@
-Value,Type,Insider Purchases Last 6m,Shares,Trans
-0.05145,,,,
-0.02465,,,,
-0.025980001,,,,
-88.0,,,,
-,,Purchases,0,0
-,,Sales,,0
-,,Net Shares Purchased (Sold),0,0
-,,Total Insider Shares Held,118431056,
-,,% Net Shares Purchased (Sold),,
-,,% Buy Shares,,
-,,% Sell Shares,,
+Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
+0.00195,,,,,,,
+1.1168699,,,,,,,
+1.11904,,,,,,,
+612.0,,,,,,,
+1043882767.0,2023-06-30,Price (T.Rowe) Associates Inc,0.1149,3048634.0,Institutional,,
+980515003.0,2023-06-30,Capital International Investors,0.1079,2863570.0,Institutional,,
+850879262.0,2023-06-30,Blackrock Inc.,0.0936,2484972.0,Institutional,,
+849066886.0,2023-06-30,Vanguard Group Inc,0.0934,2479679.0,Institutional,,
+378662316.0,2023-06-30,Capital World Investors,0.0417,1105874.0,Institutional,,
+266530916.0,2023-06-30,Wasatch Advisors LP,0.0293,778397.0,Institutional,,
+260710631.0,2023-06-30,Kayne Anderson Rudnick Investment Management LLC,0.0287,761399.0,Institutional,,
+254329136.0,2023-06-30,State Street Corporation,0.027999999,742762.0,Institutional,,
+219801539.0,2023-06-30,Invesco Ltd.,0.0242,641925.0,Institutional,,
+187362643.0,2023-06-30,Alliancebernstein L.P.,0.020599999,547188.0,Institutional,,
+699886040.0,2023-06-30,Smallcap World Fund,0.077,2044000.0,MutualFund,,
+587816616.0,2023-06-30,Price (T.Rowe) New Horizons Fund,0.0647,1716704.0,MutualFund,,
+347973820.0,2023-06-30,Growth Fund Of America Inc,0.0383,1016249.0,MutualFund,,
+306367923.0,2023-06-30,Amcap Fund,0.0337,894740.0,MutualFund,,
+330834851.0,2023-09-30,iShares Core S&P Midcap ETF,0.0313,829888.0,MutualFund,,
+283296680.0,2023-06-30,Vanguard Total Stock Market Index Fund,0.0312,827361.0,MutualFund,,
+234551877.0,2023-06-30,Vanguard Small-Cap Index Fund,0.025799999,685003.0,MutualFund,,
+134169591.0,2023-06-30,Vanguard Small-Cap Growth Index Fund,0.0148,391839.0,MutualFund,,
+124822826.0,2023-06-30,Vanguard Extended Market Index Fund,0.0137,364542.0,MutualFund,,
+104063192.0,2023-06-30,Janus Henderson Triton Fund,0.0115,303914.0,MutualFund,,
+,,,,4989.0,,Purchases,9
+,,,,820.0,,Sales,1
+,,,,4169.0,,Net Shares Purchased (Sold),10
+,,,,51722.0,,Total Insider Shares Held,
+,,,,0.088,,% Net Shares Purchased (Sold),
+,,,,0.105,,% Buy Shares,
+,,,,0.017,,% Sell Shares,
