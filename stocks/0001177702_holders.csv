@@ -1,8 +1,8 @@
 Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 0.00195,,,,,,,
-1.04706,,,,,,,
-1.04911,,,,,,,
-658.0,,,,,,,
+1.1168699,,,,,,,
+1.11904,,,,,,,
+612.0,,,,,,,
 1043882767.0,2023-06-30,Price (T.Rowe) Associates Inc,0.1149,3048634.0,Institutional,,
 980515003.0,2023-06-30,Capital International Investors,0.1079,2863570.0,Institutional,,
 850879262.0,2023-06-30,Blackrock Inc.,0.0936,2484972.0,Institutional,,
@@ -23,10 +23,10 @@ Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 134169591.0,2023-06-30,Vanguard Small-Cap Growth Index Fund,0.0148,391839.0,MutualFund,,
 124822826.0,2023-06-30,Vanguard Extended Market Index Fund,0.0137,364542.0,MutualFund,,
 104063192.0,2023-06-30,Janus Henderson Triton Fund,0.0115,303914.0,MutualFund,,
-,,,,45464.0,,Purchases,18
-,,,,27699.0,,Sales,8
-,,,,17765.0,,Net Shares Purchased (Sold),26
-,,,,51711.0,,Total Insider Shares Held,
-,,,,0.524,,% Net Shares Purchased (Sold),
-,,,,1.3410001,,% Buy Shares,
-,,,,0.817,,% Sell Shares,
+,,,,4989.0,,Purchases,9
+,,,,820.0,,Sales,1
+,,,,4169.0,,Net Shares Purchased (Sold),10
+,,,,51722.0,,Total Insider Shares Held,
+,,,,0.088,,% Net Shares Purchased (Sold),
+,,,,0.105,,% Buy Shares,
+,,,,0.017,,% Sell Shares,
