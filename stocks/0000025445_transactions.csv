@@ -1,4 +1,29 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,956.0,2870.0,15,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,1250.0,2499.0,14,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,3233.0,1952.0,13,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,3560.0,0.0,12,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,9975.0,0.0,11,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,11325.0,0.0,10,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-23,,Gallo Kurt F.,4,S-Sale,--D,30299.0,0.0,7,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,956.0,30299.0,6,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,1250.0,29343.0,5,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,3233.0,28093.0,4,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,3560.0,24860.0,3,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,9975.0,21300.0,2,1772908,COMMON STOCK
+A,2024-08-23,,Gallo Kurt F.,4,M-Exempt,--D,11325.0,11325.0,1,1772908,COMMON STOCK
+D,2024-08-22,,Gallo Kurt F.,4,M-Exempt,--D,2413.0,5185.0,8,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-22,,Gallo Kurt F.,4,S-Sale,--D,2413.0,0.0,4,1772908,COMMON STOCK
+A,2024-08-22,,Gallo Kurt F.,4,M-Exempt,--D,2413.0,2413.0,3,1772908,COMMON STOCK
+D,2024-08-21,,Gallo Kurt F.,4,M-Exempt,--D,207.0,7598.0,7,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-21,,Gallo Kurt F.,4,S-Sale,--D,207.0,0.0,2,1772908,COMMON STOCK
+A,2024-08-21,,Gallo Kurt F.,4,M-Exempt,--D,207.0,207.0,1,1772908,COMMON STOCK
+D,2024-08-16,,Gallo Kurt F.,4,M-Exempt,--D,7455.0,0.0,5,1772908,Employee Stock Option (Right to Buy)
+D,2024-08-16,,Gallo Kurt F.,4,S-Sale,--D,7455.0,0.0,2,1772908,COMMON STOCK
+A,2024-08-16,,Gallo Kurt F.,4,M-Exempt,--D,7455.0,7455.0,1,1772908,COMMON STOCK
+D,2024-07-27,,Keayes Samuel,4,M-Exempt,--D,2278.0,9072.0,3,2021297,Restricted Share Unit
+D,2024-07-27,,Keayes Samuel,4,F-InKind,--D,1071.0,10772.0,2,2021297,COMMON STOCK
+A,2024-07-27,,Keayes Samuel,4,M-Exempt,--D,2278.0,11843.0,1,2021297,COMMON STOCK
 A,2024-05-23,,DINKINS MICHAEL,4,A-Award,--D,101.0,12629.0,2,1123483,Deferred Stock Units
 A,2024-05-23,,DINKINS MICHAEL,4,A-Award,--D,2377.0,12528.0,1,1123483,Deferred Stock Units
 A,2024-05-23,,Grogan William K,4,A-Award,--D,29.0,5249.0,2,1694002,Deferred Stock Units
@@ -5150,6 +5175,7 @@ D,2003-07-28,,DICKOFF GIL,4,M-Exempt,--D,16264.0,0.0,4,1230648,EMPLOYEE STOCK OP
 A,2003-07-28,,DICKOFF GIL,4,J-Other,--I,257.0,5203.0,3,1230648,"CRANE CO. COMMON, PAR VALUE $1.00"
 D,2003-07-28,,DICKOFF GIL,4,F-InKind,--D,11196.0,48711.0,2,1230648,"CRANE CO. COMMON, PAR VALUE $1.00"
 A,2003-07-28,,DICKOFF GIL,4,M-Exempt,--D,16264.0,0.0,1,1230648,"CRANE CO. COMMON, PAR VALUE $1.00"
+-,-,,Lynch Susan D,3,-,--D,,70.0,1,1784973,Common Stock
 -,-,,PANTALEONI A D,4,-,--I,,17099.0,3,1236282,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,Lavish James A.,4,-,--I,,1295.0,4,1664570,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,Lavish James A.,4,-,--I,,37.0,3,1664570,"CRANE CO. COMMON, PAR VALUE $1.00"
@@ -6052,6 +6078,12 @@ A,2003-07-28,,DICKOFF GIL,4,M-Exempt,--D,16264.0,0.0,1,1230648,"CRANE CO. COMMON
 -,-,,NOONAN THOMAS MICHAEL,4,-,--I,,2664.0,5,1234628,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,DICKOFF G A,4,-,--I,,5558.0,2,1230648,"CRANE CO. COMMON, PAR VALUE $1.00"
 -,-,,ATKINSON JOAN,4,-,--I,,1159.0,3,1230646,"CRANE CO. COMMON, PAR VALUE $1.00"
+-,-,,Gallo Kurt F.,4,-,--I,,34132.0,9,1772908,COMMON STOCK
+-,-,,Gallo Kurt F.,4,-,--I,,1458.0,8,1772908,COMMON STOCK
+-,-,,Gallo Kurt F.,4,-,--I,,1458.0,6,1772908,COMMON STOCK
+-,-,,Gallo Kurt F.,4,-,--I,,34132.0,5,1772908,COMMON STOCK
+-,-,,Gallo Kurt F.,4,-,--I,,1458.0,4,1772908,COMMON STOCK
+-,-,,Gallo Kurt F.,4,-,--I,,34132.0,3,1772908,COMMON STOCK
 -,-,,Keayes Samuel,3,-,--D,,,11,2021297,Restricted Share Unit
 -,-,,Keayes Samuel,3,-,--D,,,10,2021297,Employee Stock Option (Right to Buy)
 -,-,,Keayes Samuel,3,-,--D,,,9,2021297,Employee Stock Option (Right to Buy)
