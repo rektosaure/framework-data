@@ -1,4 +1,13 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-11-08,,SUGAR PATRICK D,4,M-Exempt,--D,377.0,0.0,6,1855286,Stock Options (Right to Buy)
+D,2024-11-08,,SUGAR PATRICK D,4,M-Exempt,--D,427.0,427.0,5,1855286,Stock Options (Right to Buy)
+D,2024-11-08,,SUGAR PATRICK D,4,S-Sale,--D,377.0,6671.0,4,1855286,Common Stock
+D,2024-11-08,,SUGAR PATRICK D,4,S-Sale,--D,427.0,7048.0,3,1855286,Common Stock
+A,2024-11-08,,SUGAR PATRICK D,4,M-Exempt,--D,427.0,7475.0,2,1855286,Common Stock
+A,2024-11-08,,SUGAR PATRICK D,4,M-Exempt,--D,377.0,7048.0,1,1855286,Common Stock
+D,2024-11-08,,ODELL RICHARD D,4,S-Sale,--D,3700.0,2590.0,1,1191293,Common Stock
+D,2024-11-04,,SUGAR PATRICK D,4,F-InKind,--D,466.0,6671.0,1,1855286,Common Stock
+D,2024-11-01,,EISNOR DI-ANN,4,S-Sale,--D,375.0,5243.0,1,1724573,Common Stock
 D,2024-09-09,,RAMU RAYMOND R,4,S-Sale,--D,820.0,3253.0,1,1641145,Common Stock
 A,2024-08-02,,RAMU RAYMOND R,4,I-Discretionary,--D,987.157,8060.401,2,1641145,Phantom Stock
 A,2024-08-01,,GAINOR JOHN P JR,4,P-Purchase,--D,382.0,1282.0,1,1666277,Common Stock
@@ -1713,6 +1722,10 @@ A,2003-05-14,,BURTON JOHN P,4,M-Exempt,--D,4198.0,5448.0,1,1190308,Common Stock
 D,2003-05-07,,BURTON JOHN P,4,M-Exempt,--D,100.0,4198.0,3,1190308,Stock Options (Right to buy)
 D,2003-05-07,,BURTON JOHN P,4,S-Sale,--D,-100.0,1250.0,2,1190308,Common Stock
 A,2003-05-07,,BURTON JOHN P,4,M-Exempt,--D,100.0,1350.0,1,1190308,Common Stock
+-,-,,SUGAR PATRICK D,4,-,--D,,317.3,7,1855286,Phantom Stock
+-,-,,SUGAR PATRICK D,4,-,--D,,377.0,4,1855286,Stock Options (Right to Buy)
+-,-,,SUGAR PATRICK D,4,-,--D,,854.0,3,1855286,Stock Options (Right to Buy)
+-,-,,SUGAR PATRICK D,4,-,--D,,317.3,2,1855286,Phantom Stock
 -,-,,RAMU RAYMOND R,4,-,--D,,700.0,4,1641145,Stock Options (Right to Buy)
 -,-,,RAMU RAYMOND R,4,-,--D,,1280.0,3,1641145,Stock Options (Right to Buy)
 -,-,,RAMU RAYMOND R,4,-,--D,,8060.401,2,1641145,Phantom Stock
