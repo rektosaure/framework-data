@@ -1,4 +1,60 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2024-11-04,,"DM Trust Aggregator, LLC",4,S-Sale,--D,4424.0,15610.0,2,1883105,Class A Common Stock
+D,2024-11-04,,"DM Trust Aggregator, LLC",4,S-Sale,--D,33915.0,20034.0,1,1883105,Class A Common Stock
+D,2024-11-04,,Boersma Travis,4,S-Sale,--I,4424.0,15610.0,2,1883154,Class A Common Stock
+D,2024-11-04,,Boersma Travis,4,S-Sale,--I,33915.0,20034.0,1,1883154,Class A Common Stock
+D,2024-11-01,,"DM Trust Aggregator, LLC",4,S-Sale,--D,169608.0,53949.0,1,1883105,Class A Common Stock
+D,2024-11-01,,"DM Individual Aggregator, LLC",4,S-Sale,--D,115854.0,9817.0,1,1883096,Class A Common Stock
+D,2024-11-01,,Boersma Travis,4,S-Sale,--I,115854.0,9817.0,2,1883154,Class A Common Stock
+D,2024-11-01,,Boersma Travis,4,S-Sale,--I,169608.0,53949.0,1,1883154,Class A Common Stock
+D,2024-10-28,,"DM Individual Aggregator, LLC",4,S-Sale,--D,40323.0,125671.0,1,1883096,Class A Common Stock
+D,2024-10-28,,"DM Trust Aggregator, LLC",4,S-Sale,--D,40397.0,223557.0,1,1883105,Class A Common Stock
+D,2024-10-28,,Boersma Travis,4,S-Sale,--I,40323.0,125671.0,2,1883154,Class A Common Stock
+D,2024-10-28,,Boersma Travis,4,S-Sale,--I,40397.0,223557.0,1,1883154,Class A Common Stock
+D,2024-09-30,,Miller Ann M,4,M-Exempt,--D,762.0,2287.0,2,1911661,Restricted Stock Units
+A,2024-09-30,,Miller Ann M,4,M-Exempt,--D,762.0,7258.0,1,1911661,Class A Common Stock
+D,2024-09-30,,Cone C. David,4,M-Exempt,--D,762.0,2287.0,2,1570143,Restricted Stock Units
+A,2024-09-30,,Cone C. David,4,M-Exempt,--D,762.0,2374.0,1,1570143,Class A Common Stock
+D,2024-09-30,,George Kathryn,4,M-Exempt,--D,762.0,2287.0,2,1883130,Restricted Stock Units
+A,2024-09-30,,George Kathryn,4,M-Exempt,--D,762.0,10055.0,1,1883130,Class A Common Stock
+D,2024-09-30,,Davis Thomas James,4,M-Exempt,--D,762.0,2287.0,2,1884188,Restricted Stock Units
+A,2024-09-30,,Davis Thomas James,4,M-Exempt,--D,762.0,10055.0,1,1884188,Class A Common Stock
+D,2024-09-30,,Gillett Stephen,4,M-Exempt,--D,762.0,2287.0,2,1492029,Restricted Stock Units
+A,2024-09-30,,Gillett Stephen,4,M-Exempt,--D,762.0,14441.0,1,1492029,Class A Common Stock
+D,2024-09-16,,Boersma Travis,4,S-Sale,--I,18223.0,263954.0,2,1883154,Class A Common Stock
+D,2024-09-16,,"DM Trust Aggregator, LLC",4,S-Sale,--D,18223.0,263954.0,2,1883105,Class A Common Stock
+D,2024-09-13,,Boersma Travis,4,S-Sale,--I,151173.0,165994.0,3,1883154,Class A Common Stock
+D,2024-09-13,,Boersma Travis,4,S-Sale,--I,225523.0,282177.0,1,1883154,Class A Common Stock
+D,2024-09-13,,"DM Trust Aggregator, LLC",4,S-Sale,--D,225523.0,282177.0,1,1883105,Class A Common Stock
+D,2024-09-13,,"DM Individual Aggregator, LLC",4,S-Sale,--D,151173.0,165994.0,1,1883096,Class A Common Stock
+D,2024-09-12,,"DM Individual Aggregator, LLC",4,S-Sale,--D,5010.0,317167.0,1,1883096,Class A Common Stock
+D,2024-09-12,,"DM Trust Aggregator, LLC",4,S-Sale,--D,4600.0,507700.0,1,1883105,Class A Common Stock
+D,2024-09-12,,Boersma Travis,4,S-Sale,--I,5010.0,317167.0,2,1883154,Class A Common Stock
+D,2024-09-12,,Boersma Travis,4,S-Sale,--I,4600.0,507700.0,1,1883154,Class A Common Stock
+D,2024-09-09,,"DM Trust Aggregator, LLC",4,S-Sale,--D,186418.0,512300.0,1,1883105,Class A Common Stock
+D,2024-09-09,,"DM Individual Aggregator, LLC",4,S-Sale,--D,94100.0,322177.0,1,1883096,Class A Common Stock
+D,2024-09-09,,Boersma Travis,4,S-Sale,--I,94100.0,322177.0,2,1883154,Class A Common Stock
+D,2024-09-09,,Boersma Travis,4,S-Sale,--I,186418.0,512300.0,1,1883154,Class A Common Stock
+D,2024-09-06,,"DM Individual Aggregator, LLC",4,S-Sale,--D,14441.0,416277.0,1,1883096,Class A Common Stock
+D,2024-09-06,,Boersma Travis,4,S-Sale,--I,14441.0,416277.0,2,1883154,Class A Common Stock
+D,2024-09-06,,Boersma Travis,4,S-Sale,--I,14101.0,698718.0,1,1883154,Class A Common Stock
+D,2024-09-06,,"DM Trust Aggregator, LLC",4,S-Sale,--D,14101.0,698718.0,1,1883105,Class A Common Stock
+D,2024-09-05,,Boersma Travis,4,S-Sale,--I,1800.0,430718.0,2,1883154,Class A Common Stock
+D,2024-09-05,,Boersma Travis,4,S-Sale,--I,1800.0,712819.0,1,1883154,Class A Common Stock
+D,2024-09-05,,"DM Trust Aggregator, LLC",4,S-Sale,--D,1800.0,712819.0,1,1883105,Class A Common Stock
+D,2024-09-05,,"DM Individual Aggregator, LLC",4,S-Sale,--D,1800.0,430718.0,1,1883096,Class A Common Stock
+D,2024-08-27,,Boersma Travis,4,S-Sale,--I,28710.0,432518.0,2,1883154,Class A Common Stock
+D,2024-08-27,,Boersma Travis,4,S-Sale,--I,28786.0,714619.0,1,1883154,Class A Common Stock
+D,2024-08-27,,"DM Individual Aggregator, LLC",4,S-Sale,--D,28710.0,432518.0,1,1883096,Class A Common Stock
+D,2024-08-27,,"DM Trust Aggregator, LLC",4,S-Sale,--D,28786.0,714619.0,1,1883105,Class A Common Stock
+D,2024-08-26,,"DM Individual Aggregator, LLC",4,S-Sale,--D,5600.0,461228.0,1,1883096,Class A Common Stock
+D,2024-08-26,,"DM Trust Aggregator, LLC",4,S-Sale,--D,5611.0,743405.0,1,1883105,Class A Common Stock
+D,2024-08-26,,Boersma Travis,4,S-Sale,--I,5600.0,461228.0,2,1883154,Class A Common Stock
+D,2024-08-26,,Boersma Travis,4,S-Sale,--I,5611.0,743405.0,1,1883154,Class A Common Stock
+D,2024-08-23,,"DM Trust Aggregator, LLC",4,S-Sale,--D,400.0,749016.0,1,1883105,Class A Common Stock
+D,2024-08-23,,"DM Individual Aggregator, LLC",4,S-Sale,--D,400.0,466828.0,1,1883096,Class A Common Stock
+D,2024-08-23,,Boersma Travis,4,S-Sale,--I,400.0,466828.0,2,1883154,Class A Common Stock
+D,2024-08-23,,Boersma Travis,4,S-Sale,--I,400.0,749016.0,1,1883154,Class A Common Stock
 D,2024-08-19,,"DM Individual Aggregator, LLC",4,S-Sale,--D,11132.0,467228.0,2,1883096,Class A Common Stock
 D,2024-08-19,,"DM Individual Aggregator, LLC",4,S-Sale,--D,156183.0,478360.0,1,1883096,Class A Common Stock
 D,2024-08-19,,"DM Trust Aggregator, LLC",4,S-Sale,--D,11230.0,749416.0,2,1883105,Class A Common Stock
