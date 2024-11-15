@@ -1,8 +1,8 @@
 Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 0.048260003,,,,,,,
-0.91091,,,,,,,
-0.95709,,,,,,,
-433.0,,,,,,,
+0.87547,,,,,,,
+0.91985,,,,,,,
+431.0,,,,,,,
 170802590.0,2023-06-30,"FMR, LLC",0.1314,6003606.0,Institutional,,
 99394114.0,2023-06-30,Vanguard Group Inc,0.0765,3493642.0,Institutional,,
 24687686.0,2023-06-30,"ClearBridge Investments, LLC",0.019,867757.0,Institutional,,
@@ -22,10 +22,10 @@ Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 9303000.0,2023-07-31,Federated Hermes Kaufmann Small Cap Fund,0.0066000004,300000.0,MutualFund,,
 8816111.0,2023-08-31,Fidelity Growth Company Fund,0.0064999997,297741.0,MutualFund,,
 7287097.0,2023-06-30,Price (T.Rowe) Small Cap Stock Fund,0.0056,256137.0,MutualFund,,
-,,,,16580937.0,,Purchases,13
-,,,,23316348.0,,Sales,52
-,,,,-6735412.0,,Net Shares Purchased (Sold),65
+,,,,16573961.0,,Purchases,7
+,,,,23179474.0,,Sales,50
+,,,,-6605513.0,,Net Shares Purchased (Sold),57
 ,,,,5493107.0,,Total Insider Shares Held,
-,,,,-0.551,,% Net Shares Purchased (Sold),
-,,,,1.3560001,,% Buy Shares,
-,,,,1.907,,% Sell Shares,
+,,,,-0.546,,% Net Shares Purchased (Sold),
+,,,,1.37,,% Buy Shares,
+,,,,1.916,,% Sell Shares,
