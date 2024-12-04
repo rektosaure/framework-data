@@ -1,0 +1,338 @@
+Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+A,2024-08-23,,Berbee James G,4,P-Purchase,--D,406.1166,10295.4252,1,1732234,Common Stock
+A,2024-05-30,,Berbee James G,4,P-Purchase,--D,57.6551,9834.2021,1,1732234,Common Stock
+A,2024-03-06,,Berbee James G,4,P-Purchase,--D,457.695,9724.7762,1,1732234,Common Stock
+A,2024-03-01,,Lorenz James Jerome,4,A-Award,--D,972.0,4309.2691,4,1859913,Common Stock
+D,2024-03-01,,Lorenz James Jerome,4,F-InKind,--D,237.0,3337.2691,3,1859913,Common Stock
+A,2024-03-01,,Lorenz James Jerome,4,A-Award,--D,740.0,3574.2691,2,1859913,Common Stock
+D,2024-03-01,,Lorenz James Jerome,4,F-InKind,--D,158.0,2834.2691,1,1859913,Common Stock
+A,2024-03-01,,Smith Scott Robert,4,A-Award,--D,921.0,2987.3444,2,1860752,Common Stock
+D,2024-03-01,,Smith Scott Robert,4,F-InKind,--D,180.0,2066.3444,1,1860752,Common Stock
+A,2024-03-01,,Johnson Tamara Jean,4,A-Award,--D,976.0,3678.6216,2,1824019,Common Stock
+D,2024-03-01,,Johnson Tamara Jean,4,F-InKind,--D,264.0,2703.6216,1,1824019,Common Stock
+A,2024-03-01,,Renlund Cari Anne,4,A-Award,--D,1516.0,4758.4393,2,1658362,Common Stock
+D,2024-03-01,,Renlund Cari Anne,4,F-InKind,--D,370.0,3242.4393,1,1658362,Common Stock
+A,2024-03-01,,HOBBIE LYNN K,4,A-Award,--D,1438.0,13111.0614,2,1182985,Common Stock
+D,2024-03-01,,HOBBIE LYNN K,4,F-InKind,--D,401.0,11673.0614,1,1182985,Common Stock
+A,2024-03-01,,Bushek Jared Joseph,4,A-Award,--D,791.2644,3062.1137,3,1824136,Phantom Stock Units
+A,2024-03-01,,Bushek Jared Joseph,4,A-Award,--D,1854.0,4927.527,2,1824136,Common Stock
+D,2024-03-01,,Bushek Jared Joseph,4,F-InKind,--D,298.0,3073.527,1,1824136,Common Stock
+A,2024-03-01,,Keebler Jeffrey M,4,A-Award,--D,1092.5194,2778.8128,3,1650481,Phantom Stock Units
+A,2024-03-01,,Keebler Jeffrey M,4,A-Award,--D,5162.0,16179.499,2,1650481,Common Stock
+D,2024-03-01,,Keebler Jeffrey M,4,F-InKind,--D,1394.0,11017.499,1,1650481,Common Stock
+A,2024-03-01,,Wray Noble Lynnwood,4,A-Award,--D,1267.0,1267.0,1,1881743,Restricted Stock Units
+A,2024-03-01,,WOLTER GARY J,4,A-Award,--D,1267.0,1267.0,1,1182980,Restricted Stock Units
+A,2024-03-01,,Stolper Thomas R,4,A-Award,--D,1267.0,1267.0,1,1452687,Restricted Stock Units
+A,2024-03-01,,Rieger Angela S.,4,A-Award,--D,1061.0,1061.0,1,1981719,Restricted Stock Units
+A,2024-03-01,,Possin James L,4,A-Award,--D,1267.0,1267.0,1,1477220,Restricted Stock Units
+A,2024-03-01,,DEWEY LONDA J,4,A-Award,--D,1267.0,1267.0,1,1425077,Restricted Stock Units
+A,2024-03-01,,Kelly Daniel James,4,A-Award,--D,1061.0,1061.0,1,2012023,Restricted Stock Units
+A,2024-03-01,,Bugher Mark D,4,A-Award,--D,1267.0,1267.0,1,1333487,Restricted Stock Units
+A,2024-03-01,,Berbee James G,4,A-Award,--D,1267.0,1267.0,1,1732234,Restricted Stock Units
+A,2024-03-01,,Ackerman Patricia K,4,A-Award,--D,1061.0,1061.0,1,1532645,Restricted Stock Units
+A,2024-03-01,,Anderson Marcia M,4,A-Award,--D,1267.0,1267.0,1,1731849,Restricted Stock Units
+D,2023-12-31,,Possin James L,4/A,M-Exempt,--D,760.0,0.0,3,1477220,Restricted Stock Units
+A,2023-12-31,,Possin James L,4/A,M-Exempt,--D,760.0,3272.0,1,1477220,Common Stock
+D,2023-12-31,,Bugher Mark D,4,M-Exempt,--D,760.0,0.0,4,1333487,Restricted Stock Units
+D,2023-12-31,,Bugher Mark D,4,D-Return,--D,190.0,1500.0,2,1333487,Common Stock
+A,2023-12-31,,Bugher Mark D,4,M-Exempt,--D,760.0,1690.0,1,1333487,Common Stock
+D,2023-12-31,,WOLTER GARY J,4,M-Exempt,--D,760.0,0.0,4,1182980,Restricted Stock Units
+D,2023-12-31,,WOLTER GARY J,4,D-Return,--D,190.0,20240.8521,2,1182980,Common Stock
+A,2023-12-31,,WOLTER GARY J,4,M-Exempt,--D,760.0,20430.8521,1,1182980,Common Stock
+D,2023-12-31,,Berbee James G,4,M-Exempt,--D,760.0,0.0,2,1732234,Restricted Stock Units
+A,2023-12-31,,Berbee James G,4,M-Exempt,--D,760.0,9218.4852,1,1732234,Common Stock
+D,2023-12-31,,DEWEY LONDA J,4,M-Exempt,--D,760.0,0.0,3,1425077,Restricted Stock Units
+D,2023-12-31,,DEWEY LONDA J,4,D-Return,--D,190.0,5070.0,2,1425077,Common Stock
+A,2023-12-31,,DEWEY LONDA J,4,M-Exempt,--D,760.0,5260.0,1,1425077,Common Stock
+D,2023-12-31,,Anderson Marcia M,4,M-Exempt,--D,760.0,0.0,3,1731849,Restricted Stock Units
+D,2023-12-31,,Anderson Marcia M,4,D-Return,--D,190.0,1129.8066,2,1731849,Common Stock
+A,2023-12-31,,Anderson Marcia M,4,M-Exempt,--D,760.0,1319.8066,1,1731849,Common Stock
+D,2023-12-31,,Stolper Thomas R,4,M-Exempt,--D,760.0,0.0,3,1452687,Restricted Stock Units
+D,2023-12-31,,Stolper Thomas R,4,D-Return,--D,190.0,5670.0,2,1452687,Common Stock
+A,2023-12-31,,Stolper Thomas R,4,M-Exempt,--D,760.0,5860.0,1,1452687,Common Stock
+D,2023-12-31,,Possin James L,4,M-Exempt,--D,760.0,0.0,2,1477220,Restricted Stock Units
+A,2023-12-31,,Possin James L,4,M-Exempt,--D,760.0,4182.0026,1,1477220,Common Stock
+A,2023-12-11,,Keebler Jeffrey M,4,A-Award,--D,1391.7501,1684.5884,1,1650481,Phantom Stock Units
+A,2023-12-06,,Berbee James G,4,P-Purchase,--D,20.1511,8458.4852,1,1732234,Common Stock
+A,2023-12-06,,Smith Scott Robert,4,P-Purchase,--D,134.3444,134.3444,1,1860752,Common Stock
+A,2023-11-15,,Berbee James G,4,P-Purchase,--D,99.8401,8438.334,1,1732234,MGEE Common Stock
+A,2023-08-25,,Berbee James G,4,P-Purchase,--D,433.9878,8290.6662,1,1732234,MGEE Common Stock
+A,2023-05-23,,Berbee James G,4,P-Purchase,--D,59.5637,7816.4503,1,1732234,MGEE Common Stock
+A,2023-03-10,,Lorenz James Jerome,4,P-Purchase,--D,142.8321,2969.7335,1,1859913,MGEE Common Stock
+A,2023-03-10,,Berbee James G,4,P-Purchase,--D,1146.2264,7721.5293,1,1732234,MGEE Common Stock
+A,2023-03-03,,Keebler Jeffrey M,4,A-Award,--D,289.6627,289.6627,1,1650481,Phantom Stock Units
+A,2023-03-02,,Bushek Jared Joseph,4,A-Award,--D,2233.224,2233.224,2,1824136,Phantom Stock Units
+A,2023-03-01,,Bushek Jared Joseph,4,A-Award,--D,1151.0,3362.3383,1,1824136,MGEE Common Stock
+A,2023-03-01,,Wray Noble Lynnwood,4,A-Award,--D,1144.0,1144.0,1,1881743,Restricted Stock Units
+A,2023-03-01,,Berbee James G,4,A-Award,--D,1144.0,1144.0,1,1732234,Restricted Stock Units
+A,2023-03-01,,Lorenz James Jerome,4,A-Award,--D,737.0,2826.9014,1,1859913,MGEE Common Stock
+A,2023-03-01,,Smith Scott Robert,4,A-Award,--D,800.0,2112.0,1,1860752,MGEE Common Stock
+A,2023-03-01,,Bugher Mark D,4,A-Award,--D,1144.0,1144.0,1,1333487,Restricted Stock Units
+A,2023-03-01,,Stolper Thomas R,4,A-Award,--D,1144.0,1144.0,1,1452687,Restricted Stock Units
+A,2023-03-01,,Johnson Tamara Jean,4,A-Award,--D,839.0,2966.1752,1,1824019,MGEE Common Stock
+A,2023-03-01,,WOLTER GARY J,4,A-Award,--D,1144.0,1144.0,1,1182980,Restricted Stock Units
+A,2023-03-01,,Anderson Marcia M,4,A-Award,--D,1144.0,1144.0,1,1731849,Restricted Stock Units
+A,2023-03-01,,Possin James L,4,A-Award,--D,1144.0,1144.0,1,1477220,Restricted Stock Units
+A,2023-03-01,,Renlund Cari Anne,4,A-Award,--D,1174.0,3608.0036,1,1658362,MGEE Common Stock
+A,2023-03-01,,DEWEY LONDA J,4,A-Award,--D,1144.0,1144.0,1,1425077,Restricted Stock Units
+A,2023-03-01,,HOBBIE LYNN K,4,A-Award,--D,1249.0,11891.2869,1,1182985,MGEE Common Stock
+A,2023-03-01,,Keebler Jeffrey M,4,A-Award,--D,3415.0,12356.9815,1,1650481,MGEE Common Stock
+A,2022-11-15,,Berbee James G,4,P-Purchase,--D,172.4129,6537.4321,1,1732234,MGEE Common Stock
+A,2022-08-30,,Berbee James G,4,P-Purchase,--D,361.0015,6330.833,1,1732234,MGEE Common Stock
+A,2022-05-25,,Berbee James G,4,P-Purchase,--D,56.8469,5939.2534,1,1732234,MGEE Common Stock
+A,2022-05-25,,Wray Noble Lynnwood,4,P-Purchase,--D,25.2649,25.2649,1,1881743,MGEE Common Stock
+A,2022-03-11,,Lorenz James Jerome,4,P-Purchase,--D,130.9758,887.4549,1,1859913,MGEE Common Stock
+A,2022-03-04,,Berbee James G,4,P-Purchase,--D,1067.4893,5858.3188,1,1732234,MGEE Common Stock
+A,2022-03-01,,Possin James L,4,P-Purchase,--D,400.0,1200.0,1,1477220,MGEE Common Stock
+A,2022-02-18,,DEWEY LONDA J,4/A,A-Award,--D,692.0,692.0,2,1425077,RESTRICTED STOCK UNITS
+A,2022-02-18,,Possin James L,4/A,A-Award,--D,692.0,692.0,2,1477220,RESTRICTED STOCK UNITS
+A,2022-02-18,,Anderson Marcia M,4/A,A-Award,--D,692.0,692.0,2,1731849,RESTRICTED STOCK UNITS
+A,2022-02-18,,Stolper Thomas R,4/A,A-Award,--D,692.0,692.0,2,1452687,RESTRICTED STOCK UNITS
+A,2022-02-18,,Anderson Marcia M,4/A,A-Award,--D,692.0,692.0,2,1731849,RESTRICTED STOCK UNITS
+A,2022-02-18,,Bugher Mark D,4/A,A-Award,--D,692.0,692.0,2,1333487,RESTRICTED STOCK UNITS
+A,2022-02-18,,DEWEY LONDA J,4/A,A-Award,--D,692.0,692.0,2,1425077,RESTRICTED STOCK UNITS
+A,2022-02-18,,Possin James L,4/A,A-Award,--D,692.0,692.0,2,1477220,RESTRICTED STOCK UNITS
+A,2022-02-18,,Wray Noble Lynnwood,4,A-Award,--D,692.0,692.0,1,1881743,Restricted Stock Units
+A,2022-02-18,,Johnson Tamara Jean,4,A-Award,--D,772.0,2127.0597,2,1824019,MGEE COMMON STOCK
+A,2022-02-18,,HOBBIE LYNN K,4,A-Award,--D,1171.0,10594.942,2,1182985,MGEE COMMON STOCK
+A,2022-02-18,,Keebler Jeffrey M,4,A-Award,--D,3140.0,8927.8597,2,1650481,MGEE COMMON STOCK
+A,2022-02-18,,Bushek Jared Joseph,4,A-Award,--D,869.0,2208.958,2,1824136,MGEE COMMON STOCK
+A,2022-02-18,,Lorenz James Jerome,4,A-Award,--D,691.0,2084.6843,1,1859913,MGEE Common Stock
+A,2022-02-18,,Berbee James G,4,A-Award,--D,692.0,692.0,2,1732234,RESTRICTED STOCK UNITS
+A,2022-02-18,,Smith Scott Robert,4,A-Award,--D,750.0,1312.0,1,1860752,MGEE Common Stock
+A,2022-02-18,,WOLTER GARY J,4,A-Award,--D,692.0,692.0,2,1182980,RESTRICTED STOCK UNITS
+A,2022-02-18,,Renlund Cari Anne,4,A-Award,--D,1080.0,2432.8551,2,1658362,MGEE Common Stock
+A,2021-11-22,,Berbee James G,4,P-Purchase,--D,58.4574,4767.7001,1,1732234,MGEE Common Stock
+A,2021-08-26,,Berbee James G,4,P-Purchase,--D,373.5527,4685.9886,1,1732234,MGEE Common Stock
+A,2021-06-03,,Berbee James G,4,P-Purchase,--D,19.9654,4219.8433,1,1732234,MGEE Common Stock
+A,2021-05-25,,Berbee James G,4,P-Purchase,--D,80.006,4271.8779,1,1732234,MGEE Common Stock
+A,2021-03-08,,Berbee James G,4,P-Purchase,--D,1028.2305,4175.8363,1,1732234,MGEE Common Stock
+A,2021-02-19,,DEWEY LONDA J,4/A,A-Award,--D,760.0,760.0,1,1425077,RESTRICTED STOCK UNITS
+A,2021-02-19,,Possin James L,4/A,A-Award,--D,760.0,760.0,1,1477220,RESTRICTED STOCK UNITS
+A,2021-02-19,,Anderson Marcia M,4/A,A-Award,--D,760.0,760.0,1,1731849,RESTRICTED STOCK UNITS
+A,2021-02-19,,Stolper Thomas R,4/A,A-Award,--D,760.0,760.0,1,1452687,RESTRICTED STOCK UNITS
+A,2021-02-19,,Anderson Marcia M,4/A,A-Award,--D,760.0,760.0,1,1731849,RESTRICTED STOCK UNITS
+A,2021-02-19,,Bugher Mark D,4/A,A-Award,--D,760.0,760.0,1,1333487,RESTRICTED STOCK UNITS
+A,2021-02-19,,DEWEY LONDA J,4/A,A-Award,--D,760.0,760.0,1,1425077,RESTRICTED STOCK UNITS
+A,2021-02-19,,Possin James L,4/A,A-Award,--D,760.0,760.0,1,1477220,RESTRICTED STOCK UNITS
+A,2021-02-19,,Possin James L,4,A-Award,--D,760.0,760.0,1,1477220,Restricted Stock Units
+A,2021-02-19,,DEWEY LONDA J,4,A-Award,--D,760.0,760.0,1,1425077,Restricted Stock Units
+A,2021-02-19,,Bugher Mark D,4,A-Award,--D,760.0,760.0,1,1333487,Restricted Stock Units
+A,2021-02-19,,Anderson Marcia M,4,A-Award,--D,760.0,760.0,1,1731849,Restricted Stock Units
+A,2021-02-19,,Stolper Thomas R,4,A-Award,--D,760.0,760.0,1,1452687,Restricted Stock Units
+A,2021-02-19,,Johnson Tamara Jean,4,A-Award,--D,825.0,1355.0597,1,1824019,MGEE COMMON STOCK
+A,2021-02-19,,HOBBIE LYNN K,4,A-Award,--D,1251.0,9423.942,1,1182985,MGEE COMMON STOCK
+A,2021-02-19,,Keebler Jeffrey M,4,A-Award,--D,3350.0,5787.8597,1,1650481,MGEE COMMON STOCK
+A,2021-02-19,,Bushek Jared Joseph,4,A-Award,--D,929.0,1339.958,1,1824136,MGEE COMMON STOCK
+A,2021-02-19,,Berbee James G,4,A-Award,--D,760.0,760.0,1,1732234,RESTRICTED STOCK UNITS
+A,2021-02-19,,WOLTER GARY J,4,A-Award,--D,760.0,760.0,1,1182980,RESTRICTED STOCK UNITS
+A,2021-02-19,,HASTINGS FRANK C,4,A-Award,--D,760.0,760.0,1,1182973,RESTRICTED STOCK UNITS
+A,2021-02-19,,Peterson Donald D,4,A-Award,--D,589.0,726.2772,1,1769806,MGEE COMMON STOCK
+A,2021-02-19,,Renlund Cari Anne,4,A-Award,--D,1154.0,1352.8551,1,1658362,MGEE Common Stock
+A,2021-02-18,,Possin James L,4,A-Award,--D,692.0,692.0,2,1477220,Restricted Stock Units
+A,2021-02-18,,DEWEY LONDA J,4,A-Award,--D,692.0,692.0,2,1425077,Restricted Stock Units
+A,2021-02-18,,Bugher Mark D,4,A-Award,--D,692.0,692.0,2,1333487,Restricted Stock Units
+A,2021-02-18,,Anderson Marcia M,4,A-Award,--D,692.0,692.0,2,1731849,Restricted Stock Units
+A,2021-02-18,,Stolper Thomas R,4,A-Award,--D,692.0,692.0,2,1452687,Restricted Stock Units
+D,2020-12-14,,NEWMAN JEFFREY C,4,G-Gift,--D,350.0,7134.2668,1,1182989,MGEE Common Stock
+A,2020-12-10,,Berbee James G,4,P-Purchase,--D,21.4711,3131.8342,1,1732234,MGEE Common Stock
+A,2020-11-17,,Berbee James G,4,P-Purchase,--D,122.934,3110.3631,1,1732234,MGEE Common Stock
+A,2020-09-15,,Renlund Cari Anne,4,P-Purchase,--I,3.8219,3.8219,2,1658362,MGEE Common Stock
+A,2020-09-15,,Renlund Cari Anne,4,P-Purchase,--D,152.8817,168.952,1,1658362,MGEE Common Stock
+A,2020-09-10,,Possin James L,4,P-Purchase,--D,200.0,800.0,1,1477220,MGEE Common Stock
+A,2020-08-27,,Berbee James G,4,P-Purchase,--D,22.831,2970.5364,1,1732234,MGEE Common Stock
+A,2020-08-27,,Anderson Marcia M,4,P-Purchase,--D,182.6484,523.0235,1,1731849,MGEE Common Stock
+A,2020-08-20,,Possin James L,4,P-Purchase,--D,300.0,600.0,1,1477220,MGEE Common Stock
+A,2020-08-14,,Berbee James G,4,P-Purchase,--D,940.7617,2947.7054,1,1732234,MGEE Common Stock
+D,2019-12-18,,NEWMAN JEFFREY C,4,G-Gift,--D,300.0,7484.2668,1,1182989,MGEE Common Stock
+A,2019-11-14,,Berbee James G,4,P-Purchase,--D,59.6577,1975.9218,1,1732234,MGEE Common Stock
+A,2019-08-21,,Berbee James G,4,P-Purchase,--D,375.2464,1907.3284,1,1732234,MGEE Common Stock
+A,2019-06-17,,Renlund Cari Anne,4,P-Purchase,--I,7.1988,7.1988,1,1658362,MGEE Common Stock
+A,2019-05-21,,Berbee James G,4,P-Purchase,--D,63.3441,1524.7401,1,1732234,MGEE Common Stock
+A,2019-03-25,,Keebler Jeffrey M,4,P-Purchase,--D,524.9454,2270.7735,1,1650481,MGEE Common Stock
+A,2019-03-05,,Berbee James G,4,P-Purchase,--D,435.765,1456.2065,1,1732234,MGEE Common Stock
+A,2019-03-05,,MILLNER REGINA M,4,P-Purchase,--D,45.9066,2955.8757,1,1182975,MGEE Common Stock
+A,2019-03-05,,Anderson Marcia M,4,P-Purchase,--D,152.9,331.0476,1,1731849,MGEE Common Stock
+D,2018-12-18,,NEWMAN JEFFREY C,4,G-Gift,--D,300.0,7784.2668,1,1182989,MGEE Common Stock
+A,2018-11-13,,Berbee James G,4,P-Purchase,--D,142.0223,1015.4202,1,1732234,MGEE Common Stock
+A,2018-08-28,,Berbee James G,4,P-Purchase,--D,23.1118,869.0583,1,1732234,MGEE Common Stock
+A,2018-08-14,,Berbee James G,4,P-Purchase,--D,239.1793,845.9465,1,1732234,MGEE Common Stock
+A,2018-06-05,,Renlund Cari Anne,4,P-Purchase,--I,2.5864,2.5864,1,1658362,MGEE Common Stock
+A,2018-05-22,,Berbee James G,4,P-Purchase,--D,154.9053,603.4927,1,1732234,MGEE Common Stock
+A,2018-05-15,,Anderson Marcia M,4,P-Purchase,--D,175.4381,175.4381,1,1731849,MGEE Common Stock
+A,2018-03-13,,Berbee James G,4,P-Purchase,--D,448.5874,448.5874,1,1732234,MGEE Common Stock
+A,2018-03-13,,Keebler Jeffrey M,4,P-Purchase,--D,627.4589,1704.4146,1,1650481,MGEE Common Stock
+A,2018-03-06,,MILLNER REGINA M,4,P-Purchase,--D,184.0307,2881.6311,1,1182975,MGEE Common Stock
+D,2017-11-08,,NEWMAN JEFFREY C,4,G-Gift,--D,300.0,8084.2668,1,1182989,MGEE Common Stock
+A,2017-09-05,,Keebler Jeffrey M,4,P-Purchase,--D,546.6674,1068.9412,1,1650481,MGEE Common Stock
+A,2017-06-06,,Renlund Cari Anne,4,P-Purchase,--D,15.124,15.124,1,1658362,MGEE Common Stock
+A,2016-12-06,,Keebler Jeffrey M,4,P-Purchase,--D,198.434,515.8671,1,1650481,MGEE Common Stock
+A,2015-11-11,,MILLNER REGINA M,4,P-Purchase,--D,47.153,2641.7457,1,1182975,MGEE Common Stock
+A,2014-05-13,,Stolper Thomas R,4,P-Purchase,--I,150.0,3300.0,1,1452687,MGEE Common Stock
+A,2014-03-19,,Possin James L,4,P-Purchase,--D,300.0,300.0,1,1477220,MGEE Common Stock
+A,2013-03-05,,NEWMAN JEFFREY C,4,P-Purchase,--D,182.3869,5135.5729,1,1182989,MGEE Common Stock
+A,2012-11-13,,Stolper Thomas R,4,P-Purchase,--I,300.0,2100.0,1,1452687,MGEE Common Stock
+A,2012-08-14,,Bugher Mark D,4,P-Purchase,--I,300.0,300.0,1,1333487,MGEE Common Stock
+A,2012-03-08,,NEITZEL SCOTT A,4,P-Purchase,--I,200.0,600.0,1,1182987,MGEE Common Stock
+A,2012-03-06,,NEWMAN JEFFREY C,4,P-Purchase,--D,227.2376,4800.8711,1,1182989,MGEE Common Stock
+A,2012-03-06,,MILLNER REGINA M,4,P-Purchase,--D,35.2218,1654.3354,1,1182975,MGEE Common Stock
+A,2012-03-01,,Possin James L,4,P-Purchase,--I,200.0,607.0026,1,1477220,MGEE Common Stock
+A,2012-02-29,,MILLNER REGINA M,4,P-Purchase,--D,66.0,1619.1336,1,1182975,MGEE Common Stock
+A,2012-02-29,,Stolper Thomas R,4,P-Purchase,--I,400.0,1800.0,1,1452687,MGEE Common Stock
+A,2011-08-10,,Stolper Thomas R,4,P-Purchase,--I,300.0,1400.0,2,1452687,MGEE Common Stock
+A,2011-08-10,,Stolper Thomas R,4,P-Purchase,--I,100.0,1100.0,1,1452687,MGEE Common Stock
+A,2011-06-02,,Possin James L,4,P-Purchase,--I,200.0,400.0,1,1477220,MGEE Common Stock
+A,2011-05-24,,MILLNER REGINA M,4/A,P-Purchase,--D,146.5105,1536.5544,1,1182975,MGEE Common Stock
+A,2011-05-24,,MILLNER REGINA M,4,P-Purchase,--D,146.5105,603.5544,1,1182975,MGEE Common Stock
+A,2011-05-23,,Bugher Mark D,4,P-Purchase,--I,270.0,620.0,1,1333487,MGEE Common Stock
+A,2011-05-16,,Possin James L,4/A,P-Purchase,--I,200.0,200.0,1,1477220,MGEE Common Stock
+A,2011-05-16,,Possin James L,4,P-Purchase,--I,200.0,1075.0,1,1477220,MGEE Common Stock
+A,2011-05-11,,Stolper Thomas R,4,P-Purchase,--I,300.0,1000.0,1,1452687,MGEE Common Stock
+A,2011-03-08,,Stolper Thomas R,4/A,P-Purchase,--I,200.0,700.0,1,1452687,MGEE Common Stock
+A,2011-03-08,,Stolper Thomas R,4,P-Purchase,--I,200.0,200.0,1,1452687,MGEE Common Stock
+A,2011-03-02,,NEWMAN JEFFREY C,4/A,P-Purchase,--I,62.2327,137.0666,2,1182989,MGEE Common Stock
+A,2011-03-02,,NEWMAN JEFFREY C,4/A,P-Purchase,--D,248.9308,4412.8026,1,1182989,MGEE Common Stock
+A,2011-03-01,,Possin James L,4,P-Purchase,--I,500.0,875.0,1,1477220,MGEE Common Stock
+A,2010-11-23,,Stolper Thomas R,4,P-Purchase,--D,200.0,1700.0,1,1452687,MGEE Common Stock
+A,2010-11-15,,Bugher Mark D,4,P-Purchase,--I,250.0,350.0,1,1333487,MGEE Common Stock
+A,2010-09-07,,EUCLIDE KRISTINE A,4,P-Purchase,--D,318.6092,3287.0554,1,1182983,MGEE Common Stock
+A,2010-06-04,,Stolper Thomas R,4,P-Purchase,--D,200.0,1500.0,1,1452687,MGEE Common Stock
+A,2010-05-24,,Stolper Thomas R,4,P-Purchase,--D,300.0,1300.0,1,1452687,MGEE Common Stock
+A,2010-03-11,,DEWEY LONDA J,4,P-Purchase,--D,200.0,3000.0,5,1425077,MGEE Common Stock
+A,2010-03-11,,DEWEY LONDA J,4,P-Purchase,--D,181.0,2800.0,4,1425077,MGEE Common Stock
+A,2010-03-11,,DEWEY LONDA J,4,P-Purchase,--D,119.0,2619.0,3,1425077,MGEE Common Stock
+A,2010-03-11,,DEWEY LONDA J,4,P-Purchase,--D,400.0,2500.0,2,1425077,MGEE Common Stock
+A,2010-03-11,,DEWEY LONDA J,4,P-Purchase,--D,100.0,2100.0,1,1425077,MGEE Common Stock
+A,2010-03-09,,EUCLIDE KRISTINE A,4,P-Purchase,--D,429.5754,2911.9942,1,1182983,MGEE Common Stock
+A,2010-03-02,,NEWMAN JEFFREY C,4,P-Purchase,--D,293.4849,4007.3174,1,1182989,MGEE Common Stock
+A,2009-03-17,,Stolper Thomas R,4,P-Purchase,--D,200.0,1000.0,1,1452687,MGEE Common Stock
+A,2009-03-06,,NEVIN JOHN R,4,P-Purchase,--D,300.0,2254.0,1,1182977,MGEE Common Stock
+A,2009-03-03,,NEWMAN JEFFREY C,4,P-Purchase,--D,170.2765,3556.6668,1,1182989,MGEE Common Stock
+A,2008-11-18,,EUCLIDE KRISTINE A,4,P-Purchase,--D,588.6508,2349.177,1,1182983,MGEE Common Stock
+A,2008-08-28,,DEWEY LONDA J,4,P-Purchase,--D,200.0,2000.0,2,1425077,MGEE Common Stock
+A,2008-08-28,,DEWEY LONDA J,4,P-Purchase,--D,800.0,1800.0,1,1425077,MGEE Common Stock
+A,2008-03-11,,HANSON TERRY A,4,P-Purchase,--D,206.6116,5838.6035,1,1182984,MGEE Common Stock
+A,2008-03-04,,NEITZEL SCOTT A,4,P-Purchase,--D,110.0145,2802.9467,1,1182987,MGEE Common Stock
+A,2007-06-13,,NEVIN JOHN R,4,P-Purchase,--D,200.0,1816.7,1,1182977,"MGE Energy, Inc., Common Stock"
+A,2007-03-06,,NEWMAN JEFFREY C,4,P-Purchase,--I,14.7336,63.403,2,1182989,MGEE Common Stock
+A,2007-03-06,,NEWMAN JEFFREY C,4,P-Purchase,--I,14.7336,43.841,1,1182989,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,2.0,8000.0,10,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,2.0,7998.0,9,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,98.0,7996.0,8,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,100.0,7898.0,7,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,100.0,7798.0,6,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,100.0,7698.0,5,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,100.0,7598.0,4,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,300.0,7498.0,3,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,100.0,7198.0,2,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4/A,P-Purchase,--D,98.0,7098.0,1,1182979,MGEE Common Stock
+A,2007-03-02,,SWANSON HAROLD L,4,P-Purchase,--D,1000.0,8000.0,1,1182979,Common Stock
+A,2006-08-15,,NEITZEL SCOTT A,4,P-Purchase,--D,109.4708,2529.7433,1,1182987,"MGE Energy, Inc., Common Stock"
+A,2006-06-06,,MILLNER REGINA M,4,P-Purchase,--D,64.5786,1304.4592,1,1182975,"MGE Energy, Inc.Common Stock"
+A,2006-05-30,,HANSON TERRY A,4,W-Will,--D,75.0,5231.8129,1,1182984,Common Stock
+A,2005-08-15,,EUCLIDE KRISTINE A,4,P-Purchase,--I,275.0267,275.0267,1,1182983,Common Stock
+A,2005-05-16,,MILLNER REGINA M,4,P-Purchase,--D,295.0801,1228.0801,1,1182975,Common Stock
+A,2004-06-15,,NEWMAN JEFFREY C,4,P-Purchase,--D,330.841,2816.5903,1,1182989,Common Stock
+A,2004-05-26,,SWANSON HAROLD L,4/A,P-Purchase,--D,1000.0,7000.0,1,1182979,Common Stock
+A,2004-05-26,,SWANSON HAROLD L,4/A,P-Purchase,--D,1000.0,7000.0,1,1182979,Common Stock
+A,2004-05-26,,SWANSON HAROLD L,4,P-Purchase,--D,1000.0,7000.0,1,1182979,Common Stock
+A,2004-05-15,,HASTINGS FRANK C,4,P-Purchase,--I,842.3748,342.8808,3,1182973,Common Stock
+A,2004-05-15,,HASTINGS FRANK C,4,P-Purchase,--I,842.3748,339.4251,2,1182973,Common Stock
+A,2004-05-15,,HASTINGS FRANK C,4,P-Purchase,--D,842.3748,2294.2998,1,1182973,Common Stock
+A,2004-05-15,,EUCLIDE KRISTINE A,4,P-Purchase,--D,505.4249,1461.8448,1,1182983,Common Stock
+A,2004-05-10,,NEVIN JOHN R,4,P-Purchase,--D,200.0,1339.0,1,1182977,"MGE Energy, Inc. Common Stock"
+A,2003-06-15,,EUCLIDE KRISTINE A,4,P-Purchase,--D,489.3006,921.041,1,1182983,Common Stock
+-,-,,HOBBIE LYNN K,4,-,--I,,127.7914,2,1182985,MGEE Common Stock
+-,-,,HOBBIE LYNN K,4,-,--I,,127.855,3,1182985,MGEE COMMON STOCK
+-,-,,Lorenz James Jerome,3/A,-,--D,,1238.5162,1,1859913,MGEE Common Stock
+-,-,,Peterson Donald D,4,-,--I,,677.4077,2,1769806,MGEE COMMON STOCK
+-,-,,Smith Scott Robert,3/A,-,--D,,562.0,1,1860752,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,1312.0,3,1477220,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,910.0026,2,1477220,MGEE Common Stock
+-,-,,Wray Noble Lynnwood,3,-,--D,,0.0,1,1881743,MGEE Common Stock
+-,-,,Lorenz James Jerome,3,-,--D,,745.5162,1,1859913,MGEE Common Stock
+-,-,,Smith Scott Robert,3,-,--D,,0.0,1,1860752,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,99.6135,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,166.6965,2,1182989,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,2.6863,5,1658362,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,7.3433,4,1658362,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,8.0315,3,1658362,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,1312.0,3,1477220,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,910.0026,2,1477220,MGEE Common Stock
+-,-,,Bushek Jared Joseph,3,-,--D,,392.5073,1,1824136,MGEE Common Stock
+-,-,,Johnson Tamara Jean,3,-,--I,,510.0,2,1824019,MGEE Common Stock
+-,-,,Johnson Tamara Jean,3,-,--D,,19.1642,1,1824019,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,1312.0,3,1477220,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,910.0026,2,1477220,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,97.5204,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,163.2852,2,1182989,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--D,,15.676,4,1658362,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,2.6232,3,1658362,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,7.8361,2,1658362,MGEE Common Stock
+-,-,,Peterson Donald D,3,-,--I,,639.1403,2,1769806,MGEE Common Stock
+-,-,,Peterson Donald D,3,-,--D,,129.2157,1,1769806,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,96.1127,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,160.2456,2,1182989,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--D,,15.3623,3,1658362,MGEE Common Stock
+-,-,,Renlund Cari Anne,4,-,--I,,7.6807,2,1658362,MGEE Common Stock
+-,-,,Berbee James G,3,-,--D,,0.0,1,1732234,MGEE Common Stock
+-,-,,Anderson Marcia M,3,-,--D,,0.0,1,1731849,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,156.8266,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,93.6386,2,1182989,MGEE Common Stock
+-,-,,Renlund Cari Anne,3,-,--D,,0.0,1,1658362,MGEE Common Stock
+-,-,,Keebler Jeffrey M,3,-,--D,,307.7339,1,1650481,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1800.0,2,1452687,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,1312.0,3,1477220,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,910.0026,2,1477220,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,92.7858,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,55.3251,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,146.0922,2,1182989,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1200.0,2,1452687,MGEE Common Stock
+-,-,,Bugher Mark D,4,-,--I,,620.0,2,1333487,MGEE Common Stock
+-,-,,NEITZEL SCOTT A,4,-,--D,,3296.2257,2,1182987,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,90.0079,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,53.6027,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,141.5437,2,1182989,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,875.0,2,1477220,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1200.0,2,1452687,MGEE Common Stock
+-,-,,FENRICK CRAIG A,3,-,--I,,544.2183,2,1540545,MGEE Common Stock
+-,-,,FENRICK CRAIG A,3,-,--D,,1702.6567,1,1540545,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1200.0,3,1452687,MGEE Common Stock
+-,-,,Possin James L,4,-,--I,,875.0,2,1477220,MGEE Common Stock
+-,-,,Possin James L,4/A,-,--I,,875.0,2,1477220,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1200.0,2,1452687,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4/A,-,--I,,86.8123,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4/A,-,--I,,51.6911,3,1182989,MGEE Common Stock
+-,-,,Stolper Thomas R,4/A,-,--D,,1200.0,2,1452687,MGEE Common Stock
+-,-,,Stolper Thomas R,4,-,--D,,1700.0,2,1452687,MGEE Common Stock
+-,-,,Bugher Mark D,3,-,--I,,100.0,1,1333487,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,83.5831,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,49.7096,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,71.9657,2,1182989,MGE Common Stock
+-,-,,Possin James L,3,-,--I,,375.0,1,1477220,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,80.0539,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,47.577,3,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,68.8789,2,1182989,MGEE Common Stock
+-,-,,Stolper Thomas R,3,-,--D,,800.0,1,1452687,MGEE Common Stock
+-,-,,HANSON TERRY A,4,-,--I,,662.6174,2,1182984,MGEE Common Stock
+-,-,,NEITZEL SCOTT A,4,-,--I,,400.0,2,1182987,MGEE Common Stock
+-,-,,DEWEY LONDA J,3,-,--D,,1000.0,1,1425077,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,73.6749,4,1182989,MGEE Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--D,,3109.8288,3,1182989,MGEE Common Stock
+-,-,,NEITZEL SCOTT A,4,-,--I,,400.0,2,1182987,"MGE Energy, Inc., Common Stock"
+-,-,,HANSON TERRY A,4,-,--I,,167.367,3,1182984,Common Stock
+-,-,,HANSON TERRY A,4,-,--I,,448.4277,2,1182984,Common Stock
+-,-,,EUCLIDE KRISTINE A,4,-,--D,,1537.4553,2,1182983,Common Stock
+-,-,,HASTINGS FRANK C,4/A,-,--I,,342.8808,2,1182973,Common Stock
+-,-,,HASTINGS FRANK C,4/A,-,--I,,339.4251,1,1182973,Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,66.6039,3,1182989,Common Stock
+-,-,,NEWMAN JEFFREY C,4,-,--I,,136.9218,2,1182989,Common Stock
+-,-,,Lagerwall Jenny Lynn,3,-,--D,,475.0,2,2028765,Common Stock
+-,-,,Lagerwall Jenny Lynn,3,-,--D,,309.3439,1,2028765,Common Stock
+-,-,,HOBBIE LYNN K,4,-,--I,,131.3341,3,1182985,Common Stock
+-,-,,Rieger Angela S.,3,-,--D,,0.0,1,1981719,Common Stock
+-,-,,Ackerman Patricia K,3,-,--D,,0.0,1,1532645,Common Stock
+-,-,,Kelly Daniel James,3,-,--D,,0.0,1,2012023,Common Stock
+-,-,,Possin James L,4/A,-,--I,,910.0026,2,1477220,Common Stock
+-,-,,Bugher Mark D,4,-,--I,,450.0,3,1333487,Common Stock
+-,-,,WOLTER GARY J,4,-,--I,,317.1753,3,1182980,Common Stock
