@@ -1,0 +1,1201 @@
+Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+A,2024-11-22,,STARRETT PETER,4,A-Award,--D,6385.0,7683.0,1,1219766,Common Stock
+A,2024-11-22,,Hazen John,4,A-Award,--D,5473.0,16550.0,1,1766683,Common Stock
+A,2024-11-22,,Watkins James M,4,A-Award,--D,1095.0,12278.0,1,1562356,Common Stock
+D,2024-11-11,,Conroy James Grant,4,M-Exempt,--D,6106.0,0.0,15,1623534,Options
+D,2024-11-11,,Conroy James Grant,4,S-Sale,--D,1100.0,23670.0,10,1623534,Common Stock
+D,2024-11-11,,Conroy James Grant,4,S-Sale,--D,8296.0,24770.0,9,1623534,Common Stock
+D,2024-11-11,,Conroy James Grant,4,S-Sale,--D,33615.0,33066.0,8,1623534,Common Stock
+D,2024-11-11,,Conroy James Grant,4,S-Sale,--D,9368.0,66681.0,7,1623534,Common Stock
+A,2024-11-11,,Conroy James Grant,4,M-Exempt,--D,6106.0,76049.0,6,1623534,Common Stock
+D,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,18880.0,0.0,14,1623534,Options
+D,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,31184.0,0.0,13,1623534,Options
+D,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,3633.0,6106.0,12,1623534,Options
+D,2024-11-08,,Conroy James Grant,4,S-Sale,--D,18989.0,69943.0,5,1623534,Common Stock
+D,2024-11-08,,Conroy James Grant,4,S-Sale,--D,34708.0,88932.0,4,1623534,Common Stock
+A,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,18880.0,123640.0,3,1623534,Common Stock
+A,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,31184.0,104760.0,2,1623534,Common Stock
+A,2024-11-08,,Conroy James Grant,4,M-Exempt,--D,3633.0,73576.0,1,1623534,Common Stock
+D,2024-09-10,,Watkins James M,4,M-Exempt,--D,730.0,0.0,9,1562356,Options
+D,2024-09-10,,Watkins James M,4,M-Exempt,--D,1502.0,0.0,8,1562356,Options
+D,2024-09-10,,Watkins James M,4,M-Exempt,--D,1369.0,0.0,7,1562356,Options
+D,2024-09-10,,Watkins James M,4,S-Sale,--D,1579.0,11408.0,5,1562356,Common Stock
+D,2024-09-10,,Watkins James M,4,S-Sale,--D,7777.0,12987.0,4,1562356,Common Stock
+A,2024-09-10,,Watkins James M,4,M-Exempt,--D,730.0,20764.0,3,1562356,Common Stock
+A,2024-09-10,,Watkins James M,4,M-Exempt,--D,1502.0,20034.0,2,1562356,Common Stock
+A,2024-09-10,,Watkins James M,4,M-Exempt,--D,1369.0,18532.0,1,1562356,Common Stock
+D,2024-08-30,,MACDONALD ANNE,4,S-Sale,--D,1698.0,0.0,1,1240498,Common Stock
+D,2024-08-12,,Watkins James M,4,F-InKind,--D,269.0,17163.0,1,1562356,Common Stock
+D,2024-05-23,,MACDONALD ANNE,4,S-Sale,--D,1956.0,1698.0,1,1240498,Common Stock
+D,2024-05-23,,Morris Brenda I,4,S-Sale,--D,1500.0,4546.0,1,1323610,Common Stock
+D,2024-05-23,,Love Michael A,4,S-Sale,--D,1079.0,2112.0,2,1766863,Common Stock
+D,2024-05-22,,Hazen John,4,F-InKind,--D,852.0,3937.0,1,1766683,Common Stock
+D,2024-05-22,,Love Michael A,4,F-InKind,--D,562.0,3191.0,1,1766863,Common Stock
+D,2024-05-22,,Grijalva Laurie Marie,4,F-InKind,--D,811.0,13348.0,1,1623311,Common Stock
+D,2024-05-22,,Watkins James M,4,F-InKind,--D,259.0,16902.0,1,1562356,Common Stock
+D,2024-05-22,,Conroy James Grant,4,F-InKind,--D,3486.0,69943.0,1,1623534,Common Stock
+D,2024-05-21,,Love Michael A,4,S-Sale,--D,5653.0,2327.0,2,1766863,Common Stock
+D,2024-05-19,,Hazen John,4,F-InKind,--D,735.0,2633.0,1,1766683,Common Stock
+D,2024-05-19,,Love Michael A,4,F-InKind,--D,811.0,7980.0,1,1766863,Common Stock
+D,2024-05-19,,Grijalva Laurie Marie,4,F-InKind,--D,735.0,12054.0,1,1623311,Common Stock
+D,2024-05-19,,Watkins James M,4,F-InKind,--D,735.0,16436.0,1,1562356,Common Stock
+D,2024-05-19,,Conroy James Grant,4,F-InKind,--D,5113.0,66552.0,1,1623534,Common Stock
+D,2024-05-17,,Hazen John,4,S-Sale,--D,3563.0,1309.0,2,1766683,Common Stock
+A,2024-05-16,,STARRETT PETER,4,A-Award,--D,1298.0,2996.0,1,1219766,Common Stock
+A,2024-05-16,,Weston Bradley Morgan,4,A-Award,--D,1298.0,2996.0,1,1748006,Common Stock
+A,2024-05-16,,Morris Brenda I,4,A-Award,--D,1298.0,2996.0,1,1323610,Common Stock
+A,2024-05-16,,MACDONALD ANNE,4,A-Award,--D,1298.0,2996.0,1,1240498,Common Stock
+A,2024-05-16,,Laube Lisa,4,A-Award,--D,1298.0,2996.0,1,1288841,Common Stock
+A,2024-05-16,,Burt Gene Eddie,4,A-Award,--D,1298.0,2996.0,1,1540838,Common Stock
+A,2024-05-16,,Bruzzo Chris,4,A-Award,--D,1298.0,2996.0,1,1525336,Common Stock
+A,2024-05-16,,Hazen John,4,A-Award,--D,4925.0,15292.0,1,1766683,Common Stock
+A,2024-05-16,,Love Michael A,4,A-Award,--D,4925.0,14322.0,1,1766863,Common Stock
+A,2024-05-16,,Grijalva Laurie Marie,4,A-Award,--D,4925.0,15241.0,1,1623311,Common Stock
+A,2024-05-16,,Watkins James M,4,A-Award,--D,4925.0,14844.0,1,1562356,Common Stock
+A,2024-05-16,,Conroy James Grant,4,A-Award,--D,23503.0,71243.0,1,1623534,Common Stock
+D,2024-05-14,,Hazen John,4,F-InKind,--D,248.0,4872.0,2,1766683,Common Stock
+D,2024-05-14,,Love Michael A,4,F-InKind,--D,180.0,6732.0,2,1766863,Common Stock
+D,2024-05-14,,Grijalva Laurie Marie,4,F-InKind,--D,248.0,10730.0,2,1623311,Common Stock
+D,2024-05-14,,Watkins James M,4,F-InKind,--D,163.0,15112.0,2,1562356,Common Stock
+D,2024-05-14,,Conroy James Grant,4,F-InKind,--D,1295.0,61578.0,2,1623534,Common Stock
+D,2024-05-12,,Hazen John,4,F-InKind,--D,479.0,4426.0,1,1766683,Common Stock
+D,2024-05-12,,Love Michael A,4,F-InKind,--D,529.0,6457.0,1,1766863,Common Stock
+D,2024-05-12,,Grijalva Laurie Marie,4,F-InKind,--D,479.0,10284.0,1,1623311,Common Stock
+D,2024-05-12,,Watkins James M,4,F-InKind,--D,479.0,14820.0,1,1562356,Common Stock
+D,2024-05-12,,Conroy James Grant,4,F-InKind,--D,4080.0,60319.0,1,1623534,Common Stock
+D,2024-04-22,,Conroy James Grant,4,F-InKind,--D,10354.0,56349.0,2,1623534,Common Stock
+A,2024-04-22,,Conroy James Grant,4,A-Award,--D,20430.0,66703.0,1,1623534,Common Stock
+A,2024-04-22,,Watkins James M,4,A-Award,--D,3638.0,13957.0,1,1562356,Common Stock
+D,2024-04-22,,Grijalva Laurie Marie,4,F-InKind,--D,1994.0,9421.0,2,1623311,Common Stock
+A,2024-04-22,,Grijalva Laurie Marie,4,A-Award,--D,5554.0,11415.0,1,1623311,Common Stock
+D,2024-04-22,,Love Michael A,4,F-InKind,--D,959.0,5644.0,2,1766863,Common Stock
+A,2024-04-22,,Love Michael A,4,A-Award,--D,3638.0,6603.0,1,1766863,Common Stock
+D,2024-04-22,,Hazen John,4,F-InKind,--D,1991.0,3563.0,2,1766683,Common Stock
+A,2024-04-22,,Hazen John,4,A-Award,--D,5554.0,5554.0,1,1766683,Common Stock
+D,2024-02-29,,Conroy James Grant,4,M-Exempt,--D,19478.0,9739.0,4,1623534,Options
+D,2024-02-29,,Conroy James Grant,4,S-Sale,--D,19478.0,46273.0,2,1623534,Common Stock
+A,2024-02-29,,Conroy James Grant,4,M-Exempt,--D,19478.0,65751.0,1,1623534,Common Stock
+D,2024-02-21,,Love Michael A,4,M-Exempt,--D,3970.0,0.0,6,1766863,Options
+D,2024-02-21,,Love Michael A,4,M-Exempt,--D,5061.0,0.0,5,1766863,Options
+D,2024-02-21,,Love Michael A,4,S-Sale,--D,9031.0,2965.0,3,1766863,Common Stock
+A,2024-02-21,,Love Michael A,4,M-Exempt,--D,3970.0,11996.0,2,1766863,Common Stock
+A,2024-02-21,,Love Michael A,4,M-Exempt,--D,5061.0,8026.0,1,1766863,Common Stock
+D,2024-02-15,,Grijalva Laurie Marie,4,S-Sale,--D,5861.0,5861.0,1,1623311,Common Stock
+D,2024-02-08,,Burt Gene Eddie,4,S-Sale,--D,1000.0,1542.0,1,1540838,Common Stock
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,1557.0,0.0,15,1562356,Options
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,1461.0,730.0,14,1562356,Options
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,1119.0,0.0,13,1562356,Options
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,3005.0,1502.0,12,1562356,Options
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,2738.0,1369.0,11,1562356,Options
+D,2023-11-07,,Watkins James M,4,M-Exempt,--D,2924.0,0.0,10,1562356,Options
+D,2023-11-07,,Watkins James M,4,G-Gift,--D,2500.0,10319.0,8,1562356,Common Stock
+D,2023-11-07,,Watkins James M,4,S-Sale,--D,15099.0,12819.0,7,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,1557.0,27918.0,6,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,1461.0,26361.0,5,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,1119.0,24900.0,4,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,3005.0,23781.0,3,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,2738.0,20776.0,2,1562356,Common Stock
+A,2023-11-07,,Watkins James M,4,M-Exempt,--D,2924.0,18038.0,1,1562356,Common Stock
+D,2023-11-01,,Watkins James M,4,F-InKind,--D,120.0,15114.0,1,1562356,Common Stock
+D,2023-08-15,,Conroy James Grant,4,M-Exempt,--D,113637.0,0.0,7,1623534,Options
+D,2023-08-15,,Conroy James Grant,4,S-Sale,--D,113637.0,46273.0,4,1623534,Common Stock
+A,2023-08-15,,Conroy James Grant,4,M-Exempt,--D,113637.0,159910.0,3,1623534,Common Stock
+D,2023-08-14,,Conroy James Grant,4,M-Exempt,--D,113636.0,113637.0,6,1623534,Options
+D,2023-08-14,,Conroy James Grant,4,S-Sale,--D,113636.0,46273.0,2,1623534,Common Stock
+A,2023-08-14,,Conroy James Grant,4,M-Exempt,--D,113636.0,159909.0,1,1623534,Common Stock
+D,2023-08-11,,Love Michael A,4,S-Sale,--D,10250.0,2965.0,1,1766863,Common Stock
+D,2023-08-10,,Watkins James M,4,F-InKind,--D,184.0,14887.0,1,1562356,Common Stock
+D,2023-08-10,,Grijalva Laurie Marie,4,M-Exempt,--D,22674.0,0.0,9,1623311,Options
+D,2023-08-10,,Grijalva Laurie Marie,4,M-Exempt,--D,6749.0,0.0,8,1623311,Options
+D,2023-08-10,,Grijalva Laurie Marie,4,S-Sale,--D,35440.0,11722.0,5,1623311,Common Stock
+A,2023-08-10,,Grijalva Laurie Marie,4,M-Exempt,--D,22674.0,47162.0,4,1623311,Common Stock
+A,2023-08-10,,Grijalva Laurie Marie,4,M-Exempt,--D,6749.0,24488.0,3,1623311,Common Stock
+D,2023-08-09,,Grijalva Laurie Marie,4,M-Exempt,--D,5993.0,22674.0,7,1623311,Options
+D,2023-08-09,,Grijalva Laurie Marie,4,S-Sale,--D,5993.0,17739.0,2,1623311,Common Stock
+A,2023-08-09,,Grijalva Laurie Marie,4,M-Exempt,--D,5993.0,23732.0,1,1623311,Common Stock
+D,2023-08-03,,Hazen John,4,M-Exempt,--D,3107.0,0.0,10,1766683,Options
+D,2023-08-03,,Hazen John,4,M-Exempt,--D,3259.0,3258.0,9,1766683,Options
+D,2023-08-03,,Hazen John,4,M-Exempt,--D,3053.0,3053.0,8,1766683,Options
+D,2023-08-03,,Hazen John,4,M-Exempt,--D,11254.0,0.0,7,1766683,Options
+D,2023-08-03,,Hazen John,4,S-Sale,--D,26567.0,0.0,5,1766683,Common Stock
+A,2023-08-03,,Hazen John,4,M-Exempt,--D,3107.0,26567.0,4,1766683,Common Stock
+A,2023-08-03,,Hazen John,4,M-Exempt,--D,3259.0,23460.0,3,1766683,Common Stock
+A,2023-08-03,,Hazen John,4,M-Exempt,--D,3053.0,20201.0,2,1766683,Common Stock
+A,2023-08-03,,Hazen John,4,M-Exempt,--D,11254.0,17148.0,1,1766683,Common Stock
+D,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,7166.0,0.0,7,1633114,Common Stock
+D,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,11000.0,0.0,6,1633114,Options
+D,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,0.0,5,1633114,Options
+D,2023-05-26,,Hackman Gregory V.,4,S-Sale,--D,15749.0,57120.0,4,1633114,Common Stock
+A,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,7166.0,72869.0,3,1633114,Common Stock
+A,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,65703.0,2,1633114,Common Stock
+A,2023-05-26,,Hackman Gregory V.,4,M-Exempt,--D,11000.0,58954.0,1,1633114,Common Stock
+D,2023-05-22,,Love Michael A,4,F-InKind,--D,348.0,13215.0,2,1766863,Common Stock
+D,2023-05-22,,Hazen John,4,F-InKind,--D,746.0,5894.0,2,1766683,Common Stock
+D,2023-05-22,,Grijalva Laurie Marie,4,F-InKind,--D,728.0,17739.0,2,1623311,Common Stock
+D,2023-05-22,,Hackman Gregory V.,4,F-InKind,--D,764.0,47954.0,2,1633114,Common Stock
+D,2023-05-22,,Conroy James Grant,4,F-InKind,--D,3410.0,46273.0,2,1623534,Common Stock
+D,2023-05-20,,Love Michael A,4,F-InKind,--D,185.0,12136.0,1,1766863,Common Stock
+D,2023-05-20,,Hazen John,4,F-InKind,--D,398.0,4484.0,1,1766683,Common Stock
+D,2023-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,398.0,16362.0,1,1623311,Common Stock
+D,2023-05-20,,Hackman Gregory V.,4,F-InKind,--D,398.0,46510.0,1,1633114,Common Stock
+D,2023-05-20,,Conroy James Grant,4,F-InKind,--D,1732.0,42806.0,1,1623534,Common Stock
+A,2023-05-19,,Love Michael A,4,A-Award,--D,6176.0,13377.0,1,1766863,Common Stock
+A,2023-05-19,,Hazen John,4,A-Award,--D,6176.0,15708.0,1,1766683,Common Stock
+A,2023-05-19,,Grijalva Laurie Marie,4,A-Award,--D,6176.0,15606.0,1,1623311,Common Stock
+A,2023-05-19,,Watkins James M,4,A-Award,--D,6176.0,13319.0,1,1562356,Common Stock
+A,2023-05-19,,Conroy James Grant,4,A-Award,--D,30261.0,68713.0,1,1623534,Common Stock
+A,2023-05-19,,Bruzzo Chris,4,A-Award,--D,1698.0,1698.0,1,1525336,Common Stock
+A,2023-05-19,,Burt Gene Eddie,4,A-Award,--D,1698.0,1698.0,1,1540838,Common Stock
+A,2023-05-19,,Weston Bradley Morgan,4,A-Award,--D,1698.0,1698.0,1,1748006,Common Stock
+A,2023-05-19,,Laube Lisa,4,A-Award,--D,1698.0,1698.0,1,1288841,Common Stock
+A,2023-05-19,,MACDONALD ANNE,4,A-Award,--D,1698.0,1698.0,1,1240498,Common Stock
+A,2023-05-19,,Morris Brenda I,4,A-Award,--D,1698.0,1698.0,1,1323610,Common Stock
+A,2023-05-19,,STARRETT PETER,4,A-Award,--D,1698.0,1698.0,1,1219766,Common Stock
+D,2023-05-14,,Love Michael A,4,F-InKind,--D,110.0,11565.0,2,1766863,Common Stock
+D,2023-05-14,,Hazen John,4,F-InKind,--D,240.0,3733.0,2,1766683,Common Stock
+D,2023-05-14,,Grijalva Laurie Marie,4,F-InKind,--D,240.0,15611.0,2,1623311,Common Stock
+D,2023-05-14,,Hackman Gregory V.,4,F-InKind,--D,406.0,45759.0,2,1633114,Common Stock
+D,2023-05-14,,Conroy James Grant,4,F-InKind,--D,1267.0,41046.0,2,1623534,Common Stock
+D,2023-05-12,,Love Michael A,4,F-InKind,--D,372.0,11220.0,1,1766863,Common Stock
+D,2023-05-12,,Hazen John,4,F-InKind,--D,465.0,3279.0,1,1766683,Common Stock
+D,2023-05-12,,Grijalva Laurie Marie,4,F-InKind,--D,501.0,15157.0,1,1623311,Common Stock
+D,2023-05-12,,Hackman Gregory V.,4,F-InKind,--D,688.0,44992.0,1,1633114,Common Stock
+D,2023-05-12,,Conroy James Grant,4,F-InKind,--D,3992.0,39759.0,1,1623534,Common Stock
+D,2023-03-19,,Hazen John,4,F-InKind,--D,1349.0,2402.0,1,1766683,Common Stock
+D,2023-02-10,,Conroy James Grant,4,M-Exempt,--D,26278.0,0.0,6,1623534,Options
+D,2023-02-10,,Conroy James Grant,4,M-Exempt,--D,30602.0,0.0,5,1623534,Options
+D,2023-02-10,,Conroy James Grant,4,S-Sale,--D,56880.0,35701.0,3,1623534,Common Stock
+A,2023-02-10,,Conroy James Grant,4,M-Exempt,--D,26278.0,92581.0,2,1623534,Common Stock
+A,2023-02-10,,Conroy James Grant,4,M-Exempt,--D,30602.0,66303.0,1,1623534,Common Stock
+A,2022-11-09,,Watkins James M,4,P-Purchase,--D,2500.0,11730.0,1,1562356,Common Stock
+D,2022-08-29,,BETTINELLI GREG,4,D-Return,--D,1265.0,4859.0,1,1583198,Common Stock
+A,2022-08-22,,STARRETT PETER,4,P-Purchase,--I,4000.0,14799.0,1,1219766,Common Stock
+A,2022-08-08,,Bruzzo Chris,4,P-Purchase,--I,1532.0,1532.0,1,1525336,Common Stock
+A,2022-08-05,,Watkins James M,4,P-Purchase,--D,2500.0,8353.0,1,1562356,Common Stock
+D,2022-06-05,,Love Michael A,4,F-InKind,--D,150.0,10250.0,1,1766863,Common Stock
+D,2022-06-05,,Grijalva Laurie Marie,4,F-InKind,--D,252.0,14316.0,1,1623311,Common Stock
+D,2022-06-05,,Hackman Gregory V.,4,F-InKind,--D,252.0,42702.0,1,1633114,Common Stock
+D,2022-06-05,,Conroy James Grant,4,F-InKind,--D,1307.0,35701.0,1,1623534,Common Stock
+A,2022-05-27,,STARRETT PETER,4,P-Purchase,--I,1200.0,10799.0,1,1219766,Common Stock
+D,2022-05-25,,Hazen John,4,S-Sale,--D,1087.0,0.0,7,1766683,Common Stock
+D,2022-05-24,,Love Michael A,4,F-InKind,--D,276.0,10019.0,2,1766863,Common Stock
+D,2022-05-24,,Hazen John,4,S-Sale,--D,350.0,1087.0,6,1766683,Common Stock
+D,2022-05-24,,Hazen John,4,S-Sale,--D,5216.0,1437.0,5,1766683,Common Stock
+D,2022-05-24,,Grijalva Laurie Marie,4,F-InKind,--D,311.0,14060.0,2,1623311,Common Stock
+D,2022-05-24,,Conroy James Grant,4,F-InKind,--D,1140.0,34373.0,2,1623534,Common Stock
+D,2022-05-23,,Hazen John,4,M-Exempt,--D,3053.0,6106.0,10,1766683,Options
+D,2022-05-23,,Hazen John,4,M-Exempt,--D,3259.0,6517.0,9,1766683,Options
+D,2022-05-23,,Hazen John,4,S-Sale,--D,6312.0,6653.0,4,1766683,Common Stock
+A,2022-05-23,,Hazen John,4,M-Exempt,--D,3053.0,12965.0,3,1766683,Common Stock
+A,2022-05-23,,Hazen John,4,M-Exempt,--D,3259.0,9912.0,2,1766683,Common Stock
+D,2022-05-22,,Love Michael A,4,F-InKind,--D,479.0,9595.0,1,1766863,Common Stock
+D,2022-05-22,,Hazen John,4,F-InKind,--D,1069.0,6653.0,1,1766683,Common Stock
+D,2022-05-22,,Grijalva Laurie Marie,4,F-InKind,--D,1044.0,13744.0,1,1623311,Common Stock
+D,2022-05-22,,Hackman Gregory V.,4,F-InKind,--D,1095.0,41819.0,1,1633114,Common Stock
+D,2022-05-22,,Conroy James Grant,4,F-InKind,--D,3410.0,33214.0,1,1623534,Common Stock
+D,2022-05-20,,Hazen John,4,M-Exempt,--D,3107.0,3107.0,5,1766683,Options
+D,2022-05-20,,Hazen John,4,S-Sale,--D,3107.0,5566.0,3,1766683,Common Stock
+A,2022-05-20,,Hazen John,4,M-Exempt,--D,3107.0,8673.0,2,1766683,Common Stock
+D,2022-05-20,,Hazen John,4,F-InKind,--D,571.0,5566.0,1,1766683,Common Stock
+D,2022-05-20,,Love Michael A,4,F-InKind,--D,185.0,8647.0,1,1766863,Common Stock
+D,2022-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,571.0,12683.0,1,1623311,Common Stock
+D,2022-05-20,,Conroy James Grant,4,F-InKind,--D,1732.0,29747.0,1,1623534,Common Stock
+D,2022-05-14,,Love Michael A,4,F-InKind,--D,111.0,8075.0,2,1766863,Common Stock
+D,2022-05-14,,Hazen John,4,F-InKind,--D,345.0,4987.0,2,1766683,Common Stock
+D,2022-05-14,,Grijalva Laurie Marie,4,F-InKind,--D,345.0,12104.0,2,1623311,Common Stock
+D,2022-05-14,,Conroy James Grant,4,F-InKind,--D,1267.0,27986.0,2,1623534,Common Stock
+A,2022-05-12,,Love Michael A,4,A-Award,--D,4025.0,12718.0,1,1766863,Common Stock
+A,2022-05-12,,Hazen John,4,A-Award,--D,4025.0,19320.0,1,1766683,Common Stock
+A,2022-05-12,,Grijalva Laurie Marie,4,A-Award,--D,4025.0,16551.0,1,1623311,Common Stock
+A,2022-05-12,,Watkins James M,4,A-Award,--D,4025.0,12306.0,1,1562356,Common Stock
+A,2022-05-12,,Hackman Gregory V.,4,A-Award,--D,5750.0,23682.0,1,1633114,Common Stock
+A,2022-05-12,,Conroy James Grant,4,A-Award,--D,86189.0,86189.0,4,1623534,Options
+A,2022-05-12,,Conroy James Grant,4,A-Award,--D,24149.0,66914.0,1,1623534,Common Stock
+A,2022-05-12,,Bruzzo Chris,4,A-Award,--D,1265.0,2542.0,1,1525336,Common Stock
+A,2022-05-12,,Burt Gene Eddie,4,A-Award,--D,1265.0,2542.0,1,1540838,Common Stock
+A,2022-05-12,,Weston Bradley Morgan,4,A-Award,--D,1265.0,2542.0,1,1748006,Common Stock
+A,2022-05-12,,Laube Lisa,4,A-Award,--D,1265.0,2542.0,1,1288841,Common Stock
+A,2022-05-12,,MACDONALD ANNE,4,A-Award,--D,1265.0,2542.0,1,1240498,Common Stock
+A,2022-05-12,,Morris Brenda I,4,A-Award,--D,1265.0,2542.0,1,1323610,Common Stock
+A,2022-05-12,,BETTINELLI GREG,4,A-Award,--D,1265.0,2542.0,1,1583198,Common Stock
+A,2022-05-12,,STARRETT PETER,4,A-Award,--D,1265.0,2542.0,1,1219766,Common Stock
+D,2022-04-26,,Love Michael A,4,F-InKind,--D,1491.0,7731.0,2,1766863,Common Stock
+A,2022-04-26,,Love Michael A,4,A-Award,--D,6054.0,9222.0,1,1766863,Common Stock
+D,2022-04-26,,Hazen John,4,F-InKind,--D,4561.0,4637.0,2,1766683,Common Stock
+A,2022-04-26,,Hazen John,4,A-Award,--D,9198.0,9198.0,1,1766683,Common Stock
+D,2022-04-26,,Grijalva Laurie Marie,4,F-InKind,--D,3181.0,11754.0,2,1623311,Common Stock
+A,2022-04-26,,Grijalva Laurie Marie,4,A-Award,--D,9198.0,14935.0,1,1623311,Common Stock
+A,2022-04-26,,Watkins James M,4,A-Award,--D,1152.0,3652.0,1,1562356,Common Stock
+A,2022-04-26,,Hackman Gregory V.,4,A-Award,--D,9198.0,38383.0,1,1633114,Common Stock
+D,2022-04-26,,Conroy James Grant,4,F-InKind,--D,12201.0,26699.0,2,1623534,Common Stock
+A,2022-04-26,,Conroy James Grant,4,A-Award,--D,27942.0,38900.0,1,1623534,Common Stock
+D,2022-03-23,,Hazen John,4,S-Sale,--D,2420.0,0.0,4,1766683,Common Stock
+D,2022-03-21,,Hazen John,4,M-Exempt,--D,11254.0,11254.0,6,1766683,Options
+D,2022-03-21,,Hazen John,4,S-Sale,--D,11254.0,2420.0,3,1766683,Common Stock
+A,2022-03-21,,Hazen John,4,M-Exempt,--D,11254.0,13674.0,2,1766683,Common Stock
+D,2022-03-19,,Hazen John,4,F-InKind,--D,1331.0,2420.0,1,1766683,Common Stock
+A,2022-02-24,,Watkins James M,4,P-Purchase,--D,2500.0,2500.0,1,1562356,Common Stock
+D,2021-11-22,,Conroy James Grant,4,G-Gift,-ED,4000.0,10958.0,1,1623534,Common Stock
+D,2021-11-18,,STARRETT PETER,4,S-Sale,--I,2500.0,9599.0,2,1219766,Common Stock
+D,2021-11-18,,STARRETT PETER,4,G-Gift,-EI,2500.0,12099.0,1,1219766,Common Stock
+D,2021-11-17,,Hackman Gregory V.,4,M-Exempt,--D,3127.0,9379.0,6,1633114,Options
+D,2021-11-17,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,6749.0,5,1633114,Options
+D,2021-11-17,,Hackman Gregory V.,4,S-Sale,--D,9876.0,29185.0,3,1633114,Common Stock
+A,2021-11-17,,Hackman Gregory V.,4,M-Exempt,--D,3127.0,39061.0,2,1633114,Common Stock
+A,2021-11-17,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,35934.0,1,1633114,Common Stock
+D,2021-11-16,,MACDONALD ANNE,4,S-Sale,--D,975.0,8158.0,3,1240498,Common Stock
+D,2021-11-15,,MACDONALD ANNE,4,S-Sale,--D,675.0,9133.0,2,1240498,Common Stock
+D,2021-11-15,,MACDONALD ANNE,4,S-Sale,--D,300.0,9808.0,1,1240498,Common Stock
+D,2021-11-12,,Grijalva Laurie Marie,4,M-Exempt,--D,13498.0,6749.0,4,1623311,Options
+D,2021-11-12,,Grijalva Laurie Marie,4,S-Sale,--D,13498.0,5737.0,2,1623311,Common Stock
+A,2021-11-12,,Grijalva Laurie Marie,4,M-Exempt,--D,13498.0,19235.0,1,1623311,Common Stock
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,2045.0,4090.0,14,1766863,Options
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,2157.0,6470.0,13,1766863,Options
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,3971.0,3970.0,12,1766863,Options
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,2021.0,6062.0,11,1766863,Options
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,3680.0,0.0,10,1766863,Options
+D,2021-11-05,,Love Michael A,4,M-Exempt,--D,5062.0,5061.0,9,1766863,Options
+D,2021-11-05,,Love Michael A,4,S-Sale,--D,18936.0,5517.0,7,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,2045.0,24453.0,6,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,2157.0,22408.0,5,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,3971.0,20251.0,4,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,2021.0,16280.0,3,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,3680.0,14259.0,2,1766863,Common Stock
+A,2021-11-05,,Love Michael A,4,M-Exempt,--D,5062.0,10579.0,1,1766863,Common Stock
+D,2021-11-02,,Hackman Gregory V.,4,G-Gift,-ED,128.0,29185.0,1,1633114,Common Stock
+A,2021-11-01,,Watkins James M,4,A-Award,--D,1387.0,10676.0,1,1562356,Common Stock
+D,2021-08-27,,Hackman Gregory V.,4,M-Exempt,--D,4079.0,7166.0,6,1633114,Options
+D,2021-08-27,,Hackman Gregory V.,4,M-Exempt,--D,3005.0,9015.0,5,1633114,Options
+D,2021-08-27,,Hackman Gregory V.,4,S-Sale,--D,7084.0,29313.0,3,1633114,Common Stock
+A,2021-08-27,,Hackman Gregory V.,4,M-Exempt,--D,4079.0,36397.0,2,1633114,Common Stock
+A,2021-08-27,,Hackman Gregory V.,4,M-Exempt,--D,3005.0,32318.0,1,1633114,Common Stock
+D,2021-08-25,,Love Michael A,4,S-Sale,--D,5517.0,3168.0,1,1766863,Common Stock
+D,2021-08-25,,Conroy James Grant,4,M-Exempt,--D,20000.0,30602.0,4,1623534,Options
+D,2021-08-25,,Conroy James Grant,4,S-Sale,--D,20000.0,14958.0,2,1623534,Common Stock
+A,2021-08-25,,Conroy James Grant,4,M-Exempt,--D,20000.0,34958.0,1,1623534,Common Stock
+D,2021-08-20,,Morris Brenda I,4,S-Sale,--D,3000.0,4426.0,2,1323610,Common Stock
+D,2021-08-19,,Morris Brenda I,4,S-Sale,--D,3000.0,7426.0,1,1323610,Common Stock
+D,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3107.0,6214.0,9,1633114,Options
+D,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3337.0,10010.0,8,1633114,Options
+D,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3088.0,11245.0,7,1633114,Options
+D,2021-08-11,,Hackman Gregory V.,4,S-Sale,--D,9532.0,29313.0,5,1633114,Common Stock
+A,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3107.0,38845.0,4,1633114,Common Stock
+A,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3337.0,35738.0,3,1633114,Common Stock
+A,2021-08-11,,Hackman Gregory V.,4,M-Exempt,--D,3088.0,32401.0,2,1633114,Common Stock
+D,2021-08-10,,Hackman Gregory V.,4,F-InKind,--D,527.0,29313.0,1,1633114,Common Stock
+D,2021-08-09,,BETTINELLI GREG,4,M-Exempt,--D,3547.0,0.0,4,1583198,Options
+D,2021-08-09,,BETTINELLI GREG,4,S-Sale,--D,3547.0,3582.0,2,1583198,Common Stock
+A,2021-08-09,,BETTINELLI GREG,4,M-Exempt,--D,3547.0,7129.0,1,1583198,Common Stock
+D,2021-06-05,,Love Michael A,4,F-InKind,--D,150.0,8685.0,1,1766863,Common Stock
+D,2021-06-05,,Grijalva Laurie Marie,4,F-InKind,--D,252.0,5737.0,1,1623311,Common Stock
+D,2021-06-05,,Hackman Gregory V.,4,F-InKind,--D,252.0,28779.0,1,1633114,Common Stock
+D,2021-06-05,,Conroy James Grant,4,F-InKind,--D,1307.0,14958.0,1,1623534,Common Stock
+D,2021-05-27,,Conroy James Grant,4,M-Exempt,--D,8493.0,0.0,4,1623534,Options
+D,2021-05-27,,Conroy James Grant,4,S-Sale,--D,8493.0,13629.0,2,1623534,Common Stock
+A,2021-05-27,,Conroy James Grant,4,M-Exempt,--D,8493.0,22122.0,1,1623534,Common Stock
+D,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,9740.0,29217.0,17,1623534,Options
+D,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,20075.0,8493.0,16,1623534,Options
+D,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,19913.0,26278.0,15,1623534,Option
+D,2021-05-26,,Conroy James Grant,4,S-Sale,--D,49728.0,13629.0,10,1623534,Common Stock
+A,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,19913.0,63357.0,9,1623534,Common Stock
+A,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,9740.0,43444.0,8,1623534,Common Stock
+A,2021-05-26,,Conroy James Grant,4,M-Exempt,--D,20075.0,33704.0,7,1623534,Common Stock
+D,2021-05-25,,Hazen John,4,S-Sale,--D,1087.0,0.0,6,1766683,Common Stock
+D,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,9440.0,18880.0,14,1623534,Options
+D,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,10395.0,31184.0,13,1623534,Options
+D,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,6365.0,46191.0,12,1623534,Options
+D,2021-05-25,,Conroy James Grant,4,S-Sale,--D,38822.0,13629.0,6,1623534,Common Stock
+A,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,9440.0,52451.0,5,1623534,Common Stock
+A,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,10395.0,43011.0,4,1623534,Common Stock
+A,2021-05-25,,Conroy James Grant,4,M-Exempt,--D,6365.0,32616.0,3,1623534,Common Stock
+D,2021-05-24,,Love Michael A,4,F-InKind,--D,171.0,8454.0,2,1766863,Common Stock
+D,2021-05-24,,Hazen John,4,M-Exempt,--D,3259.0,9776.0,9,1766683,Options
+D,2021-05-24,,Hazen John,4,M-Exempt,--D,3054.0,9159.0,8,1766683,Options
+D,2021-05-24,,Hazen John,4,S-Sale,--D,6313.0,1087.0,5,1766683,Common Stock
+A,2021-05-24,,Hazen John,4,M-Exempt,--D,3259.0,7400.0,4,1766683,Common Stock
+A,2021-05-24,,Hazen John,4,M-Exempt,--D,3054.0,4141.0,3,1766683,Common Stock
+D,2021-05-24,,Hazen John,4,S-Sale,--D,579.0,1087.0,2,1766683,Common Stock
+D,2021-05-24,,Grijalva Laurie Marie,4,F-InKind,--D,311.0,5481.0,2,1623311,Common Stock
+D,2021-05-24,,Hackman Gregory V.,4,F-InKind,--D,311.0,28523.0,2,1633114,Common Stock
+D,2021-05-24,,Conroy James Grant,4,F-InKind,--D,1140.0,26251.0,2,1623534,Common Stock
+D,2021-05-22,,Love Michael A,4,F-InKind,--D,348.0,7924.0,1,1766863,Common Stock
+D,2021-05-22,,Hazen John,4,F-InKind,--D,1069.0,1666.0,1,1766683,Common Stock
+D,2021-05-22,,Grijalva Laurie Marie,4,F-InKind,--D,1044.0,5165.0,1,1623311,Common Stock
+D,2021-05-22,,Hackman Gregory V.,4,F-InKind,--D,1095.0,28207.0,1,1633114,Common Stock
+D,2021-05-22,,Conroy James Grant,4,F-InKind,--D,3411.0,25092.0,1,1623534,Common Stock
+D,2021-05-21,,Grijalva Laurie Marie,4,M-Exempt,--D,20500.0,0.0,5,1623311,Options
+D,2021-05-21,,Grijalva Laurie Marie,4,S-Sale,--D,20500.0,4104.0,3,1623311,Common Stock
+A,2021-05-21,,Grijalva Laurie Marie,4,M-Exempt,--D,20500.0,24604.0,2,1623311,Common Stock
+D,2021-05-20,,Love Michael A,4,F-InKind,--D,429.0,6845.0,1,1766863,Common Stock
+D,2021-05-20,,Hazen John,4,M-Exempt,--D,3107.0,6214.0,5,1766683,Options
+D,2021-05-20,,Hazen John,4,S-Sale,--D,3107.0,579.0,3,1766683,Common Stock
+A,2021-05-20,,Hazen John,4,M-Exempt,--D,3107.0,3686.0,2,1766683,Common Stock
+D,2021-05-20,,Hazen John,4,F-InKind,--D,571.0,579.0,1,1766683,Common Stock
+D,2021-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,849.0,4104.0,1,1623311,Common Stock
+D,2021-05-20,,Hackman Gregory V.,4,F-InKind,--D,919.0,27094.0,1,1633114,Common Stock
+D,2021-05-20,,Conroy James Grant,4,F-InKind,--D,3208.0,21625.0,1,1623534,Common Stock
+D,2021-05-18,,Love Michael A,4,M-Exempt,--D,3470.0,0.0,12,1766863,Options
+D,2021-05-18,,Love Michael A,4,M-Exempt,--D,2046.0,6135.0,11,1766863,Options
+D,2021-05-18,,Love Michael A,4,M-Exempt,--D,7941.0,7941.0,10,1766863,Options
+D,2021-05-18,,Love Michael A,4,M-Exempt,--D,3680.0,3680.0,9,1766863,Options
+D,2021-05-18,,Love Michael A,4,M-Exempt,--D,5061.0,10123.0,8,1766863,Options
+D,2021-05-18,,Love Michael A,4,S-Sale,--D,22198.0,5517.0,7,1766863,Common Stock
+A,2021-05-18,,Love Michael A,4,M-Exempt,--D,3680.0,27715.0,6,1766863,Common Stock
+A,2021-05-18,,Love Michael A,4,M-Exempt,--D,5061.0,24035.0,5,1766863,Common Stock
+A,2021-05-18,,Love Michael A,4,M-Exempt,--D,7941.0,18974.0,4,1766863,Common Stock
+A,2021-05-18,,Love Michael A,4,M-Exempt,--D,2046.0,11033.0,3,1766863,Common Stock
+A,2021-05-18,,Love Michael A,4,M-Exempt,--D,3470.0,8987.0,2,1766863,Common Stock
+D,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,6506.0,0.0,12,1633114,Options
+D,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,3108.0,9321.0,11,1633114,Options
+D,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,14334.0,14333.0,10,1633114,Options
+D,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,11000.0,11000.0,9,1633114,Options
+D,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,13498.0,8,1633114,Options
+D,2021-05-17,,Hackman Gregory V.,4,S-Sale,--D,41697.0,26163.0,7,1633114,Common Stock
+A,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,11000.0,67860.0,6,1633114,Common Stock
+A,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,6749.0,56860.0,5,1633114,Common Stock
+A,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,14334.0,50111.0,4,1633114,Common Stock
+A,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,3108.0,35777.0,3,1633114,Common Stock
+A,2021-05-17,,Hackman Gregory V.,4,M-Exempt,--D,6506.0,32669.0,2,1633114,Common Stock
+D,2021-05-17,,BETTINELLI GREG,4,M-Exempt,--D,12500.0,3547.0,4,1583198,Options
+D,2021-05-17,,BETTINELLI GREG,4,S-Sale,--D,12500.0,0.0,3,1583198,Common Stock
+A,2021-05-17,,BETTINELLI GREG,4,M-Exempt,--D,12500.0,12500.0,2,1583198,Common Stock
+A,2021-05-14,,Love Michael A,4,A-Award,--D,1819.0,12959.0,1,1766863,Common Stock
+A,2021-05-14,,Hazen John,4,A-Award,--D,2777.0,22352.0,1,1766683,Common Stock
+A,2021-05-14,,Grijalva Laurie Marie,4,A-Award,--D,2777.0,17476.0,1,1623311,Common Stock
+A,2021-05-14,,Hackman Gregory V.,4,A-Award,--D,4692.0,24186.0,1,1633114,Common Stock
+A,2021-05-14,,Conroy James Grant,4,A-Award,--D,10215.0,61047.0,1,1623534,Common Stock
+A,2021-05-14,,Bruzzo Chris,4,A-Award,--D,1277.0,1277.0,1,1525336,Common Stock
+A,2021-05-14,,Burt Gene Eddie,4,A-Award,--D,1277.0,1277.0,1,1540838,Common Stock
+A,2021-05-14,,Weston Bradley Morgan,4,A-Award,--D,1277.0,4859.0,1,1748006,Common Stock
+A,2021-05-14,,Laube Lisa,4,A-Award,--D,1277.0,4859.0,1,1288841,Common Stock
+A,2021-05-14,,MACDONALD ANNE,4,A-Award,--D,1277.0,4859.0,1,1240498,Common Stock
+A,2021-05-14,,Morris Brenda I,4,A-Award,--D,1277.0,4859.0,1,1323610,Common Stock
+A,2021-05-14,,BETTINELLI GREG,4,A-Award,--D,1277.0,4859.0,1,1583198,Common Stock
+A,2021-05-14,,STARRETT PETER,4,A-Award,--D,1277.0,4859.0,1,1219766,Common Stock
+D,2021-05-10,,Hazen John,4,S-Sale,--D,2459.0,0.0,1,1766683,Common Stock
+D,2021-03-19,,Hazen John,4,M-Exempt,--D,11254.0,22508.0,5,1766683,Options
+D,2021-03-19,,Hazen John,4,F-InKind,--D,1293.0,2459.0,3,1766683,Common Stock
+D,2021-03-19,,Hazen John,4,S-Sale,--D,11254.0,0.0,2,1766683,Common Stock
+A,2021-03-19,,Hazen John,4,M-Exempt,--D,11254.0,11254.0,1,1766683,Common Stock
+D,2021-02-26,,Conroy James Grant,4,M-Exempt,--D,9440.0,28320.0,6,1623534,Options
+D,2021-02-26,,Conroy James Grant,4,M-Exempt,--D,52556.0,52556.0,5,1623534,Options
+D,2021-02-26,,Conroy James Grant,4,S-Sale,--D,61996.0,18364.0,3,1623534,Common Stock
+A,2021-02-26,,Conroy James Grant,4,M-Exempt,--D,9440.0,80360.0,2,1623534,Common Stock
+A,2021-02-26,,Conroy James Grant,4,M-Exempt,--D,52556.0,70920.0,1,1623534,Common Stock
+D,2021-02-05,,Morris Brenda I,4,S-Sale,--D,5000.0,6844.0,1,1323610,Common Stock
+D,2021-02-04,,Conroy James Grant,4,G-Gift,--D,565.0,18364.0,1,1623534,Common Stock
+D,2021-02-01,,Conroy James Grant,4,M-Exempt,--D,58553.0,0.0,4,1623534,Options
+D,2021-02-01,,Conroy James Grant,4,S-Sale,--D,58553.0,18929.0,2,1623534,Common Stock
+A,2021-02-01,,Conroy James Grant,4,M-Exempt,--D,58553.0,77482.0,1,1623534,Common Stock
+D,2021-01-29,,Hackman Gregory V.,4,M-Exempt,--D,54322.0,0.0,4,1633114,Options
+D,2021-01-29,,Hackman Gregory V.,4,S-Sale,--D,54322.0,26163.0,2,1633114,Common Stock
+A,2021-01-29,,Hackman Gregory V.,4,M-Exempt,--D,54322.0,80485.0,1,1633114,Common Stock
+D,2021-01-28,,Hazen John,4,M-Exempt,--D,3108.0,9321.0,4,1766683,Options
+D,2021-01-28,,Hazen John,4,S-Sale,--D,3108.0,0.0,2,1766683,Common Stock
+A,2021-01-28,,Hazen John,4,M-Exempt,--D,3108.0,3108.0,1,1766683,Common Stock
+D,2021-01-28,,Grijalva Laurie Marie,4,M-Exempt,--D,14313.0,0.0,7,1623311,Options
+D,2021-01-28,,Grijalva Laurie Marie,4,M-Exempt,--D,12300.0,20500.0,6,1623311,Options
+D,2021-01-28,,Grijalva Laurie Marie,4,S-Sale,--D,1000.0,3243.0,4,1623311,Common Stock
+D,2021-01-28,,Grijalva Laurie Marie,4,S-Sale,--D,26613.0,4243.0,3,1623311,Common Stock
+A,2021-01-28,,Grijalva Laurie Marie,4,M-Exempt,--D,12300.0,30856.0,2,1623311,Common Stock
+A,2021-01-28,,Grijalva Laurie Marie,4,M-Exempt,--D,14313.0,18556.0,1,1623311,Common Stock
+D,2021-01-11,,Conroy James Grant,4,M-Exempt,--D,14284.0,28568.0,6,1623534,Options
+D,2021-01-11,,Conroy James Grant,4,M-Exempt,--D,12651.0,50602.0,5,1623534,Options
+D,2021-01-11,,Conroy James Grant,4,S-Sale,--D,26935.0,18929.0,3,1623534,Common Stock
+A,2021-01-11,,Conroy James Grant,4,M-Exempt,--D,14284.0,45864.0,2,1623534,Common Stock
+A,2021-01-11,,Conroy James Grant,4,M-Exempt,--D,12651.0,31580.0,1,1623534,Common Stock
+D,2021-01-06,,Conroy James Grant,4,M-Exempt,--D,14284.0,42852.0,6,1623534,Options
+D,2021-01-06,,Conroy James Grant,4,M-Exempt,--D,12651.0,63253.0,5,1623534,Options
+D,2021-01-06,,Conroy James Grant,4,S-Sale,--D,26935.0,18929.0,3,1623534,Common Stock
+A,2021-01-06,,Conroy James Grant,4,M-Exempt,--D,14284.0,45864.0,2,1623534,Common Stock
+A,2021-01-06,,Conroy James Grant,4,M-Exempt,--D,12651.0,31580.0,1,1623534,Common Stock
+D,2020-11-27,,Hazen John,4,S-Sale,--D,752.0,23327.0,1,1766683,Common Stock
+D,2020-11-24,,BETTINELLI GREG,4,S-Sale,--D,2620.0,3582.0,1,1583198,Common Stock
+D,2020-11-09,,Hackman Gregory V.,4,M-Exempt,--D,25678.0,54322.0,4,1633114,Options
+D,2020-11-09,,Hackman Gregory V.,4,S-Sale,--D,25678.0,26163.0,2,1633114,Common Stock
+A,2020-11-09,,Hackman Gregory V.,4,M-Exempt,--D,25678.0,51841.0,1,1633114,Common Stock
+D,2020-11-03,,Hazen John,4,M-Exempt,--D,11254.0,33762.0,5,1766683,Options
+D,2020-11-03,,Hazen John,4,S-Sale,--D,2228.0,752.0,3,1766683,Common Stock
+D,2020-11-03,,Hazen John,4,S-Sale,--D,11254.0,2980.0,2,1766683,Common Stock
+A,2020-11-03,,Hazen John,4,M-Exempt,--D,11254.0,14234.0,1,1766683,Common Stock
+D,2020-11-02,,Morris Brenda I,4,S-Sale,--D,6000.0,11844.0,1,1323610,Common Stock
+A,2020-08-10,,Hackman Gregory V.,4,A-Award,--D,12020.0,12020.0,3,1633114,Options
+A,2020-08-10,,Hackman Gregory V.,4,A-Award,--D,4244.0,19494.0,1,1633114,Common Stock
+D,2020-06-09,,Love Michael A,4,F-InKind,--D,96.0,5517.0,1,1766863,Common Stock
+D,2020-06-09,,Grijalva Laurie Marie,4,F-InKind,--D,132.0,4243.0,1,1623311,Common Stock
+D,2020-06-09,,Conroy James Grant,4,F-InKind,--D,774.0,18929.0,1,1623534,Common Stock
+D,2020-06-05,,Love Michael A,4,F-InKind,--D,132.0,5336.0,1,1766863,Common Stock
+D,2020-06-05,,Grijalva Laurie Marie,4,F-InKind,--D,176.0,3994.0,1,1623311,Common Stock
+D,2020-06-05,,Conroy James Grant,4,F-InKind,--D,1307.0,18142.0,1,1623534,Common Stock
+D,2020-05-24,,Love Michael A,4,F-InKind,--D,237.0,5087.0,2,1766863,Common Stock
+D,2020-05-24,,Grijalva Laurie Marie,4,F-InKind,--D,217.0,3662.0,2,1623311,Common Stock
+D,2020-05-24,,Conroy James Grant,4,F-InKind,--D,795.0,16813.0,2,1623534,Common Stock
+A,2020-05-22,,Love Michael A,4,A-Award,--D,8627.0,8627.0,5,1766863,Options
+A,2020-05-22,,Love Michael A,4,A-Award,--D,8083.0,8083.0,4,1766863,Options
+A,2020-05-22,,Love Michael A,4,A-Award,--D,5707.0,12499.0,1,1766863,Common Stock
+A,2020-05-22,,Hazen John,4,A-Award,--D,13035.0,13035.0,4,1766683,Options
+A,2020-05-22,,Hazen John,4,A-Award,--D,12213.0,12213.0,3,1766683,Options
+A,2020-05-22,,Hazen John,4,A-Award,--D,8624.0,23327.0,1,1766683,Common Stock
+A,2020-05-22,,Grijalva Laurie Marie,4,A-Award,--D,12727.0,12727.0,5,1623311,Options
+A,2020-05-22,,Grijalva Laurie Marie,4,A-Award,--D,11924.0,11924.0,4,1623311,Options
+A,2020-05-22,,Grijalva Laurie Marie,4,A-Award,--D,8420.0,16215.0,1,1623311,Common Stock
+A,2020-05-22,,Hackman Gregory V.,4,A-Award,--D,13347.0,13347.0,4,1633114,Options
+A,2020-05-22,,Hackman Gregory V.,4,A-Award,--D,12506.0,12506.0,3,1633114,Options
+A,2020-05-22,,Hackman Gregory V.,4,A-Award,--D,8831.0,16558.0,1,1633114,Common Stock
+A,2020-05-22,,Conroy James Grant,4,A-Award,--D,41579.0,41579.0,5,1623534,Options
+A,2020-05-22,,Conroy James Grant,4,A-Award,--D,38957.0,38957.0,4,1623534,Options
+A,2020-05-22,,Conroy James Grant,4,A-Award,--D,27509.0,57328.0,1,1623534,Common Stock
+A,2020-05-22,,Weston Bradley Morgan,4,A-Award,--D,3582.0,3582.0,1,1748006,Common Stock
+A,2020-05-22,,Laube Lisa,4,A-Award,--D,3582.0,3582.0,1,1288841,Common Stock
+A,2020-05-22,,MACDONALD ANNE,4,A-Award,--D,3582.0,3582.0,1,1240498,Common Stock
+A,2020-05-22,,Morris Brenda I,4,A-Award,--D,3582.0,3582.0,1,1323610,Common Stock
+A,2020-05-22,,BETTINELLI GREG,4,A-Award,--D,3582.0,3582.0,1,1583198,Common Stock
+A,2020-05-22,,STARRETT PETER,4,A-Award,--D,3582.0,3582.0,1,1219766,Common Stock
+D,2020-05-20,,Love Michael A,4,F-InKind,--D,638.0,4623.0,1,1766863,Common Stock
+D,2020-05-20,,Hazen John,4,F-InKind,--D,398.0,2980.0,2,1766683,Common Stock
+D,2020-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,580.0,3252.0,1,1623311,Common Stock
+D,2020-05-20,,Hackman Gregory V.,4,F-InKind,--D,629.0,24855.0,1,1633114,Common Stock
+D,2020-05-20,,Conroy James Grant,4,F-InKind,--D,2238.0,15309.0,1,1623534,Common Stock
+D,2020-03-19,,Hazen John,4,F-InKind,--D,1523.0,2228.0,1,1766683,Common Stock
+D,2019-11-29,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,0.0,4,1623311,Options
+D,2019-11-29,,Grijalva Laurie Marie,4,S-Sale,--D,19625.0,2122.0,2,1623311,Common Stock
+A,2019-11-29,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,21747.0,1,1623311,Common Stock
+D,2019-11-13,,Grijalva Laurie Marie,4,M-Exempt,--D,10123.0,20247.0,4,1623311,Options
+D,2019-11-13,,Grijalva Laurie Marie,4,S-Sale,--D,10123.0,2122.0,2,1623311,Common Stock
+A,2019-11-13,,Grijalva Laurie Marie,4,M-Exempt,--D,10123.0,12245.0,1,1623311,Common Stock
+D,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,20000.0,80000.0,10,1633114,Options
+D,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,14907.0,22000.0,9,1633114,Options
+D,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,13498.0,20247.0,8,1633114,Options
+D,2019-11-13,,Hackman Gregory V.,4,S-Sale,--D,20000.0,23634.0,6,1633114,Common Stock
+A,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,20000.0,43634.0,5,1633114,Common Stock
+D,2019-11-13,,Hackman Gregory V.,4,S-Sale,--D,14907.0,23634.0,4,1633114,Common Stock
+A,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,14907.0,38541.0,3,1633114,Common Stock
+D,2019-11-13,,Hackman Gregory V.,4,S-Sale,--D,13498.0,23634.0,2,1633114,Common Stock
+A,2019-11-13,,Hackman Gregory V.,4,M-Exempt,--D,13498.0,37132.0,1,1633114,Common Stock
+D,2019-11-12,,Morris Brenda I,4,S-Sale,--D,2500.0,15224.0,1,1323610,Common Stock
+D,2019-11-12,,Love Michael A,4,M-Exempt,--D,22500.0,0.0,10,1766863,Options
+D,2019-11-12,,Love Michael A,4,M-Exempt,--D,3680.0,7360.0,9,1766863,Options
+D,2019-11-12,,Love Michael A,4,M-Exempt,--D,5062.0,15184.0,8,1766863,Options
+D,2019-11-12,,Love Michael A,4,S-Sale,--D,22500.0,3504.0,6,1766863,Common Stock
+A,2019-11-12,,Love Michael A,4,M-Exempt,--D,22500.0,26004.0,5,1766863,Common Stock
+D,2019-11-12,,Love Michael A,4,S-Sale,--D,3680.0,3504.0,4,1766863,Common Stock
+A,2019-11-12,,Love Michael A,4,M-Exempt,--D,3680.0,7184.0,3,1766863,Common Stock
+D,2019-11-12,,Love Michael A,4,S-Sale,--D,5062.0,3504.0,2,1766863,Common Stock
+A,2019-11-12,,Love Michael A,4,M-Exempt,--D,5062.0,8566.0,1,1766863,Common Stock
+D,2019-11-11,,Conroy James Grant,4,M-Exempt,--D,33216.0,0.0,4,1623534,Options
+D,2019-11-11,,Conroy James Grant,4,S-Sale,--D,33216.0,11078.0,2,1623534,Common Stock
+A,2019-11-11,,Conroy James Grant,4,M-Exempt,--D,33216.0,44294.0,1,1623534,Common Stock
+D,2019-09-10,,Conroy James Grant,4,M-Exempt,--D,28569.0,57136.0,4,1623534,Options
+D,2019-09-10,,Conroy James Grant,4,S-Sale,--D,28569.0,11078.0,2,1623534,Common Stock
+A,2019-09-10,,Conroy James Grant,4,M-Exempt,--D,28569.0,39647.0,1,1623534,Common Stock
+D,2019-09-04,,Conroy James Grant,4,M-Exempt,--D,14874.0,75904.0,7,1623534,Options
+D,2019-09-04,,Conroy James Grant,4,S-Sale,--D,14874.0,11078.0,4,1623534,Common Stock
+A,2019-09-04,,Conroy James Grant,4,M-Exempt,--D,14874.0,25952.0,3,1623534,Common Stock
+D,2019-09-03,,Conroy James Grant,4,M-Exempt,--D,10427.0,90778.0,6,1623534,Options
+D,2019-09-03,,Conroy James Grant,4,S-Sale,--D,10427.0,11078.0,2,1623534,Common Stock
+A,2019-09-03,,Conroy James Grant,4,M-Exempt,--D,10427.0,21505.0,1,1623534,Common Stock
+D,2019-08-29,,BETTINELLI GREG,4,S-Sale,--D,3906.0,0.0,1,1583198,Common Stock
+D,2019-08-28,,Hazen John,4,M-Exempt,--D,11254.0,45016.0,4,1766683,Options
+D,2019-08-28,,Hazen John,4,S-Sale,--D,13619.0,0.0,2,1766683,Common Stock
+A,2019-08-28,,Hazen John,4,M-Exempt,--D,11254.0,13619.0,1,1766683,Common Stock
+D,2019-08-27,,Grijalva Laurie Marie,4,M-Exempt,--D,9812.0,0.0,4,1623311,Options
+D,2019-08-27,,Grijalva Laurie Marie,4,S-Sale,--D,9812.0,2122.0,2,1623311,Common Stock
+A,2019-08-27,,Grijalva Laurie Marie,4,M-Exempt,--D,9812.0,11934.0,1,1623311,Common Stock
+D,2019-06-14,,Conroy James Grant,4,M-Exempt,--D,66434.0,0.0,7,1623534,Options
+D,2019-06-14,,Conroy James Grant,4,M-Exempt,--D,14790.0,0.0,6,1623534,Options
+D,2019-06-14,,Conroy James Grant,4,S-Sale,--D,66434.0,11078.0,4,1623534,Common Stock
+A,2019-06-14,,Conroy James Grant,4,M-Exempt,--D,66434.0,77512.0,3,1623534,Common Stock
+D,2019-06-14,,Conroy James Grant,4,S-Sale,--D,14790.0,11078.0,2,1623534,Common Stock
+A,2019-06-14,,Conroy James Grant,4,M-Exempt,--D,14790.0,25868.0,1,1623534,Common Stock
+D,2019-06-09,,Love Michael A,4,F-InKind,--D,97.0,3504.0,1,1766863,Common Stock
+D,2019-06-09,,Grijalva Laurie Marie,4,F-InKind,--D,133.0,2122.0,1,1623311,Common Stock
+D,2019-06-09,,Conroy James Grant,4,F-InKind,--D,774.0,11078.0,1,1623534,Common Stock
+D,2019-06-05,,Love Michael A,4,F-InKind,--D,132.0,3323.0,1,1766863,Common Stock
+D,2019-06-05,,Grijalva Laurie Marie,4,F-InKind,--D,176.0,1873.0,1,1623311,Common Stock
+D,2019-06-05,,Conroy James Grant,4,F-InKind,--D,1307.0,10291.0,1,1623534,Common Stock
+D,2019-05-24,,Love Michael A,4,F-InKind,--D,243.0,3074.0,1,1766863,Common Stock
+D,2019-05-24,,Grijalva Laurie Marie,4,F-InKind,--D,217.0,1541.0,1,1623311,Common Stock
+D,2019-05-24,,Conroy James Grant,4,G-Gift,--D,1120.0,8962.0,2,1623534,Common Stock
+D,2019-05-24,,Conroy James Grant,4,F-InKind,--D,1141.0,10082.0,1,1623534,Common Stock
+A,2019-05-20,,Weston Bradley Morgan,4,A-Award,--D,2620.0,5486.0,1,1748006,Common Stock
+A,2019-05-20,,Laube Lisa,4,A-Award,--D,2620.0,5486.0,1,1288841,Common Stock
+A,2019-05-20,,MACDONALD ANNE,4,A-Award,--D,2620.0,6526.0,1,1240498,Common Stock
+A,2019-05-20,,BETTINELLI GREG,4,A-Award,--D,2620.0,15615.0,1,1583198,Common Stock
+A,2019-05-20,,Morris Brenda I,4,A-Award,--D,2620.0,20344.0,1,1323610,Common Stock
+A,2019-05-20,,STARRETT PETER,4,A-Award,--D,2620.0,11252.0,1,1219766,Common Stock
+A,2019-05-20,,Love Michael A,4,A-Award,--D,8181.0,8181.0,3,1766863,Options
+A,2019-05-20,,Love Michael A,4,A-Award,--D,3027.0,9909.0,2,1766863,Common Stock
+D,2019-05-20,,Love Michael A,4,F-InKind,--D,346.0,2616.0,1,1766863,Common Stock
+A,2019-05-20,,Hazen John,4,A-Award,--D,12429.0,12429.0,3,1766683,Options
+A,2019-05-20,,Hazen John,4,A-Award,--D,4599.0,19604.0,1,1766683,Common Stock
+A,2019-05-20,,Grijalva Laurie Marie,4,A-Award,--D,12429.0,12429.0,3,1623311,Options
+A,2019-05-20,,Grijalva Laurie Marie,4,A-Award,--D,4599.0,11022.0,2,1623311,Common Stock
+D,2019-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,194.0,1131.0,1,1623311,Common Stock
+A,2019-05-20,,Hackman Gregory V.,4,A-Award,--D,12429.0,12429.0,3,1633114,Options
+A,2019-05-20,,Hackman Gregory V.,4,A-Award,--D,4599.0,10885.0,1,1633114,Common Stock
+A,2019-05-20,,Conroy James Grant,4,A-Award,--D,227273.0,227273.0,4,1623534,Options
+A,2019-05-20,,Conroy James Grant,4,A-Award,--D,37760.0,37760.0,3,1623534,Options
+A,2019-05-20,,Conroy James Grant,4,A-Award,--D,13971.0,42785.0,2,1623534,Common Stock
+D,2019-05-20,,Conroy James Grant,4,F-InKind,--D,1476.0,8923.0,1,1623534,Common Stock
+D,2019-03-19,,Hazen John,4,F-InKind,--D,1387.0,2365.0,1,1766683,Common Stock
+D,2019-02-19,,Morris Brenda I,4,S-Sale,--D,7000.0,17724.0,1,1323610,Common Stock
+D,2018-09-04,,STARRETT PETER,4,M-Exempt,--D,14945.0,0.0,7,1219766,Options
+D,2018-09-04,,STARRETT PETER,4,M-Exempt,--D,59780.0,0.0,6,1219766,Options
+D,2018-09-04,,STARRETT PETER,4,S-Sale,--D,14945.0,8632.0,4,1219766,Common Stock
+A,2018-09-04,,STARRETT PETER,4,M-Exempt,--D,14945.0,23577.0,3,1219766,Common Stock
+D,2018-09-04,,STARRETT PETER,4,S-Sale,--D,59780.0,8632.0,2,1219766,Common Stock
+A,2018-09-04,,STARRETT PETER,4,M-Exempt,--D,59780.0,68412.0,1,1219766,Common Stock
+D,2018-08-30,,Hackman Gregory V.,4,M-Exempt,--D,18093.0,36907.0,3,1633114,Options
+D,2018-08-30,,Hackman Gregory V.,4,S-Sale,--D,18093.0,28612.0,2,1633114,Common Stock
+A,2018-08-30,,Hackman Gregory V.,4,M-Exempt,--D,18093.0,46705.0,1,1633114,Common Stock
+D,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,19625.0,13,1623311,Options
+D,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,8200.0,32800.0,12,1623311,Options
+D,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,3375.0,30370.0,11,1623311,Options
+D,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,9813.0,9812.0,10,1623311,Options
+D,2018-08-30,,Grijalva Laurie Marie,4,S-Sale,--D,766.0,7748.0,9,1623311,Common Stock
+D,2018-08-30,,Grijalva Laurie Marie,4,S-Sale,--D,19625.0,8514.0,8,1623311,Common Stock
+A,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,28139.0,7,1623311,Common Stock
+D,2018-08-30,,Grijalva Laurie Marie,4,S-Sale,--D,8200.0,8514.0,6,1623311,Common Stock
+A,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,8200.0,16714.0,5,1623311,Common Stock
+D,2018-08-30,,Grijalva Laurie Marie,4,S-Sale,--D,3375.0,8514.0,4,1623311,Common Stock
+A,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,3375.0,11889.0,3,1623311,Common Stock
+D,2018-08-30,,Grijalva Laurie Marie,4,S-Sale,--D,9813.0,8514.0,2,1623311,Common Stock
+A,2018-08-30,,Grijalva Laurie Marie,4,M-Exempt,--D,9813.0,18327.0,1,1623311,Common Stock
+D,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,45000.0,14790.0,9,1623534,Options
+D,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,28568.0,0.0,8,1623534,Options
+D,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,25302.0,0.0,7,1623534,Options
+D,2018-08-14,,Conroy James Grant,4,S-Sale,--D,45000.0,39213.0,6,1623534,Common Stock
+A,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,45000.0,84213.0,5,1623534,Common Stock
+D,2018-08-14,,Conroy James Grant,4,S-Sale,--D,28568.0,39213.0,4,1623534,Common Stock
+A,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,28568.0,67781.0,3,1623534,Common Stock
+D,2018-08-14,,Conroy James Grant,4,S-Sale,--D,25302.0,39213.0,2,1623534,Common Stock
+A,2018-08-14,,Conroy James Grant,4,M-Exempt,--D,25302.0,64515.0,1,1623534,Common Stock
+D,2018-08-13,,STARRETT PETER,4,G-Gift,--I,50000.0,5967.0,1,1219766,Common Stock
+D,2018-08-10,,BETTINELLI GREG,4,S-Sale,--D,4726.0,12995.0,1,1583198,Common Stock
+A,2018-08-09,,Weston Bradley Morgan,4,A-Award,--D,2866.0,2866.0,1,1748006,Common Stock
+A,2018-08-09,,Laube Lisa,4,A-Award,--D,2866.0,2866.0,1,1288841,Common Stock
+D,2018-06-09,,Grijalva Laurie Marie,4,F-InKind,--D,189.0,1531.0,1,1623311,Common Stock
+D,2018-06-09,,Hackman Gregory V.,4,F-InKind,--D,61.0,21626.0,1,1633114,Common Stock
+D,2018-06-09,,Conroy James Grant,4,F-InKind,--D,775.0,7423.0,1,1623534,Common Stock
+D,2018-06-05,,Grijalva Laurie Marie,4,F-InKind,--D,252.0,1339.0,1,1623311,Common Stock
+D,2018-06-05,,Hackman Gregory V.,4,F-InKind,--D,176.0,21513.0,1,1633114,Common Stock
+D,2018-06-05,,Conroy James Grant,4,F-InKind,--D,1307.0,6636.0,1,1623534,Common Stock
+D,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,239160.0,0.0,14,1623534,Options
+D,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,3080.0,0.0,13,1623534,Options
+D,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,28569.0,28568.0,12,1623534,Options
+D,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,597.0,0.0,11,1623534,Options
+D,2018-05-31,,Conroy James Grant,4,S-Sale,--D,119580.0,41295.0,10,1623534,Common Stock
+A,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,119580.0,160875.0,9,1623534,Common Stock
+D,2018-05-31,,Conroy James Grant,4,S-Sale,--D,119580.0,41295.0,8,1623534,Common Stock
+A,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,119580.0,160875.0,7,1623534,Common Stock
+D,2018-05-31,,Conroy James Grant,4,S-Sale,--D,3080.0,41295.0,6,1623534,Common Stock
+A,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,3080.0,44375.0,5,1623534,Common Stock
+D,2018-05-31,,Conroy James Grant,4,S-Sale,--D,28569.0,41295.0,4,1623534,Common Stock
+A,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,28569.0,69864.0,3,1623534,Common Stock
+D,2018-05-31,,Conroy James Grant,4,S-Sale,--D,597.0,41295.0,2,1623534,Common Stock
+A,2018-05-31,,Conroy James Grant,4,M-Exempt,--D,597.0,41892.0,1,1623534,Common Stock
+A,2018-05-24,,Conroy James Grant,4,A-Award,--D,105112.0,105112.0,2,1623534,Options
+A,2018-05-24,,Conroy James Grant,4,A-Award,--D,9197.0,41295.0,1,1623534,Common Stock
+A,2018-05-24,,Hackman Gregory V.,4,A-Award,--D,28667.0,28667.0,2,1633114,Options
+A,2018-05-24,,Hackman Gregory V.,4,A-Award,--D,2508.0,28849.0,1,1633114,Common Stock
+A,2018-05-24,,Grijalva Laurie Marie,4,A-Award,--D,28667.0,28667.0,2,1623311,Options
+A,2018-05-24,,Grijalva Laurie Marie,4,A-Award,--D,2508.0,8955.0,1,1623311,Common Stock
+A,2018-05-24,,Morris Brenda I,4,A-Award,--D,3906.0,24724.0,1,1323610,Common Stock
+A,2018-05-24,,BETTINELLI GREG,4,A-Award,--D,3906.0,17721.0,1,1583198,Common Stock
+A,2018-05-24,,STARRETT PETER,4,A-Award,--D,3906.0,8632.0,1,1219766,Common Stock
+A,2018-05-24,,MACDONALD ANNE,4,A-Award,--D,3906.0,3906.0,1,1240498,Common Stock
+D,2018-05-20,,Conroy James Grant,4,F-InKind,--D,1476.0,5307.0,4,1623534,Common Stock
+D,2018-05-20,,Hackman Gregory V.,4,F-InKind,--D,236.0,21181.0,3,1633114,Common Stock
+D,2018-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,278.0,1083.0,1,1623311,Common Stock
+D,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,3583.0,0.0,9,1583198,Options
+D,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,29445.0,0.0,8,1583198,Options
+D,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,6972.0,0.0,7,1583198,Options
+D,2018-05-17,,BETTINELLI GREG,4,S-Sale,--D,3583.0,0.0,6,1583198,Common Stock
+A,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,3583.0,3583.0,5,1583198,Common Stock
+A,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,29445.0,29445.0,3,1583198,Common Stock
+D,2018-05-17,,BETTINELLI GREG,4,S-Sale,--D,6972.0,0.0,2,1583198,Common Stock
+A,2018-05-17,,BETTINELLI GREG,4,M-Exempt,--D,6972.0,6972.0,1,1583198,Common Stock
+D,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,39250.0,0.0,12,1219766,Options
+D,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,14945.0,0.0,11,1219766,Options
+D,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,58875.0,0.0,10,1219766,Options
+D,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,36972.0,0.0,9,1219766,Options
+D,2018-05-17,,STARRETT PETER,4,S-Sale,--D,39250.0,0.0,8,1219766,Common Stock
+A,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,39250.0,39250.0,7,1219766,Common Stock
+D,2018-05-17,,STARRETT PETER,4,S-Sale,--D,14945.0,0.0,6,1219766,Common Stock
+A,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,14945.0,14945.0,5,1219766,Common Stock
+D,2018-05-17,,STARRETT PETER,4,S-Sale,--D,58875.0,0.0,4,1219766,Common Stock
+A,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,58875.0,58875.0,3,1219766,Common Stock
+D,2018-05-17,,STARRETT PETER,4,S-Sale,--D,36972.0,0.0,2,1219766,Common Stock
+A,2018-05-17,,STARRETT PETER,4,M-Exempt,--D,36972.0,36972.0,1,1219766,Common Stock
+D,2018-05-17,,"FS Equity Partners VI, L.P.",4,S-Sale,--I,7021771.0,0.0,1,1455978,Common Stock
+D,2018-04-26,,Grijalva Laurie Marie,4,M-Exempt,--D,20444.0,19625.0,13,1623311,Options
+D,2018-04-26,,Grijalva Laurie Marie,4,S-Sale,--D,20444.0,6725.0,10,1623311,Common Stock
+A,2018-04-26,,Grijalva Laurie Marie,4,M-Exempt,--D,20444.0,27169.0,9,1623311,Common Stock
+D,2018-04-25,,Grijalva Laurie Marie,4,M-Exempt,--D,10495.0,40069.0,12,1623311,Options
+D,2018-04-25,,Grijalva Laurie Marie,4,S-Sale,--D,10495.0,6725.0,8,1623311,Common Stock
+A,2018-04-25,,Grijalva Laurie Marie,4,M-Exempt,--D,10495.0,17220.0,7,1623311,Common Stock
+D,2018-04-24,,Grijalva Laurie Marie,4,M-Exempt,--D,8311.0,50564.0,11,1623311,Options
+D,2018-04-24,,Grijalva Laurie Marie,4,S-Sale,--D,8311.0,6725.0,6,1623311,Common Stock
+A,2018-04-24,,Grijalva Laurie Marie,4,M-Exempt,--D,8311.0,15036.0,5,1623311,Common Stock
+D,2018-03-06,,Grijalva Laurie Marie,4,M-Exempt,--D,26863.0,0.0,3,1623311,Options
+D,2018-03-06,,Grijalva Laurie Marie,4,S-Sale,--D,26863.0,6725.0,2,1623311,Common Stock
+A,2018-03-06,,Grijalva Laurie Marie,4,M-Exempt,--D,26863.0,33588.0,1,1623311,Common Stock
+D,2018-03-01,,Grijalva Laurie Marie,4,M-Exempt,--D,12387.0,26863.0,3,1623311,Options
+D,2018-03-01,,Grijalva Laurie Marie,4,S-Sale,--D,12387.0,7248.0,2,1623311,Common Stock
+A,2018-03-01,,Grijalva Laurie Marie,4,M-Exempt,--D,12387.0,19635.0,1,1623311,Common Stock
+D,2018-01-17,,BETTINELLI GREG,4,S-Sale,--D,29445.0,0.0,4,1583198,Common Stock
+D,2018-01-17,,"FS Capital Partners VI, LLC",4,S-Sale,--I,6413616.0,7021771.0,1,1623580,Common Stock
+D,2018-01-17,,Conroy James Grant,4,M-Exempt,--D,178773.0,597.0,3,1623534,Options
+D,2018-01-17,,Conroy James Grant,4,S-Sale,--D,178773.0,3807.0,2,1623534,Common Stock
+A,2018-01-17,,Conroy James Grant,4,M-Exempt,--D,178773.0,182580.0,1,1623534,Common Stock
+D,2018-01-17,,BETTINELLI GREG,4,M-Exempt,--D,29445.0,0.0,7,1583198,Options
+D,2018-01-17,,BETTINELLI GREG,4,M-Exempt,--D,12658.0,6972.0,6,1583198,Options
+D,2018-01-17,,BETTINELLI GREG,4,S-Sale,--D,29445.0,0.0,5,1583198,Common Stock
+A,2018-01-17,,BETTINELLI GREG,4,M-Exempt,--D,29445.0,29445.0,4,1583198,Common Stock
+D,2018-01-17,,BETTINELLI GREG,4,S-Sale,--D,12658.0,0.0,3,1583198,Common Stock
+A,2018-01-17,,BETTINELLI GREG,4,M-Exempt,--D,12658.0,12658.0,2,1583198,Common Stock
+D,2018-01-17,,BETTINELLI GREG,4,S-Sale,--D,9089.0,0.0,1,1583198,Common Stock
+D,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,22808.0,36972.0,10,1219766,Options
+D,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,39250.0,0.0,9,1219766,Options
+D,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,58875.0,0.0,8,1219766,Options
+D,2018-01-17,,STARRETT PETER,4,S-Sale,--D,22808.0,0.0,7,1219766,Common Stock
+A,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,22808.0,22808.0,6,1219766,Common Stock
+D,2018-01-17,,STARRETT PETER,4,S-Sale,--D,39250.0,0.0,5,1219766,Common Stock
+A,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,39250.0,39250.0,4,1219766,Common Stock
+D,2018-01-17,,STARRETT PETER,4,S-Sale,--D,58875.0,0.0,3,1219766,Common Stock
+A,2018-01-17,,STARRETT PETER,4,M-Exempt,--D,58875.0,58875.0,2,1219766,Common Stock
+D,2018-01-17,,STARRETT PETER,4,S-Sale,--I,135486.0,55967.0,1,1219766,Common Stock
+D,2017-06-09,,Conroy James Grant,4,F-InKind,--D,587.0,33574.0,3,1623534,Common Stock
+D,2017-06-09,,Hackman Gregory V.,4,F-InKind,--D,64.0,26577.0,2,1633114,Common Stock
+D,2017-06-09,,Grijalva Laurie Marie,4,F-InKind,--D,141.0,801.0,3,1623311,Common Stock
+A,2017-06-07,,Morris Brenda I,4,P-Purchase,--D,7000.0,20818.0,2,1323610,Common Stock
+A,2017-06-06,,STARRETT PETER,4,P-Purchase,--I,50000.0,191453.0,2,1219766,Common Stock
+A,2017-06-05,,Morris Brenda I,4,A-Award,--D,4726.0,13818.0,1,1323610,Common Stock
+A,2017-06-05,,STARRETT PETER,4,A-Award,--D,4726.0,4726.0,1,1219766,Common Stock
+A,2017-06-05,,BETTINELLI GREG,4,A-Award,--D,4726.0,13815.0,1,1583198,Common Stock
+A,2017-06-05,,Grijalva Laurie Marie,4,A-Award,--D,33745.0,33745.0,2,1623311,Options
+A,2017-06-05,,Grijalva Laurie Marie,4,A-Award,--D,2540.0,7248.0,1,1623311,Common Stock
+A,2017-06-05,,Hackman Gregory V.,4,A-Award,--D,33745.0,33745.0,2,1633114,Options
+A,2017-06-05,,Hackman Gregory V.,4,A-Award,--D,2540.0,26907.0,1,1633114,Common Stock
+A,2017-06-05,,Conroy James Grant,4,A-Award,--D,126507.0,126507.0,2,1623534,Options
+A,2017-06-05,,Conroy James Grant,4,A-Award,--D,13179.0,35867.0,1,1623534,Common Stock
+D,2017-05-20,,Conroy James Grant,4,F-InKind,--D,1119.0,20982.0,2,1623534,Common Stock
+D,2017-05-20,,Hackman Gregory V.,4,F-InKind,--D,266.0,24101.0,1,1633114,Common Stock
+D,2017-05-20,,Grijalva Laurie Marie,4,F-InKind,--D,241.0,560.0,2,1623311,Common Stock
+D,2016-11-10,,STARRETT PETER,4,G-Gift,1-D,50000.0,5967.0,1,1219766,Common Stock
+D,2016-06-09,,Conroy James Grant,4,F-InKind,--D,587.0,22101.0,1,1623534,Common Stock
+D,2016-06-09,,Grijalva Laurie Marie,4,F-InKind,--D,141.0,241.0,1,1623311,Common Stock
+A,2016-05-23,,STARRETT PETER,4,P-Purchase,--D,50000.0,55967.0,2,1219766,Common Stock
+A,2016-05-23,,Hackman Gregory V.,4,P-Purchase,--D,8000.0,24367.0,2,1633114,Common Stock
+A,2016-05-20,,Grijalva Laurie Marie,4,A-Award,--D,41000.0,41000.0,2,1623311,Options
+A,2016-05-20,,Grijalva Laurie Marie,4,A-Award,--D,2800.0,4708.0,1,1623311,Common Stock
+A,2016-05-20,,Conroy James Grant,4,A-Award,--D,142842.0,142842.0,2,1623534,Options
+A,2016-05-20,,Conroy James Grant,4,A-Award,--D,14881.0,22688.0,1,1623534,Common Stock
+A,2016-05-20,,Morris Brenda I,4,A-Award,--D,5967.0,9092.0,1,1323610,Common Stock
+A,2016-05-20,,BETTINELLI GREG,4,A-Award,--D,5967.0,9089.0,1,1583198,Common Stock
+A,2016-05-20,,STARRETT PETER,4,A-Award,--D,5967.0,5967.0,1,1219766,Common Stock
+A,2016-05-20,,Hackman Gregory V.,4,A-Award,--D,55000.0,55000.0,3,1633114,Options
+A,2016-05-20,,Hackman Gregory V.,4,A-Award,--D,3500.0,16367.0,1,1633114,Common Stock
+A,2016-02-24,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,742.0,13435387.0,1,1455978,Common Stock
+A,2016-02-19,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,85655.0,13434645.0,2,1455978,Common Stock
+A,2016-02-18,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,120066.0,13348990.0,1,1455978,Common Stock
+A,2016-02-16,,"FS Equity Partners VI, L.P.",4/A,P-Purchase,--I,3921.0,13228924.0,3,1455978,Common Stock
+A,2016-02-13,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,3912.0,13228915.0,3,1455978,Common Stock
+A,2016-02-12,,"FS Equity Partners VI, L.P.",4/A,P-Purchase,--I,23039.0,13225003.0,2,1455978,Common Stock
+A,2016-02-12,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,23039.0,13225003.0,2,1455978,Common Stock
+A,2016-02-11,,"FS Equity Partners VI, L.P.",4/A,P-Purchase,--I,144769.0,13201964.0,1,1455978,Common Stock
+A,2016-02-11,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,144769.0,13201964.0,1,1455978,Common Stock
+A,2016-02-09,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,146896.0,13057195.0,1,1455978,Common Stock
+A,2016-02-08,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,284736.0,12910299.0,2,1455978,Common Stock
+A,2016-02-05,,"FS Equity Partners VI, L.P.",4,P-Purchase,--I,193100.0,12625563.0,1,1455978,Common Stock
+A,2015-11-13,,Hackman Gregory V.,4,P-Purchase,--D,2000.0,12867.0,2,1633114,Common Stock
+A,2015-11-13,,Hackman Gregory V.,4,P-Purchase,--D,7000.0,10867.0,1,1633114,Common Stock
+A,2015-08-26,,Hackman Gregory V.,4,P-Purchase,--D,3000.0,3867.0,1,1633114,Common Stock
+D,2015-07-08,,Conroy James Grant,4,M-Exempt,--D,22000.0,3080.0,3,1623534,Options
+D,2015-07-08,,Conroy James Grant,4,S-Sale,--D,22000.0,0.0,2,1623534,Common Stock
+A,2015-07-08,,Conroy James Grant,4,M-Exempt,--D,22000.0,22000.0,1,1623534,Common Stock
+D,2015-06-15,,Grijalva Laurie Marie,4,M-Exempt,--D,19250.0,0.0,3,1623311,Options
+D,2015-06-15,,Grijalva Laurie Marie,4,S-Sale,--D,19250.0,0.0,2,1623311,Common Stock
+A,2015-06-15,,Grijalva Laurie Marie,4,M-Exempt,--D,19250.0,19250.0,1,1623311,Common Stock
+A,2015-06-09,,Hackman Gregory V.,4,A-Award,--D,6506.0,6506.0,2,1633114,Options
+A,2015-06-09,,Hackman Gregory V.,4,A-Award,--D,867.0,867.0,1,1633114,Common Stock
+A,2015-06-09,,Conroy James Grant,4,A-Award,--D,58553.0,58553.0,2,1623534,Options
+A,2015-06-09,,Conroy James Grant,4,A-Award,--D,7807.0,7807.0,1,1623534,Common Stock
+A,2015-06-09,,Grijalva Laurie Marie,4,A-Award,--D,14313.0,14313.0,5,1623311,Options
+A,2015-06-09,,Grijalva Laurie Marie,4,A-Award,--D,1908.0,1908.0,3,1623311,Common Stock
+D,2015-06-08,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,39250.0,4,1623311,Options
+D,2015-06-08,,Grijalva Laurie Marie,4,S-Sale,--D,19625.0,0.0,2,1623311,Common Stock
+A,2015-06-08,,Grijalva Laurie Marie,4,M-Exempt,--D,19625.0,19625.0,1,1623311,Common Stock
+D,2015-06-04,,Conroy James Grant,4,M-Exempt,--D,31500.0,25080.0,9,1623534,Options
+D,2015-06-04,,Conroy James Grant,4,S-Sale,--D,31500.0,0.0,6,1623534,Common Stock
+A,2015-06-04,,Conroy James Grant,4,M-Exempt,--D,31500.0,31500.0,5,1623534,Common Stock
+D,2015-06-03,,Conroy James Grant,4,M-Exempt,--D,3210.0,56580.0,8,1623534,Options
+D,2015-06-03,,Conroy James Grant,4,M-Exempt,--D,59790.0,179370.0,7,1623534,Options
+D,2015-06-03,,Conroy James Grant,4,S-Sale,--D,3210.0,0.0,4,1623534,Common Stock
+A,2015-06-03,,Conroy James Grant,4,M-Exempt,--D,3210.0,3210.0,3,1623534,Common Stock
+D,2015-06-03,,Conroy James Grant,4,S-Sale,--D,59790.0,0.0,2,1623534,Common Stock
+A,2015-06-03,,Conroy James Grant,4,M-Exempt,--D,59790.0,59790.0,1,1623534,Common Stock
+D,2015-06-01,,Grijalva Laurie Marie,4,M-Exempt,--D,20000.0,19250.0,6,1623311,Options
+D,2015-06-01,,Grijalva Laurie Marie,4,M-Exempt,--D,16125.0,0.0,5,1623311,Options
+D,2015-06-01,,Grijalva Laurie Marie,4,S-Sale,--D,20000.0,0.0,4,1623311,Common Stock
+A,2015-06-01,,Grijalva Laurie Marie,4,M-Exempt,--D,20000.0,20000.0,3,1623311,Common Stock
+D,2015-06-01,,Grijalva Laurie Marie,4,S-Sale,--D,16125.0,0.0,2,1623311,Common Stock
+A,2015-06-01,,Grijalva Laurie Marie,4,M-Exempt,--D,16125.0,16125.0,1,1623311,Common Stock
+D,2015-03-03,,BETTINELLI GREG,4,S-Sale,--D,9378.0,3122.0,1,1583198,Common Stock
+D,2015-03-03,,STARRETT PETER,4,S-Sale,--I,39514.0,135486.0,1,1219766,Common Stock
+D,2015-03-03,,"FS Equity Partners VI, L.P.",4,S-Sale,--I,5317537.0,12432463.0,1,1455978,Common Stock
+A,2014-10-29,,Conroy James Grant,4,A-Award,--D,99650.0,697550.0,1,1623534,Options
+A,2014-10-29,,Morris Brenda I,4,A-Award,--D,3125.0,3125.0,1,1323610,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,10442.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,14799.0,2,1219766,Common Stock
+-,-,,Hazen John,4,-,--D,,3937.0,2,1766683,Common Stock
+-,-,,Watkins James M,4,-,--D,,11755.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,54279.0,11,1623534,Common Stock
+-,-,,Watkins James M,4,-,--D,,11530.0,6,1562356,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,8744.0,3,1240498,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1298.0,2,1240498,Common Stock
+-,-,,Watkins James M,4,-,--D,,11530.0,2,1562356,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,8744.0,3,1240498,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1298.0,2,1240498,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,1298.0,3,1323610,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,2620.0,2,1323610,Common Stock
+-,-,,Hazen John,4,-,--D,,11077.0,2,1766683,Common Stock
+-,-,,Love Michael A,4,-,--D,,10837.0,3,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,11077.0,2,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,12060.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,54279.0,2,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,13233.0,2,1766683,Common Stock
+-,-,,Love Michael A,4,-,--D,,12263.0,3,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,13182.0,2,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,12785.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,61156.0,2,1623534,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,8744.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,14799.0,2,1219766,Common Stock
+-,-,,Weston Bradley Morgan,4,-,--D,,11610.0,2,1748006,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,2620.0,3,1323610,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,4348.0,2,1323610,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,8744.0,3,1240498,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1956.0,2,1240498,Common Stock
+-,-,,Laube Lisa,4,-,--D,,11610.0,2,1288841,Common Stock
+-,-,,Burt Gene Eddie,4,-,--D,,1542.0,2,1540838,Common Stock
+-,-,,Bruzzo Chris,4,-,--D,,2542.0,3,1525336,Common Stock
+-,-,,Bruzzo Chris,4,-,--I,,1532.0,2,1525336,Common Stock
+-,-,,Love Michael A,4,-,--D,,6732.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,10730.0,2,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,15112.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,61578.0,2,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,10367.0,3,1766683,Common Stock
+-,-,,Love Michael A,4,-,--D,,9397.0,3,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,10316.0,3,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,9919.0,3,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,47740.0,3,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,58344.0,3,1623534,Common Stock
+-,-,,Watkins James M,4,-,--D,,11716.0,2,1562356,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12352.0,3,1623311,Common Stock
+-,-,,Love Michael A,4,-,--D,,11194.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,12403.0,3,1766683,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,86189.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,18880.0,6,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,31184.0,5,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,58344.0,3,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,4090.0,9,1766863,Options
+-,-,,Love Michael A,4,-,--D,,6470.0,8,1766863,Options
+-,-,,Love Michael A,4,-,--D,,6062.0,7,1766863,Options
+-,-,,Love Michael A,4,-,--D,,11194.0,4,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12352.0,2,1623311,Common Stock
+-,-,,Burt Gene Eddie,4,-,--D,,1698.0,2,1540838,Common Stock
+-,-,,Watkins James M,4,-,--D,,11716.0,9,1562356,Common Stock
+-,-,,Watkins James M,4,-,--D,,11716.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,86189.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,18880.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,31184.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,29217.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,58344.0,5,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,11194.0,2,1766863,Common Stock
+-,-,,Watkins James M,4,-,--D,,12063.0,2,1562356,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12429.0,12,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,12727.0,11,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,11924.0,10,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,12352.0,6,1623311,Common Stock
+-,-,,Hazen John,4,-,--D,,12403.0,6,1766683,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,6214.0,11,1633114,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,10010.0,10,1633114,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,9015.0,9,1633114,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,9379.0,8,1633114,Common Stock
+-,-,,Love Michael A,4,-,--D,,11194.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,12403.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12352.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,10508.0,3,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,58344.0,3,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,11565.0,2,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,3733.0,2,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,15611.0,2,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,13527.0,2,1562356,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,41046.0,2,1623534,Common Stock
+-,-,,Bruzzo Chris,4,-,--D,,2542.0,3,1525336,Common Stock
+-,-,,Bruzzo Chris,4,-,--I,,1532.0,2,1525336,Common Stock
+-,-,,Burt Gene Eddie,4,-,--D,,2542.0,2,1540838,Common Stock
+-,-,,Weston Bradley Morgan,4,-,--D,,11610.0,2,1748006,Common Stock
+-,-,,Laube Lisa,4,-,--D,,11610.0,2,1288841,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,8744.0,3,1240498,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1956.0,2,1240498,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,2620.0,3,1323610,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,4348.0,2,1323610,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,8744.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,14799.0,2,1219766,Common Stock
+-,-,,Love Michael A,4,-,--D,,7201.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,9532.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9430.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,13865.0,3,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,38452.0,3,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,11568.0,2,1766683,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,86189.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,227273.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,18880.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,31184.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,29217.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,49056.0,4,1623534,Common Stock
+-,-,,Watkins James M,4,-,--D,,9228.0,2,1562356,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,1265.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,7479.0,2,1219766,Common Stock
+-,-,,Bruzzo Chris,4,-,--D,,1265.0,3,1525336,Common Stock
+-,-,,Bruzzo Chris,4,-,--D,,1277.0,2,1525336,Common Stock
+-,-,,Watkins James M,4,-,--D,,10105.0,2,1562356,Common Stock
+-,-,,Love Michael A,4,-,--D,,8998.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,11466.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,18016.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,49056.0,2,1623534,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,1265.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,7479.0,2,1219766,Common Stock
+-,-,,Love Michael A,4,-,--D,,9379.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,3107.0,12,1766683,Options
+-,-,,Hazen John,4,-,--D,,11254.0,11,1766683,Options
+-,-,,Hazen John,4,-,--D,,15319.0,8,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,11974.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,19151.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,51691.0,3,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,9776.0,8,1766683,Options
+-,-,,Hazen John,4,-,--D,,9159.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,11254.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,17475.0,4,1766683,Common Stock
+-,-,,Love Michael A,4,-,--D,,11506.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,14706.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,60867.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,12263.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,18625.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,15856.0,3,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,3652.0,2,1562356,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,38383.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,64360.0,3,1623534,Common Stock
+-,-,,Weston Bradley Morgan,4,-,--D,,9068.0,2,1748006,Common Stock
+-,-,,Laube Lisa,4,-,--D,,9068.0,2,1288841,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1956.0,3,1240498,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,6202.0,2,1240498,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,1806.0,3,1323610,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,2620.0,2,1323610,Common Stock
+-,-,,BETTINELLI GREG,4,-,--D,,3582.0,2,1583198,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,9599.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,6202.0,2,1219766,Common Stock
+-,-,,Love Michael A,4,-,--D,,8693.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,15295.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12526.0,3,1623311,Common Stock
+-,-,,Watkins James M,4,-,--D,,8281.0,2,1562356,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,17932.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,42765.0,3,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,9776.0,9,1766683,Options
+-,-,,Hazen John,4,-,--D,,9159.0,8,1766683,Options
+-,-,,Hazen John,4,-,--D,,6214.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,15295.0,5,1766683,Common Stock
+-,-,,Watkins James M,4,-,--D,,8281.0,2,1562356,Common Stock
+-,-,,Love Michael A,4,-,--D,,8693.0,2,1766863,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,6214.0,11,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,10010.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,9,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,11000.0,8,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,13498.0,7,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,17932.0,4,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,227273.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,18880.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,31184.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,26278.0,6,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,29217.0,5,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,42765.0,3,1623534,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,1277.0,3,1323610,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,13,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12020.0,12,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,11000.0,11,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,13498.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,17932.0,6,1633114,Common Stock
+-,-,,BETTINELLI GREG,4,-,--D,,1277.0,3,1583198,Common Stock
+-,-,,Love Michael A,4,-,--D,,8693.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12526.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,18993.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,42765.0,2,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,227273.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,18880.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,31184.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,26278.0,8,1623534,Option
+-,-,,Conroy James Grant,4,-,--D,,46191.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,29217.0,6,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50602.0,5,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,45401.0,3,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,9074.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,22508.0,11,1766683,Options
+-,-,,Hazen John,4,-,--D,,6214.0,10,1766683,Options
+-,-,,Hazen John,4,-,--D,,19046.0,7,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,13034.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,19501.0,3,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,227273.0,19,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50602.0,18,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,45401.0,11,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,11202.0,2,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,13035.0,8,1766683,Options
+-,-,,Hazen John,4,-,--D,,12213.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,22508.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,21202.0,4,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12429.0,10,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,12727.0,9,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,28667.0,8,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,11924.0,7,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,20247.0,6,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,15766.0,4,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,22336.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,54578.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,8627.0,14,1766863,Options
+-,-,,Love Michael A,4,-,--D,,8083.0,13,1766863,Options
+-,-,,Hazen John,4,-,--D,,0.0,2,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,3243.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,13347.0,15,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12020.0,14,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,13,1633114,Options
+-,-,,Conroy James Grant,4,-,--D,,18364.0,2,1623534,Common Stock
+-,-,,Bruzzo Chris,4,-,--D,,0.0,2,1525336,Common Stock
+-,-,,Burt Gene Eddie,4,-,--D,,0.0,2,1540838,Common Stock
+-,-,,Weston Bradley Morgan,4,-,--D,,5486.0,2,1748006,Common Stock
+-,-,,Laube Lisa,4,-,--D,,5486.0,2,1288841,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,6526.0,2,1240498,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,6844.0,2,1323610,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,14599.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,2620.0,2,1219766,Common Stock
+-,-,,Hazen John,4,-,--D,,19575.0,2,1766683,Common Stock
+-,-,,Bruzzo Chris,3,-,--D,,0.0,1,1525336,Common Stock
+-,-,,Hazen John,4,-,--D,,13035.0,8,1766683,Options
+-,-,,Hazen John,4,-,--D,,12213.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,9321.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,19575.0,4,1766683,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,227273.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,41579.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,38957.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,28568.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50602.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50832.0,4,1623534,Common Stock
+-,-,,Burt Gene Eddie,3,-,--D,,0.0,1,1540838,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,50832.0,2,1623534,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,3582.0,2,1323610,Common Stock
+-,-,,Hazen John,4,-,--D,,13035.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,12213.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,33762.0,5,1766683,Options
+-,-,,Hazen John,4,-,--D,,23327.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12429.0,12,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,12727.0,11,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,28667.0,10,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,11924.0,9,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,20247.0,8,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,14699.0,5,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,6506.0,12,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12429.0,11,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,13347.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,28667.0,9,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12020.0,8,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,7,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,22000.0,6,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,20247.0,5,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,19494.0,3,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,37760.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,227273.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,41579.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,105112.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,38957.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,28568.0,6,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50602.0,5,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50832.0,3,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,37760.0,12,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,227273.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,58553.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,41579.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,105112.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,38957.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50832.0,4,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,37760.0,12,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,227273.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,58553.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,41579.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,105112.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,38957.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,50832.0,4,1623534,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,6506.0,12,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12429.0,11,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,13347.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,28667.0,9,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12020.0,8,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,7,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,22000.0,6,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,20247.0,5,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,19494.0,3,1633114,Common Stock
+-,-,,Hazen John,4,-,--D,,12429.0,8,1766683,Options
+-,-,,Hazen John,4,-,--D,,13035.0,7,1766683,Options
+-,-,,Hazen John,4,-,--D,,12213.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,23327.0,4,1766683,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,3582.0,2,1323610,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,12429.0,11,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,28667.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,20247.0,9,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,22000.0,8,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,6506.0,7,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,80000.0,6,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,13347.0,5,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,12506.0,4,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,26163.0,2,1633114,Common Stock
+-,-,,Love Michael A,4,-,--D,,11140.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,14699.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,50832.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,11417.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,15080.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,52393.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,8181.0,10,1766863,Options
+-,-,,Love Michael A,4,-,--D,,15882.0,9,1766863,Options
+-,-,,Love Michael A,4,-,--D,,15184.0,8,1766863,Options
+-,-,,Love Michael A,4,-,--D,,7360.0,7,1766863,Options
+-,-,,Love Michael A,4,-,--D,,3470.0,6,1766863,Options
+-,-,,Love Michael A,4,-,--D,,11798.0,3,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,12429.0,6,1766683,Options
+-,-,,Hazen John,4,-,--D,,45016.0,5,1766683,Options
+-,-,,Hazen John,4,-,--D,,2980.0,2,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12429.0,10,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,28667.0,9,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,20247.0,8,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,32800.0,7,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,14313.0,6,1623311,Options
+-,-,,Grijalva Laurie Marie,4,-,--D,,15588.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,12429.0,10,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,28667.0,9,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,20247.0,8,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,22000.0,7,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,6506.0,6,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,80000.0,5,1633114,Options
+-,-,,Hackman Gregory V.,4,-,--D,,24855.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,37760.0,11,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,227273.0,10,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,105112.0,9,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,75904.0,8,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,57136.0,7,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,58553.0,6,1623534,Options
+-,-,,Conroy James Grant,4,-,--D,,55029.0,3,1623534,Common Stock
+-,-,,Weston Bradley Morgan,4,-,--D,,5486.0,2,1748006,Common Stock
+-,-,,Laube Lisa,4,-,--D,,5486.0,2,1288841,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,6526.0,2,1240498,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,17844.0,2,1323610,Common Stock
+-,-,,BETTINELLI GREG,4,-,--D,,2620.0,2,1583198,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,14599.0,3,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,2620.0,2,1219766,Common Stock
+-,-,,Love Michael A,4,-,--D,,6792.0,2,1766863,Common Stock
+-,-,,Hazen John,4,-,--D,,14703.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,7795.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,7727.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,29819.0,2,1623534,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9505.0,3,1623311,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9505.0,3,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,9577.0,7,1633114,Common Stock
+-,-,,Morris Brenda I,4,-,--D,,2620.0,2,1323610,Common Stock
+-,-,,Love Michael A,4,-,--D,,8549.0,7,1766863,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,36288.0,3,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,36288.0,3,1623534,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,36288.0,5,1623534,Common Stock
+-,-,,Hazen John,4,-,--D,,19604.0,3,1766683,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9505.0,3,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,36288.0,5,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,8549.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9505.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,36288.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,8827.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,9887.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,37849.0,2,1623534,Common Stock
+-,-,,Love Michael A,4,-,--D,,9208.0,2,1766863,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,10395.0,2,1623311,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,40485.0,3,1623534,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,5967.0,2,1219766,Common Stock
+-,-,,Hazen John,4,-,--D,,2365.0,2,1766683,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,22326.0,2,1633114,Common Stock
+-,-,,Hazen John,4,-,--D,,15005.0,2,1766683,Common Stock
+-,-,,Hazen John,3,-,--D,,,2,1766683,Options
+-,-,,Hazen John,3,-,--D,,18757.0,1,1766683,Common Stock
+-,-,,Love Michael A,3,-,--D,,,7,1766863,Options
+-,-,,Love Michael A,3,-,--D,,,6,1766863,Options
+-,-,,Love Michael A,3,-,--D,,,5,1766863,Options
+-,-,,Love Michael A,3,-,--D,,,4,1766863,Options
+-,-,,Love Michael A,3,-,--D,,,3,1766863,Options
+-,-,,Love Michael A,3,-,--D,,1962.0,2,1766863,Common Stock
+-,-,,Love Michael A,3,-,--D,,7882.0,1,1766863,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,5967.0,5,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,8632.0,2,1219766,Common Stock
+-,-,,Laube Lisa,3,-,--D,,0.0,1,1288841,Common Stock
+-,-,,Weston Bradley Morgan,3,-,--D,,0.0,1,1748006,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,6983.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,6986.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,31790.0,2,1623534,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,7364.0,2,1623311,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,7160.0,2,1633114,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,33352.0,2,1623534,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,55967.0,2,1219766,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,26791.0,5,1623534,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,5160.0,4,1633114,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,5364.0,2,1623311,Common Stock
+-,-,,MACDONALD ANNE,3,-,--D,,0.0,1,1240498,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,5924.0,4,1623311,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,135486.0,2,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--I,,135486.0,3,1219766,Common Stock
+-,-,,Conroy James Grant,4,-,--D,,42765.0,2,1623534,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,1277.0,4,1219766,Common Stock
+-,-,,STARRETT PETER,4,-,--D,,6202.0,3,1219766,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,17932.0,4,1633114,Common Stock
+-,-,,MACDONALD ANNE,4,-,--D,,1277.0,4,1240498,Common Stock
+-,-,,Grijalva Laurie Marie,4,-,--D,,12526.0,3,1623311,Common Stock
+-,-,,Love Michael A,4,-,--D,,8693.0,8,1766863,Common Stock
+-,-,,Hackman Gregory V.,4,-,--D,,17932.0,2,1633114,Common Stock
+-,-,,Watkins James M,3,-,--D,,,7,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,,6,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,,5,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,,4,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,,3,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,,2,1562356,Stock Option (right to buy)
+-,-,,Watkins James M,3,-,--D,,9289.0,1,1562356,Common Stock
+-,-,,Hackman Gregory V.,3,-,--D,,,1,1633114,Option
+-,-,,"FS Equity Partners VI, L.P.",3,-,--I,,17750000.0,1,1455978,Common Stock
+-,-,,STARRETT PETER,3,-,--D,,,9,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,8,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,7,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,6,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,5,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,4,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,3,1219766,Options
+-,-,,STARRETT PETER,3,-,--D,,,2,1219766,Options
+-,-,,STARRETT PETER,3,-,--I,,175000.0,1,1219766,Common Stock
+-,-,,Iacono Paul Joseph,3,-,--D,,,5,1623312,Options
+-,-,,Iacono Paul Joseph,3,-,--D,,,4,1623312,Options
+-,-,,Iacono Paul Joseph,3,-,--D,,,3,1623312,Options
+-,-,,Iacono Paul Joseph,3,-,--D,,,2,1623312,Options
+-,-,,Iacono Paul Joseph,3,-,--D,,45125.0,1,1623312,Common Stock
+-,-,,Grijalva Laurie Marie,3,-,--D,,,5,1623311,Options
+-,-,,Grijalva Laurie Marie,3,-,--D,,,4,1623311,Options
+-,-,,Grijalva Laurie Marie,3,-,--D,,,3,1623311,Options
+-,-,,Grijalva Laurie Marie,3,-,--D,,,2,1623311,Options
+-,-,,Grijalva Laurie Marie,3,-,--D,,,1,1623311,Options
+-,-,,Conroy James Grant,3,-,--D,,,4,1623534,Options
+-,-,,Conroy James Grant,3,-,--D,,,3,1623534,Options
+-,-,,Conroy James Grant,3,-,--D,,,2,1623534,Options
+-,-,,Conroy James Grant,3,-,--D,,,1,1623534,Options
+-,-,,BETTINELLI GREG,3,-,--D,,,5,1583198,Options
+-,-,,BETTINELLI GREG,3,-,--D,,,4,1583198,Options
+-,-,,BETTINELLI GREG,3,-,--D,,,3,1583198,Options
+-,-,,BETTINELLI GREG,3,-,--D,,,2,1583198,Options
+-,-,,BETTINELLI GREG,3,-,--D,,12500.0,1,1583198,Common Stock
