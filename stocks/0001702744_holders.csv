@@ -1,8 +1,8 @@
 Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
-0.07635,,,,,,,
-0.92415,,,,,,,
-1.00053,,,,,,,
-371.0,,,,,,,
+0.083380006,,,,,,,
+0.91989,,,,,,,
+1.0035601,,,,,,,
+370.0,,,,,,,
 479092372.0,2023-06-30,Blackrock Inc.,0.13149999,13093533.0,Institutional,,
 392733861.0,2023-06-30,Vanguard Group Inc,0.1078,10733366.0,Institutional,,
 224454037.0,2023-06-30,Capital World Investors,0.0616,6134300.0,Institutional,,
@@ -23,10 +23,10 @@ Value,Date Reported,Holder,pctHeld,Shares,Type,Insider Purchases Last 6m,Trans
 53688433.0,2023-06-30,Vanguard Small-Cap Growth Index Fund,0.0147,1467298.0,MutualFund,,
 47473622.0,2023-06-30,Neuberger & Berman Genesis Fund,0.012999999,1297448.0,MutualFund,,
 42486551.0,2023-06-30,Vanguard Extended Market Index Fund,0.0117,1161152.0,MutualFund,,
-,,,,1073998.0,,Purchases,15
-,,,,388767.0,,Sales,6
-,,,,685231.0,,Net Shares Purchased (Sold),21
-,,,,7651914.0,,Total Insider Shares Held,
-,,,,0.098000005,,% Net Shares Purchased (Sold),
-,,,,0.154,,% Buy Shares,
-,,,,0.055999998,,% Sell Shares,
+,,,,1372226.0,,Purchases,25
+,,,,670427.0,,Sales,10
+,,,,701799.0,,Net Shares Purchased (Sold),35
+,,,,8356471.0,,Total Insider Shares Held,
+,,,,0.092,,% Net Shares Purchased (Sold),
+,,,,0.17899999,,% Buy Shares,
+,,,,0.088,,% Sell Shares,
