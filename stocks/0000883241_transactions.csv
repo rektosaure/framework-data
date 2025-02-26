@@ -1,4 +1,94 @@
 Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name
+D,2025-01-15,,MAHONEY RICHARD S.,4,M-Exempt,--D,4173.0,5365.0,7,1693085,Non-Qualified Stock Option (right to buy)
+D,2025-01-15,,MAHONEY RICHARD S.,4,M-Exempt,--D,10322.0,8847.0,6,1693085,Non-Qualified Stock Option (right to buy)
+D,2025-01-15,,MAHONEY RICHARD S.,4,S-Sale,--D,6343.0,1460.0,5,1693085,Common Stock
+D,2025-01-15,,MAHONEY RICHARD S.,4,S-Sale,--D,4173.0,7803.0,4,1693085,Common Stock
+A,2025-01-15,,MAHONEY RICHARD S.,4,M-Exempt,--D,4173.0,11976.0,3,1693085,Common Stock
+D,2025-01-15,,MAHONEY RICHARD S.,4,S-Sale,--D,10322.0,7803.0,2,1693085,Common Stock
+A,2025-01-15,,MAHONEY RICHARD S.,4,M-Exempt,--D,10322.0,18125.0,1,1693085,Common Stock
+D,2025-01-14,,RUNKEL JOHN F JR,4,G-Gift,--D,40.0,23103.0,1,1206990,Common Stock
+D,2025-01-14,,Ghazi Sassine,4,G-Gift,--D,450.0,70897.0,1,1822289,Common Stock
+A,2024-12-18,,Kankanwadi Sudhindra,4,A-Award,--D,3034.0,4720.0,2,1652437,Restricted Stock Units
+A,2024-12-18,,Kankanwadi Sudhindra,4,A-Award,--D,2959.0,2959.0,1,1652437,Non-Qualified Stock Option (right to buy)
+A,2024-12-18,,MAHONEY RICHARD S.,4,A-Award,--D,2529.0,2529.0,2,1693085,Restricted Stock Units
+A,2024-12-18,,MAHONEY RICHARD S.,4,A-Award,--D,7397.0,7397.0,1,1693085,Non-Qualified Stock Option (right to buy)
+A,2024-12-18,,RUNKEL JOHN F JR,4,A-Award,--D,1163.0,1163.0,2,1206990,Restricted Stock Units
+A,2024-12-18,,RUNKEL JOHN F JR,4,A-Award,--D,3403.0,3403.0,1,1206990,Non-Qualified Stock Option (right to buy)
+A,2024-12-18,,Glaser Shelagh,4,A-Award,--D,3034.0,3034.0,2,1865504,Restricted Stock Units
+A,2024-12-18,,Glaser Shelagh,4,A-Award,--D,8876.0,8876.0,1,1865504,Non-Qualified Stock Option (right to buy)
+A,2024-12-18,,Ghazi Sassine,4,A-Award,--D,9102.0,9102.0,2,1822289,Restricted Stock Units
+A,2024-12-18,,Ghazi Sassine,4,A-Award,--D,26628.0,26628.0,1,1822289,Non-Qualified Stock Option (right to buy)
+A,2024-12-18,,DE GEUS AART,4,A-Award,--D,2503.0,2503.0,2,1249802,Restricted Stock Units
+A,2024-12-18,,DE GEUS AART,4,A-Award,--D,7323.0,7323.0,1,1249802,Non-Qualified Stock Option (right to buy)
+D,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,9779.0,0.0,15,1822289,Restricted Stock Units
+D,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1654.0,4960.0,14,1822289,Restricted Stock Units
+D,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1058.0,1058.0,13,1822289,Restricted Stock Units
+D,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1334.0,0.0,12,1822289,Restricted Stock Units
+D,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,2669.0,1334.0,11,1822289,Restricted Stock Units
+D,2024-12-06,,Ghazi Sassine,4,F-InKind,--D,821.0,71347.0,10,1822289,Common Stock
+A,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1654.0,72168.0,9,1822289,Common Stock
+D,2024-12-06,,Ghazi Sassine,4,F-InKind,--D,525.0,70514.0,8,1822289,Common Stock
+A,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1058.0,71039.0,7,1822289,Common Stock
+D,2024-12-06,,Ghazi Sassine,4,F-InKind,--D,662.0,69981.0,6,1822289,Common Stock
+A,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,1334.0,70643.0,5,1822289,Common Stock
+D,2024-12-06,,Ghazi Sassine,4,F-InKind,--D,4849.0,69309.0,4,1822289,Common Stock
+A,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,9779.0,74158.0,3,1822289,Common Stock
+D,2024-12-06,,Ghazi Sassine,4,F-InKind,--D,1324.0,64379.0,2,1822289,Common Stock
+A,2024-12-06,,Ghazi Sassine,4,M-Exempt,--D,2669.0,65703.0,1,1822289,Common Stock
+D,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,11408.0,0.0,17,1249802,Restricted Stock Units
+D,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,882.0,2645.0,16,1249802,Restricted Stock Units
+D,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,1234.0,1234.0,15,1249802,Restricted Stock Units
+D,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,1868.0,0.0,14,1249802,Restricted Stock Units
+D,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,3736.0,1868.0,13,1249802,Restricted Stock Units
+D,2024-12-06,,DE GEUS AART,4,F-InKind,--D,438.0,116646.0,10,1249802,Common Stock
+A,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,882.0,117084.0,9,1249802,Common Stock
+D,2024-12-06,,DE GEUS AART,4,F-InKind,--D,612.0,116202.0,8,1249802,Common Stock
+A,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,1234.0,116814.0,7,1249802,Common Stock
+D,2024-12-06,,DE GEUS AART,4,F-InKind,--D,927.0,115580.0,6,1249802,Common Stock
+A,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,1868.0,116507.0,5,1249802,Common Stock
+D,2024-12-06,,DE GEUS AART,4,F-InKind,--D,5657.0,114639.0,4,1249802,Common Stock
+A,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,11408.0,120296.0,3,1249802,Common Stock
+D,2024-12-06,,DE GEUS AART,4,F-InKind,--D,1853.0,108888.0,2,1249802,Common Stock
+A,2024-12-06,,DE GEUS AART,4,M-Exempt,--D,3736.0,110741.0,1,1249802,Common Stock
+D,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,6732.0,0.0,9,1865504,Restricted Stock Units
+D,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,662.0,1984.0,8,1865504,Restricted Stock Units
+D,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,3590.0,7180.0,7,1865504,Restricted Stock Units
+D,2024-12-06,,Glaser Shelagh,4,F-InKind,--D,329.0,14746.0,6,1865504,Common Stock
+A,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,662.0,15075.0,5,1865504,Common Stock
+D,2024-12-06,,Glaser Shelagh,4,F-InKind,--D,1619.0,14413.0,4,1865504,Common Stock
+A,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,3590.0,16032.0,3,1865504,Common Stock
+D,2024-12-06,,Glaser Shelagh,4,F-InKind,--D,3338.0,12442.0,2,1865504,Common Stock
+A,2024-12-06,,Glaser Shelagh,4,M-Exempt,--D,6732.0,15780.0,1,1865504,Common Stock
+D,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,3749.0,0.0,15,1206990,Restricted Stock Units
+D,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,254.0,761.0,14,1206990,Restricted Stock Units
+D,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,406.0,405.0,13,1206990,Restricted Stock Units
+D,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,587.0,0.0,12,1206990,Restricted Stock Units
+D,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,1174.0,587.0,11,1206990,Restricted Stock Units
+D,2024-12-06,,RUNKEL JOHN F JR,4,F-InKind,--D,126.0,23143.0,10,1206990,Common Stock
+A,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,254.0,23269.0,9,1206990,Common Stock
+D,2024-12-06,,RUNKEL JOHN F JR,4,F-InKind,--D,202.0,23015.0,8,1206990,Common Stock
+A,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,406.0,23217.0,7,1206990,Common Stock
+D,2024-12-06,,RUNKEL JOHN F JR,4,F-InKind,--D,292.0,22811.0,6,1206990,Common Stock
+A,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,587.0,23103.0,5,1206990,Common Stock
+D,2024-12-06,,RUNKEL JOHN F JR,4,F-InKind,--D,1859.0,22516.0,4,1206990,Common Stock
+A,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,3749.0,24375.0,3,1206990,Common Stock
+D,2024-12-06,,RUNKEL JOHN F JR,4,F-InKind,--D,583.0,20626.0,2,1206990,Common Stock
+A,2024-12-06,,RUNKEL JOHN F JR,4,M-Exempt,--D,1174.0,21209.0,1,1206990,Common Stock
+D,2024-12-06,,MAHONEY RICHARD S.,4,M-Exempt,--D,7343.0,0.0,6,1693085,Restricted Stock Units
+D,2024-12-06,,MAHONEY RICHARD S.,4,M-Exempt,--D,658.0,1974.0,5,1693085,Restricted Stock Units
+D,2024-12-06,,MAHONEY RICHARD S.,4,F-InKind,--D,3198.0,7803.0,4,1693085,Common Stock
+A,2024-12-06,,MAHONEY RICHARD S.,4,M-Exempt,--D,7343.0,11001.0,3,1693085,Common Stock
+D,2024-12-06,,MAHONEY RICHARD S.,4,F-InKind,--D,287.0,3658.0,2,1693085,Common Stock
+A,2024-12-06,,MAHONEY RICHARD S.,4,M-Exempt,--D,658.0,3945.0,1,1693085,Common Stock
+D,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,563.0,1686.0,9,1652437,Restricted Stock Units
+D,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,741.0,740.0,8,1652437,Restricted Stock Units
+D,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,881.0,0.0,7,1652437,Restricted Stock Units
+D,2024-12-06,,Kankanwadi Sudhindra,4,F-InKind,--D,280.0,19961.0,6,1652437,Common Stock
+A,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,563.0,20241.0,5,1652437,Common Stock
+D,2024-12-06,,Kankanwadi Sudhindra,4,F-InKind,--D,368.0,19678.0,4,1652437,Common Stock
+A,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,741.0,20046.0,3,1652437,Common Stock
+D,2024-12-06,,Kankanwadi Sudhindra,4,F-InKind,--D,352.0,19305.0,2,1652437,Common Stock
+A,2024-12-06,,Kankanwadi Sudhindra,4,M-Exempt,--D,881.0,19657.0,1,1652437,Common Stock
 D,2024-09-13,,Ghazi Sassine,4,D-Return,--D,882.0,0.0,3,1822289,Restricted Stock Units
 D,2024-09-13,,Ghazi Sassine,4,F-InKind,--D,438.0,63034.0,2,1822289,Common Stock
 A,2024-09-13,,Ghazi Sassine,4,M-Exempt,--D,882.0,63472.0,1,1822289,Common Stock
@@ -4790,6 +4880,8 @@ A,2003-06-27,,KAUL SANJIV,4,M-Exempt,--D,10000.0,14120.0,1,1249838,Common Stock
 -,-,,DE GEUS AART,4,-,--I,,72500.0,2,1249802,Common Stock
 -,-,,DE GEUS AART,4,-,--I,,16000.0,3,1249802,Common Stock
 -,-,,DE GEUS AART,4,-,--D,,667353.0,2,1249802,Common Stock
+-,-,,DE GEUS AART,4,-,--I,,14500.0,12,1249802,Common Stock
+-,-,,DE GEUS AART,4,-,--I,,308791.0,11,1249802,Common Stock
 -,-,,DE GEUS AART,4,-,--I,,14500.0,3,1249802,Common Stock
 -,-,,DE GEUS AART,4,-,--I,,308791.0,2,1249802,Common Stock
 -,-,,DE GEUS AART,4,-,--I,,14500.0,5,1249802,Common Stock
