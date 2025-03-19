@@ -1,6 +1,6 @@
 Date,Federal Funds Effective Rate,Federal Funds Target Range - Upper Limit,Federal Funds Target Range - Lower Limit,"FOMC Projections for Real GDP Growth , Central Tendency, Midpoint","FOMC Projections for Real GDP Growth , Median",Total Assets
 2025-03-19,,4.5,4.25,,,
-2025-03-18,,4.5,4.25,,,
+2025-03-18,4.33,4.5,4.25,,,
 2025-03-17,4.33,4.5,4.25,,,
 2025-03-16,4.33,4.5,4.25,,,
 2025-03-15,4.33,4.5,4.25,,,
@@ -76,7 +76,7 @@ Date,Federal Funds Effective Rate,Federal Funds Target Range - Upper Limit,Feder
 2025-01-04,4.33,4.5,4.25,,,
 2025-01-03,4.33,4.5,4.25,,,
 2025-01-02,4.33,4.5,4.25,,,
-2025-01-01,4.33,4.5,4.25,2.0,2.1,
+2025-01-01,4.33,4.5,4.25,1.7,1.7,
 2024-12-31,4.33,4.5,4.25,,,
 2024-12-30,4.33,4.5,4.25,,,6852491.0
 2024-12-29,4.33,4.5,4.25,,,
@@ -442,7 +442,7 @@ Date,Federal Funds Effective Rate,Federal Funds Target Range - Upper Limit,Feder
 2024-01-04,5.33,5.5,5.25,,,
 2024-01-03,5.33,5.5,5.25,,,
 2024-01-02,5.33,5.5,5.25,,,
-2024-01-01,5.33,5.5,5.25,2.45,2.5,7681024.0
+2024-01-01,5.33,5.5,5.25,,,7681024.0
 2023-12-31,5.33,5.5,5.25,,,
 2023-12-30,5.33,5.5,5.25,,,
 2023-12-29,5.33,5.5,5.25,,,
