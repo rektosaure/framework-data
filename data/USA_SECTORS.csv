@@ -1,369 +1,369 @@
 Sectors,Unnamed: 0,Total Return %,IVV(iShares-SP500),Sector
-aerospace-11,1 Month,-1.41,-12.13,
-aerospace-11,3 Months,-2.12,-14.33,
-aerospace-11,YTD,-2.0,-13.47,
-aerospace-11,1 Year,3.38,-0.05,
-aerospace-11,3 Years,-5.84,15.26,
-aerospace-11,5 Years,26.49,117.02,
-aerospace-11,PE (F1),,16.90,22.69
-aerospace-11,PEG (Ratio),,1.92,1.97
-aerospace-11,Proj EPS Growth,,6.69%,15.32%
+aerospace-11,1 Month,-0.9,-3.56,
+aerospace-11,3 Months,1.38,-7.64,
+aerospace-11,YTD,0.97,-8.48,
+aerospace-11,1 Year,6.51,4.64,
+aerospace-11,3 Years,6.17,26.36,
+aerospace-11,5 Years,29.76,104.14,
+aerospace-11,PE (F1),,17.47,23.89
+aerospace-11,PEG (Ratio),,1.97,2.19
+aerospace-11,Proj EPS Growth,,6.35%,15.32%
 aerospace-11,Hist EPS Growth,,10.13%,12.11%
-aerospace-11,Net Margin,,12.68%,5.80%
-aerospace-11,Hist Sales Growth,,8.46%,7.85%
-aerospace-11,Hist Dividend Growth,,3.66%,0.00%
+aerospace-11,Net Margin,,12.68%,5.52%
+aerospace-11,Hist Sales Growth,,8.46%,7.93%
+aerospace-11,Hist Dividend Growth,,3.85%,0.00%
 aerospace-11,Beta,,1.02,1.00
-aerospace-11,ROE,,17.14,10.79
-aerospace-11,ROA,,6.82,4.30
-aerospace-11,ROI,,11.34,7.12
-aerospace-11,Debt-to-Equity,,0.59,0.31
-aerospace-11,Current Ratio,,1.19,2.11
-aerospace-11,Cash Flow ($/share),,2800.60,65.80
-aerospace-11,Price to Book,,3.66,3.07
-aerospace-11,Price To Sales,,2.66,1.85
-aerospace-11,Dividend Yield,,1.73%,0.00%
-auto-tires-and-trucks-5,1 Month,-11.31,-12.13,
-auto-tires-and-trucks-5,3 Months,-30.99,-14.33,
-auto-tires-and-trucks-5,YTD,-30.11,-13.47,
-auto-tires-and-trucks-5,1 Year,-15.09,-0.05,
-auto-tires-and-trucks-5,3 Years,-45.93,15.26,
-auto-tires-and-trucks-5,5 Years,61.83,117.02,
-auto-tires-and-trucks-5,PE (F1),,16.90,9.23
-auto-tires-and-trucks-5,PEG (Ratio),,1.91,0.91
-auto-tires-and-trucks-5,Proj EPS Growth,,6.69%,15.56%
+aerospace-11,ROE,,17.11,10.73
+aerospace-11,ROA,,6.82,4.25
+aerospace-11,ROI,,11.34,7.02
+aerospace-11,Debt-to-Equity,,0.59,0.28
+aerospace-11,Current Ratio,,1.19,2.04
+aerospace-11,Cash Flow ($/share),,2821.00,65.80
+aerospace-11,Price to Book,,3.85,2.98
+aerospace-11,Price To Sales,,2.75,2.04
+aerospace-11,Dividend Yield,,1.68%,0.00%
+auto-tires-and-trucks-5,1 Month,-1.73,-3.56,
+auto-tires-and-trucks-5,3 Months,-25.65,-7.64,
+auto-tires-and-trucks-5,YTD,-27.51,-8.48,
+auto-tires-and-trucks-5,1 Year,-13.24,4.64,
+auto-tires-and-trucks-5,3 Years,-36.35,26.36,
+auto-tires-and-trucks-5,5 Years,43.97,104.14,
+auto-tires-and-trucks-5,PE (F1),,17.47,9.14
+auto-tires-and-trucks-5,PEG (Ratio),,1.97,0.92
+auto-tires-and-trucks-5,Proj EPS Growth,,6.35%,14.51%
 auto-tires-and-trucks-5,Hist EPS Growth,,10.13%,16.21%
-auto-tires-and-trucks-5,Net Margin,,12.68%,0.47%
-auto-tires-and-trucks-5,Hist Sales Growth,,8.46%,8.83%
-auto-tires-and-trucks-5,Hist Dividend Growth,,3.66%,0.00%
-auto-tires-and-trucks-5,Beta,,1.02,1.30
-auto-tires-and-trucks-5,ROE,,17.14,6.21
-auto-tires-and-trucks-5,ROA,,6.82,1.30
-auto-tires-and-trucks-5,ROI,,11.34,2.54
+auto-tires-and-trucks-5,Net Margin,,12.68%,0.71%
+auto-tires-and-trucks-5,Hist Sales Growth,,8.46%,8.65%
+auto-tires-and-trucks-5,Hist Dividend Growth,,3.85%,0.00%
+auto-tires-and-trucks-5,Beta,,1.02,1.31
+auto-tires-and-trucks-5,ROE,,17.11,6.21
+auto-tires-and-trucks-5,ROA,,6.82,1.38
+auto-tires-and-trucks-5,ROI,,11.34,2.61
 auto-tires-and-trucks-5,Debt-to-Equity,,0.59,0.14
-auto-tires-and-trucks-5,Current Ratio,,1.19,1.63
-auto-tires-and-trucks-5,Cash Flow ($/share),,2800.60,35.25
-auto-tires-and-trucks-5,Price to Book,,3.66,0.91
-auto-tires-and-trucks-5,Price To Sales,,2.66,0.52
-auto-tires-and-trucks-5,Dividend Yield,,1.73%,0.00%
-basic-materials-6,1 Month,-8.32,-12.13,
-basic-materials-6,3 Months,-4.62,-14.33,
-basic-materials-6,YTD,-4.78,-13.47,
-basic-materials-6,1 Year,-17.6,-0.05,
-basic-materials-6,3 Years,-20.94,15.26,
-basic-materials-6,5 Years,69.22,117.02,
-basic-materials-6,PE (F1),,16.90,12.75
-basic-materials-6,PEG (Ratio),,1.92,0.93
-basic-materials-6,Proj EPS Growth,,6.69%,18.70%
-basic-materials-6,Hist EPS Growth,,10.13%,5.67%
-basic-materials-6,Net Margin,,12.68%,2.67%
-basic-materials-6,Hist Sales Growth,,8.46%,7.24%
-basic-materials-6,Hist Dividend Growth,,3.66%,0.00%
+auto-tires-and-trucks-5,Current Ratio,,1.19,1.61
+auto-tires-and-trucks-5,Cash Flow ($/share),,2821.00,40.09
+auto-tires-and-trucks-5,Price to Book,,3.85,0.92
+auto-tires-and-trucks-5,Price To Sales,,2.75,0.52
+auto-tires-and-trucks-5,Dividend Yield,,1.68%,0.00%
+basic-materials-6,1 Month,-4.43,-3.56,
+basic-materials-6,3 Months,-0.03,-7.64,
+basic-materials-6,YTD,0.17,-8.48,
+basic-materials-6,1 Year,-14.27,4.64,
+basic-materials-6,3 Years,-15.35,26.36,
+basic-materials-6,5 Years,52.98,104.14,
+basic-materials-6,PE (F1),,17.47,13.33
+basic-materials-6,PEG (Ratio),,1.97,0.90
+basic-materials-6,Proj EPS Growth,,6.35%,20.61%
+basic-materials-6,Hist EPS Growth,,10.13%,5.64%
+basic-materials-6,Net Margin,,12.68%,2.64%
+basic-materials-6,Hist Sales Growth,,8.46%,7.26%
+basic-materials-6,Hist Dividend Growth,,3.85%,0.00%
 basic-materials-6,Beta,,1.02,0.99
-basic-materials-6,ROE,,17.14,4.27
-basic-materials-6,ROA,,6.82,1.42
-basic-materials-6,ROI,,11.34,2.42
-basic-materials-6,Debt-to-Equity,,0.59,0.17
-basic-materials-6,Current Ratio,,1.19,1.97
-basic-materials-6,Cash Flow ($/share),,2800.60,93.57
-basic-materials-6,Price to Book,,3.66,1.19
-basic-materials-6,Price To Sales,,2.66,1.09
-basic-materials-6,Dividend Yield,,1.73%,0.00%
-business-services-16,1 Month,-10.29,-12.13,
-business-services-16,3 Months,-8.46,-14.33,
-business-services-16,YTD,-7.73,-13.47,
-business-services-16,1 Year,-0.19,-0.05,
-business-services-16,3 Years,-2.09,15.26,
-business-services-16,5 Years,2.6,117.02,
-business-services-16,PE (F1),,16.90,17.01
-business-services-16,PEG (Ratio),,1.92,1.54
-business-services-16,Proj EPS Growth,,6.69%,12.86%
-business-services-16,Hist EPS Growth,,10.13%,11.60%
-business-services-16,Net Margin,,12.68%,0.79%
-business-services-16,Hist Sales Growth,,8.46%,10.97%
-business-services-16,Hist Dividend Growth,,3.66%,0.00%
+basic-materials-6,ROE,,17.11,4.21
+basic-materials-6,ROA,,6.82,1.36
+basic-materials-6,ROI,,11.34,2.38
+basic-materials-6,Debt-to-Equity,,0.59,0.16
+basic-materials-6,Current Ratio,,1.19,2.00
+basic-materials-6,Cash Flow ($/share),,2821.00,86.36
+basic-materials-6,Price to Book,,3.85,1.24
+basic-materials-6,Price To Sales,,2.75,1.15
+basic-materials-6,Dividend Yield,,1.68%,0.00%
+business-services-16,1 Month,-2.73,-3.56,
+business-services-16,3 Months,-2.57,-7.64,
+business-services-16,YTD,-4.72,-8.48,
+business-services-16,1 Year,3.16,4.64,
+business-services-16,3 Years,6.52,26.36,
+business-services-16,5 Years,-5.97,104.14,
+business-services-16,PE (F1),,17.47,17.46
+business-services-16,PEG (Ratio),,1.97,1.56
+business-services-16,Proj EPS Growth,,6.35%,12.63%
+business-services-16,Hist EPS Growth,,10.13%,11.76%
+business-services-16,Net Margin,,12.68%,0.82%
+business-services-16,Hist Sales Growth,,8.46%,11.06%
+business-services-16,Hist Dividend Growth,,3.85%,0.00%
 business-services-16,Beta,,1.02,1.01
-business-services-16,ROE,,17.14,3.51
-business-services-16,ROA,,6.82,1.06
-business-services-16,ROI,,11.34,2.39
-business-services-16,Debt-to-Equity,,0.59,0.09
-business-services-16,Current Ratio,,1.19,1.35
-business-services-16,Cash Flow ($/share),,2800.60,9.81
-business-services-16,Price to Book,,3.66,2.19
-business-services-16,Price To Sales,,2.66,1.53
-business-services-16,Dividend Yield,,1.73%,0.00%
-computer-and-technology-10,1 Month,-16.18,-12.13,
-computer-and-technology-10,3 Months,-22.38,-14.33,
-computer-and-technology-10,YTD,-20.94,-13.47,
-computer-and-technology-10,1 Year,-5.72,-0.05,
-computer-and-technology-10,3 Years,11.63,15.26,
-computer-and-technology-10,5 Years,119.31,117.02,
-computer-and-technology-10,PE (F1),,16.90,18.26
-computer-and-technology-10,PEG (Ratio),,1.91,1.44
-computer-and-technology-10,Proj EPS Growth,,6.69%,13.87%
-computer-and-technology-10,Hist EPS Growth,,10.13%,10.54%
-computer-and-technology-10,Net Margin,,12.68%,1.15%
-computer-and-technology-10,Hist Sales Growth,,8.46%,8.42%
-computer-and-technology-10,Hist Dividend Growth,,3.66%,0.00%
+business-services-16,ROE,,17.11,3.54
+business-services-16,ROA,,6.82,1.11
+business-services-16,ROI,,11.34,2.41
+business-services-16,Debt-to-Equity,,0.59,0.07
+business-services-16,Current Ratio,,1.19,1.38
+business-services-16,Cash Flow ($/share),,2821.00,9.50
+business-services-16,Price to Book,,3.85,2.23
+business-services-16,Price To Sales,,2.75,1.57
+business-services-16,Dividend Yield,,1.68%,0.00%
+computer-and-technology-10,1 Month,-4.81,-3.56,
+computer-and-technology-10,3 Months,-14.27,-7.64,
+computer-and-technology-10,YTD,-14.47,-8.48,
+computer-and-technology-10,1 Year,-0.9,4.64,
+computer-and-technology-10,3 Years,32.42,26.36,
+computer-and-technology-10,5 Years,115.22,104.14,
+computer-and-technology-10,PE (F1),,17.47,19.01
+computer-and-technology-10,PEG (Ratio),,1.97,1.53
+computer-and-technology-10,Proj EPS Growth,,6.35%,13.67%
+computer-and-technology-10,Hist EPS Growth,,10.13%,10.69%
+computer-and-technology-10,Net Margin,,12.68%,1.07%
+computer-and-technology-10,Hist Sales Growth,,8.46%,8.39%
+computer-and-technology-10,Hist Dividend Growth,,3.85%,0.00%
 computer-and-technology-10,Beta,,1.02,1.05
-computer-and-technology-10,ROE,,17.14,4.74
-computer-and-technology-10,ROA,,6.82,2.17
-computer-and-technology-10,ROI,,11.34,4.26
+computer-and-technology-10,ROE,,17.11,4.67
+computer-and-technology-10,ROA,,6.82,2.16
+computer-and-technology-10,ROI,,11.34,4.23
 computer-and-technology-10,Debt-to-Equity,,0.59,0.03
-computer-and-technology-10,Current Ratio,,1.19,1.83
-computer-and-technology-10,Cash Flow ($/share),,2800.60,48.78
-computer-and-technology-10,Price to Book,,3.66,2.13
-computer-and-technology-10,Price To Sales,,2.66,1.82
-computer-and-technology-10,Dividend Yield,,1.73%,0.00%
-construction-8,1 Month,-7.56,-12.13,
-construction-8,3 Months,-15.89,-14.33,
-construction-8,YTD,-14.95,-13.47,
-construction-8,1 Year,-14.45,-0.05,
-construction-8,3 Years,35.41,15.26,
-construction-8,5 Years,192.35,117.02,
-construction-8,PE (F1),,16.90,14.58
-construction-8,PEG (Ratio),,1.91,1.64
-construction-8,Proj EPS Growth,,6.69%,4.09%
+computer-and-technology-10,Current Ratio,,1.19,1.79
+computer-and-technology-10,Cash Flow ($/share),,2821.00,48.49
+computer-and-technology-10,Price to Book,,3.85,2.26
+computer-and-technology-10,Price To Sales,,2.75,1.90
+computer-and-technology-10,Dividend Yield,,1.68%,0.00%
+construction-8,1 Month,-5.19,-3.56,
+construction-8,3 Months,-11.63,-7.64,
+construction-8,YTD,-13.2,-8.48,
+construction-8,1 Year,-11.73,4.64,
+construction-8,3 Years,44.42,26.36,
+construction-8,5 Years,149.85,104.14,
+construction-8,PE (F1),,17.47,14.84
+construction-8,PEG (Ratio),,1.97,1.74
+construction-8,Proj EPS Growth,,6.35%,4.30%
 construction-8,Hist EPS Growth,,10.13%,18.66%
 construction-8,Net Margin,,12.68%,7.52%
-construction-8,Hist Sales Growth,,8.46%,8.41%
-construction-8,Hist Dividend Growth,,3.66%,0.00%
+construction-8,Hist Sales Growth,,8.46%,8.31%
+construction-8,Hist Dividend Growth,,3.85%,0.00%
 construction-8,Beta,,1.02,1.22
-construction-8,ROE,,17.14,15.14
+construction-8,ROE,,17.11,14.97
 construction-8,ROA,,6.82,8.35
 construction-8,ROI,,11.34,11.52
 construction-8,Debt-to-Equity,,0.59,0.33
-construction-8,Current Ratio,,1.19,2.00
-construction-8,Cash Flow ($/share),,2800.60,316.06
-construction-8,Price to Book,,3.66,1.95
-construction-8,Price To Sales,,2.66,1.14
-construction-8,Dividend Yield,,1.73%,0.00%
-consumer-discretionary-2,1 Month,-19.11,-12.13,
-consumer-discretionary-2,3 Months,-18.39,-14.33,
-consumer-discretionary-2,YTD,-18.49,-13.47,
-consumer-discretionary-2,1 Year,-10.13,-0.05,
-consumer-discretionary-2,3 Years,-22.16,15.26,
-consumer-discretionary-2,5 Years,2.02,117.02,
-consumer-discretionary-2,PE (F1),,16.90,15.09
-consumer-discretionary-2,PEG (Ratio),,1.92,1.17
-consumer-discretionary-2,Proj EPS Growth,,6.69%,16.47%
+construction-8,Current Ratio,,1.19,2.03
+construction-8,Cash Flow ($/share),,2821.00,328.70
+construction-8,Price to Book,,3.85,1.96
+construction-8,Price To Sales,,2.75,1.17
+construction-8,Dividend Yield,,1.68%,0.00%
+consumer-discretionary-2,1 Month,-6.56,-3.56,
+consumer-discretionary-2,3 Months,-8.35,-7.64,
+consumer-discretionary-2,YTD,-10.82,-8.48,
+consumer-discretionary-2,1 Year,-1.16,4.64,
+consumer-discretionary-2,3 Years,-8.58,26.36,
+consumer-discretionary-2,5 Years,3.93,104.14,
+consumer-discretionary-2,PE (F1),,17.47,15.15
+consumer-discretionary-2,PEG (Ratio),,1.97,1.18
+consumer-discretionary-2,Proj EPS Growth,,6.35%,15.69%
 consumer-discretionary-2,Hist EPS Growth,,10.13%,8.19%
 consumer-discretionary-2,Net Margin,,12.68%,0.94%
-consumer-discretionary-2,Hist Sales Growth,,8.46%,6.44%
-consumer-discretionary-2,Hist Dividend Growth,,3.66%,0.00%
+consumer-discretionary-2,Hist Sales Growth,,8.46%,6.52%
+consumer-discretionary-2,Hist Dividend Growth,,3.85%,0.00%
 consumer-discretionary-2,Beta,,1.02,1.03
-consumer-discretionary-2,ROE,,17.14,5.38
-consumer-discretionary-2,ROA,,6.82,2.03
-consumer-discretionary-2,ROI,,11.34,3.49
-consumer-discretionary-2,Debt-to-Equity,,0.59,0.18
-consumer-discretionary-2,Current Ratio,,1.19,1.38
-consumer-discretionary-2,Cash Flow ($/share),,2800.60,45.83
-consumer-discretionary-2,Price to Book,,3.66,1.47
-consumer-discretionary-2,Price To Sales,,2.66,0.76
-consumer-discretionary-2,Dividend Yield,,1.73%,0.00%
-consumer-staples-1,1 Month,2.75,-12.13,
-consumer-staples-1,3 Months,8.68,-14.33,
-consumer-staples-1,YTD,7.9,-13.47,
-consumer-staples-1,1 Year,6.53,-0.05,
-consumer-staples-1,3 Years,-2.69,15.26,
-consumer-staples-1,5 Years,33.56,117.02,
-consumer-staples-1,PE (F1),,16.90,15.95
-consumer-staples-1,PEG (Ratio),,1.92,1.96
-consumer-staples-1,Proj EPS Growth,,6.69%,5.46%
-consumer-staples-1,Hist EPS Growth,,10.13%,4.91%
-consumer-staples-1,Net Margin,,12.68%,2.43%
-consumer-staples-1,Hist Sales Growth,,8.46%,5.49%
-consumer-staples-1,Hist Dividend Growth,,3.66%,0.00%
+consumer-discretionary-2,ROE,,17.11,5.29
+consumer-discretionary-2,ROA,,6.82,2.00
+consumer-discretionary-2,ROI,,11.34,3.41
+consumer-discretionary-2,Debt-to-Equity,,0.59,0.16
+consumer-discretionary-2,Current Ratio,,1.19,1.39
+consumer-discretionary-2,Cash Flow ($/share),,2821.00,43.96
+consumer-discretionary-2,Price to Book,,3.85,1.45
+consumer-discretionary-2,Price To Sales,,2.75,0.81
+consumer-discretionary-2,Dividend Yield,,1.68%,0.00%
+consumer-staples-1,1 Month,0.46,-3.56,
+consumer-staples-1,3 Months,10.87,-7.64,
+consumer-staples-1,YTD,6.0,-8.48,
+consumer-staples-1,1 Year,4.51,4.64,
+consumer-staples-1,3 Years,-6.38,26.36,
+consumer-staples-1,5 Years,19.69,104.14,
+consumer-staples-1,PE (F1),,17.47,15.83
+consumer-staples-1,PEG (Ratio),,1.97,1.99
+consumer-staples-1,Proj EPS Growth,,6.35%,5.62%
+consumer-staples-1,Hist EPS Growth,,10.13%,5.17%
+consumer-staples-1,Net Margin,,12.68%,2.40%
+consumer-staples-1,Hist Sales Growth,,8.46%,5.59%
+consumer-staples-1,Hist Dividend Growth,,3.85%,0.00%
 consumer-staples-1,Beta,,1.02,0.72
-consumer-staples-1,ROE,,17.14,10.01
+consumer-staples-1,ROE,,17.11,9.81
 consumer-staples-1,ROA,,6.82,3.73
 consumer-staples-1,ROI,,11.34,6.38
 consumer-staples-1,Debt-to-Equity,,0.59,0.38
-consumer-staples-1,Current Ratio,,1.19,1.39
-consumer-staples-1,Cash Flow ($/share),,2800.60,134.83
-consumer-staples-1,Price to Book,,3.66,2.10
-consumer-staples-1,Price To Sales,,2.66,0.86
-consumer-staples-1,Dividend Yield,,1.73%,0.00%
-finance-13,1 Month,-9.66,-12.13,
-finance-13,3 Months,-8.08,-14.33,
-finance-13,YTD,-7.48,-13.47,
-finance-13,1 Year,5.21,-0.05,
-finance-13,3 Years,11.52,15.26,
-finance-13,5 Years,98.01,117.02,
-finance-13,PE (F1),,16.90,9.56
-finance-13,PEG (Ratio),,1.92,1.25
-finance-13,Proj EPS Growth,,6.69%,6.24%
+consumer-staples-1,Current Ratio,,1.19,1.38
+consumer-staples-1,Cash Flow ($/share),,2821.00,141.45
+consumer-staples-1,Price to Book,,3.85,2.10
+consumer-staples-1,Price To Sales,,2.75,0.90
+consumer-staples-1,Dividend Yield,,1.68%,0.00%
+finance-13,1 Month,-2.86,-3.56,
+finance-13,3 Months,-1.98,-7.64,
+finance-13,YTD,-3.84,-8.48,
+finance-13,1 Year,10.73,4.64,
+finance-13,3 Years,18.95,26.36,
+finance-13,5 Years,77.99,104.14,
+finance-13,PE (F1),,17.47,9.61
+finance-13,PEG (Ratio),,1.97,1.30
+finance-13,Proj EPS Growth,,6.35%,5.56%
 finance-13,Hist EPS Growth,,10.13%,5.50%
-finance-13,Net Margin,,12.68%,13.04%
+finance-13,Net Margin,,12.68%,13.14%
 finance-13,Hist Sales Growth,,8.46%,11.36%
-finance-13,Hist Dividend Growth,,3.66%,0.00%
+finance-13,Hist Dividend Growth,,3.85%,0.00%
 finance-13,Beta,,1.02,0.77
-finance-13,ROE,,17.14,9.42
+finance-13,ROE,,17.11,9.45
 finance-13,ROA,,6.82,1.12
-finance-13,ROI,,11.34,5.71
-finance-13,Debt-to-Equity,,0.59,0.37
+finance-13,ROI,,11.34,5.75
+finance-13,Debt-to-Equity,,0.59,0.36
 finance-13,Current Ratio,,1.19,0.98
-finance-13,Cash Flow ($/share),,2800.60,81.77
-finance-13,Price to Book,,3.66,1.00
-finance-13,Price To Sales,,2.66,1.77
-finance-13,Dividend Yield,,1.73%,2.54%
-industrial-products-7,1 Month,-10.4,-12.13,
-industrial-products-7,3 Months,-15.77,-14.33,
-industrial-products-7,YTD,-15.34,-13.47,
-industrial-products-7,1 Year,-17.62,-0.05,
-industrial-products-7,3 Years,-4.92,15.26,
-industrial-products-7,5 Years,82.7,117.02,
-industrial-products-7,PE (F1),,16.90,16.23
-industrial-products-7,PEG (Ratio),,1.92,1.48
-industrial-products-7,Proj EPS Growth,,6.69%,8.37%
+finance-13,Cash Flow ($/share),,2821.00,82.10
+finance-13,Price to Book,,3.85,0.99
+finance-13,Price To Sales,,2.75,1.76
+finance-13,Dividend Yield,,1.68%,2.55%
+industrial-products-7,1 Month,-8.23,-3.56,
+industrial-products-7,3 Months,-11.2,-7.64,
+industrial-products-7,YTD,-12.71,-8.48,
+industrial-products-7,1 Year,-14.74,4.64,
+industrial-products-7,3 Years,2.26,26.36,
+industrial-products-7,5 Years,66.21,104.14,
+industrial-products-7,PE (F1),,17.47,17.03
+industrial-products-7,PEG (Ratio),,1.97,1.61
+industrial-products-7,Proj EPS Growth,,6.35%,8.15%
 industrial-products-7,Hist EPS Growth,,10.13%,13.10%
-industrial-products-7,Net Margin,,12.68%,4.44%
-industrial-products-7,Hist Sales Growth,,8.46%,6.80%
-industrial-products-7,Hist Dividend Growth,,3.66%,0.00%
+industrial-products-7,Net Margin,,12.68%,4.46%
+industrial-products-7,Hist Sales Growth,,8.46%,6.43%
+industrial-products-7,Hist Dividend Growth,,3.85%,0.00%
 industrial-products-7,Beta,,1.02,1.03
-industrial-products-7,ROE,,17.14,11.87
-industrial-products-7,ROA,,6.82,5.00
-industrial-products-7,ROI,,11.34,7.71
+industrial-products-7,ROE,,17.11,12.08
+industrial-products-7,ROA,,6.82,5.01
+industrial-products-7,ROI,,11.34,7.88
 industrial-products-7,Debt-to-Equity,,0.59,0.33
-industrial-products-7,Current Ratio,,1.19,1.98
-industrial-products-7,Cash Flow ($/share),,2800.60,112.19
-industrial-products-7,Price to Book,,3.66,2.02
-industrial-products-7,Price To Sales,,2.66,1.12
-industrial-products-7,Dividend Yield,,1.73%,0.00%
-medical-4,1 Month,-10.2,-12.13,
-medical-4,3 Months,-5.84,-14.33,
-medical-4,YTD,-4.79,-13.47,
-medical-4,1 Year,-12.88,-0.05,
-medical-4,3 Years,-22.41,15.26,
-medical-4,5 Years,0.07,117.02,
-medical-4,PE (F1),,16.90,16.47
-medical-4,PEG (Ratio),,1.92,1.55
-medical-4,Proj EPS Growth,,6.69%,14.07%
+industrial-products-7,Current Ratio,,1.19,1.97
+industrial-products-7,Cash Flow ($/share),,2821.00,112.45
+industrial-products-7,Price to Book,,3.85,2.13
+industrial-products-7,Price To Sales,,2.75,1.14
+industrial-products-7,Dividend Yield,,1.68%,0.00%
+medical-4,1 Month,-8.97,-3.56,
+medical-4,3 Months,-6.62,-7.64,
+medical-4,YTD,-5.52,-8.48,
+medical-4,1 Year,-13.32,4.64,
+medical-4,3 Years,-24.04,26.36,
+medical-4,5 Years,-8.57,104.14,
+medical-4,PE (F1),,17.47,16.60
+medical-4,PEG (Ratio),,1.97,1.56
+medical-4,Proj EPS Growth,,6.35%,14.07%
 medical-4,Hist EPS Growth,,10.13%,4.98%
-medical-4,Net Margin,,12.68%,-26.51%
-medical-4,Hist Sales Growth,,8.46%,10.01%
-medical-4,Hist Dividend Growth,,3.66%,0.00%
+medical-4,Net Margin,,12.68%,-26.57%
+medical-4,Hist Sales Growth,,8.46%,9.75%
+medical-4,Hist Dividend Growth,,3.85%,0.00%
 medical-4,Beta,,1.02,0.95
-medical-4,ROE,,17.14,-43.85
-medical-4,ROA,,6.82,-32.82
-medical-4,ROI,,11.34,-38.85
+medical-4,ROE,,17.11,-44.29
+medical-4,ROA,,6.82,-33.06
+medical-4,ROI,,11.34,-38.86
 medical-4,Debt-to-Equity,,0.59,0.00
-medical-4,Current Ratio,,1.19,2.87
-medical-4,Cash Flow ($/share),,2800.60,-11.88
-medical-4,Price to Book,,3.66,1.57
-medical-4,Price To Sales,,2.66,2.57
-medical-4,Dividend Yield,,1.73%,0.00%
-multi-sector-conglomerates-9,1 Month,-9.47,-12.13,
-multi-sector-conglomerates-9,3 Months,-10.97,-14.33,
-multi-sector-conglomerates-9,YTD,-10.59,-13.47,
-multi-sector-conglomerates-9,1 Year,-1.1,-0.05,
-multi-sector-conglomerates-9,3 Years,-26.21,15.26,
-multi-sector-conglomerates-9,5 Years,-3.95,117.02,
-multi-sector-conglomerates-9,PE (F1),,16.90,15.65
-multi-sector-conglomerates-9,PEG (Ratio),,1.92,1.35
-multi-sector-conglomerates-9,Proj EPS Growth,,6.69%,10.87%
-multi-sector-conglomerates-9,Hist EPS Growth,,10.13%,14.50%
-multi-sector-conglomerates-9,Net Margin,,12.68%,0.71%
-multi-sector-conglomerates-9,Hist Sales Growth,,8.46%,3.01%
-multi-sector-conglomerates-9,Hist Dividend Growth,,3.66%,0.00%
+medical-4,Current Ratio,,1.19,2.85
+medical-4,Cash Flow ($/share),,2821.00,-11.49
+medical-4,Price to Book,,3.85,1.55
+medical-4,Price To Sales,,2.75,2.59
+medical-4,Dividend Yield,,1.68%,0.00%
+multi-sector-conglomerates-9,1 Month,-6.43,-3.56,
+multi-sector-conglomerates-9,3 Months,-5.69,-7.64,
+multi-sector-conglomerates-9,YTD,-7.44,-8.48,
+multi-sector-conglomerates-9,1 Year,2.22,4.64,
+multi-sector-conglomerates-9,3 Years,-22.0,26.36,
+multi-sector-conglomerates-9,5 Years,-11.16,104.14,
+multi-sector-conglomerates-9,PE (F1),,17.47,16.30
+multi-sector-conglomerates-9,PEG (Ratio),,1.97,1.45
+multi-sector-conglomerates-9,Proj EPS Growth,,6.35%,10.87%
+multi-sector-conglomerates-9,Hist EPS Growth,,10.13%,13.90%
+multi-sector-conglomerates-9,Net Margin,,12.68%,5.81%
+multi-sector-conglomerates-9,Hist Sales Growth,,8.46%,2.61%
+multi-sector-conglomerates-9,Hist Dividend Growth,,3.85%,0.00%
 multi-sector-conglomerates-9,Beta,,1.02,0.70
-multi-sector-conglomerates-9,ROE,,17.14,1.89
-multi-sector-conglomerates-9,ROA,,6.82,-2.12
+multi-sector-conglomerates-9,ROE,,17.11,1.89
+multi-sector-conglomerates-9,ROA,,6.82,0.92
 multi-sector-conglomerates-9,ROI,,11.34,1.00
-multi-sector-conglomerates-9,Debt-to-Equity,,0.59,0.15
-multi-sector-conglomerates-9,Current Ratio,,1.19,1.41
-multi-sector-conglomerates-9,Cash Flow ($/share),,2800.60,11.36
-multi-sector-conglomerates-9,Price to Book,,3.66,0.99
-multi-sector-conglomerates-9,Price To Sales,,2.66,1.02
-multi-sector-conglomerates-9,Dividend Yield,,1.73%,0.00%
-oils-and-energy-12,1 Month,-7.71,-12.13,
-oils-and-energy-12,3 Months,-11.78,-14.33,
-oils-and-energy-12,YTD,-9.48,-13.47,
-oils-and-energy-12,1 Year,-16.3,-0.05,
-oils-and-energy-12,3 Years,-7.69,15.26,
-oils-and-energy-12,5 Years,99.31,117.02,
-oils-and-energy-12,PE (F1),,16.90,10.62
-oils-and-energy-12,PEG (Ratio),,1.92,1.13
-oils-and-energy-12,Proj EPS Growth,,6.69%,11.09%
+multi-sector-conglomerates-9,Debt-to-Equity,,0.59,0.22
+multi-sector-conglomerates-9,Current Ratio,,1.19,1.42
+multi-sector-conglomerates-9,Cash Flow ($/share),,2821.00,18.94
+multi-sector-conglomerates-9,Price to Book,,3.85,1.08
+multi-sector-conglomerates-9,Price To Sales,,2.75,0.98
+multi-sector-conglomerates-9,Dividend Yield,,1.68%,0.00%
+oils-and-energy-12,1 Month,-8.15,-3.56,
+oils-and-energy-12,3 Months,-13.75,-7.64,
+oils-and-energy-12,YTD,-10.13,-8.48,
+oils-and-energy-12,1 Year,-17.51,4.64,
+oils-and-energy-12,3 Years,-7.48,26.36,
+oils-and-energy-12,5 Years,85.68,104.14,
+oils-and-energy-12,PE (F1),,17.47,10.60
+oils-and-energy-12,PEG (Ratio),,1.97,1.16
+oils-and-energy-12,Proj EPS Growth,,6.35%,9.55%
 oils-and-energy-12,Hist EPS Growth,,10.13%,28.38%
-oils-and-energy-12,Net Margin,,12.68%,6.17%
-oils-and-energy-12,Hist Sales Growth,,8.46%,15.59%
-oils-and-energy-12,Hist Dividend Growth,,3.66%,0.00%
-oils-and-energy-12,Beta,,1.02,0.91
-oils-and-energy-12,ROE,,17.14,7.57
-oils-and-energy-12,ROA,,6.82,3.51
-oils-and-energy-12,ROI,,11.34,4.94
+oils-and-energy-12,Net Margin,,12.68%,6.08%
+oils-and-energy-12,Hist Sales Growth,,8.46%,15.61%
+oils-and-energy-12,Hist Dividend Growth,,3.85%,0.00%
+oils-and-energy-12,Beta,,1.02,0.90
+oils-and-energy-12,ROE,,17.11,7.66
+oils-and-energy-12,ROA,,6.82,3.54
+oils-and-energy-12,ROI,,11.34,4.99
 oils-and-energy-12,Debt-to-Equity,,0.59,0.26
-oils-and-energy-12,Current Ratio,,1.19,1.29
-oils-and-energy-12,Cash Flow ($/share),,2800.60,135.98
-oils-and-energy-12,Price to Book,,3.66,1.13
-oils-and-energy-12,Price To Sales,,2.66,1.09
-oils-and-energy-12,Dividend Yield,,1.73%,0.00%
-retail-and-wholesale-3,1 Month,-11.71,-12.13,
-retail-and-wholesale-3,3 Months,-11.58,-14.33,
-retail-and-wholesale-3,YTD,-10.57,-13.47,
-retail-and-wholesale-3,1 Year,5.42,-0.05,
-retail-and-wholesale-3,3 Years,11.45,15.26,
-retail-and-wholesale-3,5 Years,61.23,117.02,
-retail-and-wholesale-3,PE (F1),,16.90,15.79
-retail-and-wholesale-3,PEG (Ratio),,1.92,1.63
-retail-and-wholesale-3,Proj EPS Growth,,6.69%,8.82%
+oils-and-energy-12,Current Ratio,,1.19,1.27
+oils-and-energy-12,Cash Flow ($/share),,2821.00,139.18
+oils-and-energy-12,Price to Book,,3.85,1.18
+oils-and-energy-12,Price To Sales,,2.75,1.09
+oils-and-energy-12,Dividend Yield,,1.68%,0.00%
+retail-and-wholesale-3,1 Month,-3.65,-3.56,
+retail-and-wholesale-3,3 Months,-6.23,-7.64,
+retail-and-wholesale-3,YTD,-6.37,-8.48,
+retail-and-wholesale-3,1 Year,8.3,4.64,
+retail-and-wholesale-3,3 Years,22.77,26.36,
+retail-and-wholesale-3,5 Years,53.69,104.14,
+retail-and-wholesale-3,PE (F1),,17.47,16.05
+retail-and-wholesale-3,PEG (Ratio),,1.97,1.65
+retail-and-wholesale-3,Proj EPS Growth,,6.35%,7.89%
 retail-and-wholesale-3,Hist EPS Growth,,10.13%,13.21%
 retail-and-wholesale-3,Net Margin,,12.68%,2.37%
 retail-and-wholesale-3,Hist Sales Growth,,8.46%,7.24%
-retail-and-wholesale-3,Hist Dividend Growth,,3.66%,0.00%
-retail-and-wholesale-3,Beta,,1.02,1.15
-retail-and-wholesale-3,ROE,,17.14,9.02
-retail-and-wholesale-3,ROA,,6.82,3.78
-retail-and-wholesale-3,ROI,,11.34,8.24
+retail-and-wholesale-3,Hist Dividend Growth,,3.85%,0.00%
+retail-and-wholesale-3,Beta,,1.02,1.14
+retail-and-wholesale-3,ROE,,17.11,9.00
+retail-and-wholesale-3,ROA,,6.82,3.74
+retail-and-wholesale-3,ROI,,11.34,8.12
 retail-and-wholesale-3,Debt-to-Equity,,0.59,0.18
-retail-and-wholesale-3,Current Ratio,,1.19,1.28
-retail-and-wholesale-3,Cash Flow ($/share),,2800.60,130.35
-retail-and-wholesale-3,Price to Book,,3.66,2.01
-retail-and-wholesale-3,Price To Sales,,2.66,0.53
-retail-and-wholesale-3,Dividend Yield,,1.73%,0.00%
-transportation-15,1 Month,-24.11,-12.13,
-transportation-15,3 Months,-25.18,-14.33,
-transportation-15,YTD,-24.61,-13.47,
-transportation-15,1 Year,-31.01,-0.05,
-transportation-15,3 Years,-28.81,15.26,
-transportation-15,5 Years,23.9,117.02,
-transportation-15,PE (F1),,16.90,10.42
-transportation-15,PEG (Ratio),,1.92,0.98
-transportation-15,Proj EPS Growth,,6.69%,7.17%
+retail-and-wholesale-3,Current Ratio,,1.19,1.25
+retail-and-wholesale-3,Cash Flow ($/share),,2821.00,136.43
+retail-and-wholesale-3,Price to Book,,3.85,2.04
+retail-and-wholesale-3,Price To Sales,,2.75,0.54
+retail-and-wholesale-3,Dividend Yield,,1.68%,0.00%
+transportation-15,1 Month,-8.03,-3.56,
+transportation-15,3 Months,-14.71,-7.64,
+transportation-15,YTD,-14.53,-8.48,
+transportation-15,1 Year,-21.23,4.64,
+transportation-15,3 Years,-20.23,26.36,
+transportation-15,5 Years,18.19,104.14,
+transportation-15,PE (F1),,17.47,10.47
+transportation-15,PEG (Ratio),,1.97,1.00
+transportation-15,Proj EPS Growth,,6.35%,6.68%
 transportation-15,Hist EPS Growth,,10.13%,13.62%
 transportation-15,Net Margin,,12.68%,6.35%
 transportation-15,Hist Sales Growth,,8.46%,12.16%
-transportation-15,Hist Dividend Growth,,3.66%,0.00%
+transportation-15,Hist Dividend Growth,,3.85%,0.00%
 transportation-15,Beta,,1.02,1.06
-transportation-15,ROE,,17.14,13.20
-transportation-15,ROA,,6.82,5.30
-transportation-15,ROI,,11.34,7.13
-transportation-15,Debt-to-Equity,,0.59,0.52
+transportation-15,ROE,,17.11,13.16
+transportation-15,ROA,,6.82,5.15
+transportation-15,ROI,,11.34,7.08
+transportation-15,Debt-to-Equity,,0.59,0.51
 transportation-15,Current Ratio,,1.19,1.25
-transportation-15,Cash Flow ($/share),,2800.60,302.65
-transportation-15,Price to Book,,3.66,1.19
-transportation-15,Price To Sales,,2.66,0.75
-transportation-15,Dividend Yield,,1.73%,0.00%
-utilities-14,1 Month,-1.67,-12.13,
-utilities-14,3 Months,0.13,-14.33,
-utilities-14,YTD,1.04,-13.47,
-utilities-14,1 Year,9.94,-0.05,
-utilities-14,3 Years,-13.29,15.26,
-utilities-14,5 Years,20.28,117.02,
-utilities-14,PE (F1),,16.90,17.17
-utilities-14,PEG (Ratio),,1.91,2.67
-utilities-14,Proj EPS Growth,,6.69%,4.99%
-utilities-14,Hist EPS Growth,,10.13%,4.03%
-utilities-14,Net Margin,,12.68%,12.56%
-utilities-14,Hist Sales Growth,,8.46%,6.26%
-utilities-14,Hist Dividend Growth,,3.66%,0.53%
+transportation-15,Cash Flow ($/share),,2821.00,302.65
+transportation-15,Price to Book,,3.85,1.15
+transportation-15,Price To Sales,,2.75,0.75
+transportation-15,Dividend Yield,,1.68%,0.00%
+utilities-14,1 Month,-0.35,-3.56,
+utilities-14,3 Months,5.15,-7.64,
+utilities-14,YTD,2.49,-8.48,
+utilities-14,1 Year,13.08,4.64,
+utilities-14,3 Years,-12.88,26.36,
+utilities-14,5 Years,6.21,104.14,
+utilities-14,PE (F1),,17.47,17.83
+utilities-14,PEG (Ratio),,1.97,2.71
+utilities-14,Proj EPS Growth,,6.35%,4.62%
+utilities-14,Hist EPS Growth,,10.13%,4.28%
+utilities-14,Net Margin,,12.68%,12.41%
+utilities-14,Hist Sales Growth,,8.46%,6.57%
+utilities-14,Hist Dividend Growth,,3.85%,0.28%
 utilities-14,Beta,,1.02,0.58
-utilities-14,ROE,,17.14,9.56
-utilities-14,ROA,,6.82,3.00
+utilities-14,ROE,,17.11,9.56
+utilities-14,ROA,,6.82,3.03
 utilities-14,ROI,,11.34,4.53
-utilities-14,Debt-to-Equity,,0.59,1.06
-utilities-14,Current Ratio,,1.19,0.86
-utilities-14,Cash Flow ($/share),,2800.60,961.00
-utilities-14,Price to Book,,3.66,1.57
-utilities-14,Price To Sales,,2.66,2.09
-utilities-14,Dividend Yield,,1.73%,2.77%
+utilities-14,Debt-to-Equity,,0.59,1.08
+utilities-14,Current Ratio,,1.19,0.85
+utilities-14,Cash Flow ($/share),,2821.00,990.50
+utilities-14,Price to Book,,3.85,1.65
+utilities-14,Price To Sales,,2.75,2.14
+utilities-14,Dividend Yield,,1.68%,2.76%
